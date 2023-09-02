@@ -1,0 +1,1019 @@
+{
+    "status": true,
+    "nomor": 11,
+    "nama": "\u0647\u0648\u062f",
+    "nama_latin": "Hud",
+    "jumlah_ayat": 123,
+    "tempat_turun": "mekah",
+    "arti": "Hud",
+    "deskripsi": "Surat Huud termasuk golongan surat-surat Makkiyyah, terdiri dari 123 ayat diturunkan sesudah surat Yunus. Surat ini dinamai <i>surat Huud</i> karena ada hubungan dengan terdapatnya kisah Nabi Huud a.s. dan kaumnya dalam surat ini terdapat juga kisah-kisah Nabi yang lain, seperti kisah Nuh a.s., Shaleh a.s., Ibrahim a.s., Luth a.s., Syu'aib a.s. dan Musa a.s.",
+    "audio": "https://santrikoding.com/storage/audio/011.mp3",
+    "ayat": [
+        {
+            "id": 1474,
+            "surah": 11,
+            "nomor": 1,
+            "ar": "\u0627\u0644\u06e4\u0631\u0670 \u06d7 \u0643\u0650\u062a\u0670\u0628\u064c \u0627\u064f\u062d\u0652\u0643\u0650\u0645\u064e\u062a\u0652 \u0627\u0670\u064a\u0670\u062a\u064f\u0647\u0657 \u062b\u064f\u0645\u0651\u064e \u0641\u064f\u0635\u0651\u0650\u0644\u064e\u062a\u0652 \u0645\u0650\u0646\u0652 \u0644\u0651\u064e\u062f\u064f\u0646\u0652 \u062d\u064e\u0643\u0650\u064a\u0652\u0645\u064d \u062e\u064e\u0628\u0650\u064a\u0652\u0631\u064d\u06d9",
+            "tr": "alif-l<u>aa</u>m-r<u>aa</u> kit<u>aa</u>bun u<u>h</u>kimat <u>aa</u>y<u>aa</u>tuhu tsumma fu<u>shsh</u>ilat min ladun <u>h</u>akiimin khabiir<strong>in</strong>",
+            "idn": "Alif Lam Ra. (Inilah) Kitab yang ayat-ayatnya disusun dengan rapi kemudian dijelaskan secara terperinci, (yang diturunkan) dari sisi (Allah) Yang Mahabijaksana, Mahateliti,"
+        },
+        {
+            "id": 1475,
+            "surah": 11,
+            "nomor": 2,
+            "ar": "\u0627\u064e\u0644\u0651\u064e\u0627 \u062a\u064e\u0639\u0652\u0628\u064f\u062f\u064f\u0648\u0652\u0653\u0627 \u0627\u0650\u0644\u0651\u064e\u0627 \u0627\u0644\u0644\u0651\u0670\u0647\u064e \u06d7\u0627\u0650\u0646\u0651\u064e\u0646\u0650\u064a\u0652 \u0644\u064e\u0643\u064f\u0645\u0652 \u0645\u0650\u0651\u0646\u0652\u0647\u064f \u0646\u064e\u0630\u0650\u064a\u0652\u0631\u064c \u0648\u0651\u064e\u0628\u064e\u0634\u0650\u064a\u0652\u0631\u064c\u06d9 ",
+            "tr": "<strong>al</strong>l<u>aa</u> ta'buduu ill<u>aa</u> <strong>al</strong>l<u>aa</u>ha innanii lakum minhu na<u>dz</u>iirun wabasyiir<strong>un</strong>",
+            "idn": "agar kamu tidak menyembah selain Allah. Sesungguhnya aku (Muhammad) adalah pemberi peringatan dan pembawa berita gembira dari-Nya untukmu."
+        },
+        {
+            "id": 1476,
+            "surah": 11,
+            "nomor": 3,
+            "ar": "\u0648\u0651\u064e\u0627\u064e\u0646\u0650 \u0627\u0633\u0652\u062a\u064e\u063a\u0652\u0641\u0650\u0631\u064f\u0648\u0652\u0627 \u0631\u064e\u0628\u0651\u064e\u0643\u064f\u0645\u0652 \u062b\u064f\u0645\u0651\u064e \u062a\u064f\u0648\u0652\u0628\u064f\u0648\u0652\u0653\u0627 \u0627\u0650\u0644\u064e\u064a\u0652\u0647\u0650 \u064a\u064f\u0645\u064e\u062a\u0651\u0650\u0639\u0652\u0643\u064f\u0645\u0652 \u0645\u0651\u064e\u062a\u064e\u0627\u0639\u064b\u0627 \u062d\u064e\u0633\u064e\u0646\u064b\u0627 \u0627\u0650\u0644\u0670\u0653\u0649 \u0627\u064e\u062c\u064e\u0644\u064d \u0645\u0651\u064f\u0633\u064e\u0645\u0651\u064b\u0649 \u0648\u0651\u064e\u064a\u064f\u0624\u0652\u062a\u0650 \u0643\u064f\u0644\u0651\u064e \u0630\u0650\u064a\u0652 \u0641\u064e\u0636\u0652\u0644\u064d \u0641\u064e\u0636\u0652\u0644\u064e\u0647\u0657 \u06d7\u0648\u064e\u0627\u0650\u0646\u0652 \u062a\u064e\u0648\u064e\u0644\u0651\u064e\u0648\u0652\u0627 \u0641\u064e\u0627\u0650\u0646\u0651\u0650\u064a\u0652\u0653 \u0627\u064e\u062e\u064e\u0627\u0641\u064f \u0639\u064e\u0644\u064e\u064a\u0652\u0643\u064f\u0645\u0652 \u0639\u064e\u0630\u064e\u0627\u0628\u064e \u064a\u064e\u0648\u0652\u0645\u064d \u0643\u064e\u0628\u0650\u064a\u0652\u0631\u064d",
+            "tr": "wa-ani istaghfiruu rabbakum tsumma tuubuu ilayhi yumatti'kum mat<u>aa</u>'an <u>h</u>asanan il<u>aa</u> ajalin musamman wayu/ti kulla <u>dz</u>ii fa<u>dh</u>lin fa<u>dh</u>lahu wa-in tawallaw fa-inii akh<u>aa</u>fu 'alaykum 'a<u>dzaa</u>ba yawmin kabiir<strong>in</strong>",
+            "idn": "Dan hendaklah kamu memohon ampunan kepada Tuhanmu dan bertobat kepada-Nya, niscaya Dia akan memberi kenikmatan yang baik kepadamu sampai waktu yang telah ditentukan. Dan Dia akan memberikan karunia-Nya kepada setiap orang yang berbuat baik. Dan jika kamu berpaling, maka sungguh, aku takut kamu akan ditimpa azab pada hari yang besar (Kiamat)."
+        },
+        {
+            "id": 1477,
+            "surah": 11,
+            "nomor": 4,
+            "ar": "\u0627\u0650\u0644\u064e\u0649 \u0627\u0644\u0644\u0651\u0670\u0647\u0650 \u0645\u064e\u0631\u0652\u062c\u0650\u0639\u064f\u0643\u064f\u0645\u0652 \u06da\u0648\u064e\u0647\u064f\u0648\u064e \u0639\u064e\u0644\u0670\u0649 \u0643\u064f\u0644\u0651\u0650 \u0634\u064e\u064a\u0652\u0621\u064d \u0642\u064e\u062f\u0650\u064a\u0652\u0631\u064c ",
+            "tr": "il<u>aa</u> <strong>al</strong>l<u>aa</u>hi marji'ukum wahuwa 'al<u>aa</u> kulli syay-in qadiir<strong>un</strong>",
+            "idn": "Kepada Allah-lah kamu kembali. Dia Mahakuasa atas segala sesuatu."
+        },
+        {
+            "id": 1478,
+            "surah": 11,
+            "nomor": 5,
+            "ar": "\u0627\u064e\u0644\u064e\u0627\u0653 \u0627\u0650\u0646\u0651\u064e\u0647\u064f\u0645\u0652 \u064a\u064e\u062b\u0652\u0646\u064f\u0648\u0652\u0646\u064e \u0635\u064f\u062f\u064f\u0648\u0652\u0631\u064e\u0647\u064f\u0645\u0652 \u0644\u0650\u064a\u064e\u0633\u0652\u062a\u064e\u062e\u0652\u0641\u064f\u0648\u0652\u0627 \u0645\u0650\u0646\u0652\u0647\u064f\u06d7  \u0627\u064e\u0644\u064e\u0627 \u062d\u0650\u064a\u0652\u0646\u064e \u064a\u064e\u0633\u0652\u062a\u064e\u063a\u0652\u0634\u064f\u0648\u0652\u0646\u064e \u062b\u0650\u064a\u064e\u0627\u0628\u064e\u0647\u064f\u0645\u0652 \u06d9\u064a\u064e\u0639\u0652\u0644\u064e\u0645\u064f \u0645\u064e\u0627 \u064a\u064f\u0633\u0650\u0631\u0651\u064f\u0648\u0652\u0646\u064e \u0648\u064e\u0645\u064e\u0627 \u064a\u064f\u0639\u0652\u0644\u0650\u0646\u064f\u0648\u0652\u0646\u064e\u06da \u0627\u0650\u0646\u0651\u064e\u0647\u0657 \u0639\u064e\u0644\u0650\u064a\u0652\u0645\u064c \u06e2 \u0628\u0650\u0630\u064e\u0627\u062a\u0650 \u0627\u0644\u0635\u0651\u064f\u062f\u064f\u0648\u0652\u0631\u0650  \u06d4",
+            "tr": "al<u>aa</u> innahum yatsnuuna <u>sh</u>uduurahum liyastakhfuu minhu <strong>a</strong>l<u>aa</u> <u>h</u>iina yastaghsyuuna tsiy<u>aa</u>bahum ya'lamu m<u>aa</u> yusirruuna wam<u>aa</u> yu'linuuna innahu 'aliimun bi<u>dzaa</u>ti <strong>al</strong><u>shsh</u>uduur<strong>i</strong>",
+            "idn": "Ingatlah, sesungguhnya mereka (orang-orang munafik) memalingkan dada untuk menyembunyikan diri dari dia (Muhammad). Ingatlah, ketika mereka menyelimuti dirinya dengan kain, Allah mengetahui apa yang mereka sembunyikan dan apa yang mereka nyatakan, sungguh, Allah Maha Mengetahui (segala) isi hati."
+        },
+        {
+            "id": 1479,
+            "surah": 11,
+            "nomor": 6,
+            "ar": "\u06de \u0648\u064e\u0645\u064e\u0627 \u0645\u0650\u0646\u0652 \u062f\u064e\u0627\u06e4\u0628\u0651\u064e\u0629\u064d \u0641\u0650\u0649 \u0627\u0644\u0652\u0627\u064e\u0631\u0652\u0636\u0650 \u0627\u0650\u0644\u0651\u064e\u0627 \u0639\u064e\u0644\u064e\u0649 \u0627\u0644\u0644\u0651\u0670\u0647\u0650 \u0631\u0650\u0632\u0652\u0642\u064f\u0647\u064e\u0627 \u0648\u064e\u064a\u064e\u0639\u0652\u0644\u064e\u0645\u064f \u0645\u064f\u0633\u0652\u062a\u064e\u0642\u064e\u0631\u0651\u064e\u0647\u064e\u0627 \u0648\u064e\u0645\u064f\u0633\u0652\u062a\u064e\u0648\u0652\u062f\u064e\u0639\u064e\u0647\u064e\u0627 \u06d7 \u0643\u064f\u0644\u0651\u064c \u0641\u0650\u064a\u0652 \u0643\u0650\u062a\u0670\u0628\u064d \u0645\u0651\u064f\u0628\u0650\u064a\u0652\u0646\u064d",
+            "tr": "wam<u>aa</u> min d<u>aa</u>bbatin fii <strong>a</strong>l-ar<u>dh</u>i ill<u>aa</u> 'al<u>aa</u> <strong>al</strong>l<u>aa</u>hi rizquh<u>aa</u> waya'lamu mustaqarrah<u>aa</u> wamustawda'ah<u>aa</u> kullun fii kit<u>aa</u>bin mubiin<strong>in</strong>",
+            "idn": "Dan tidak satupun makhluk bergerak (bernyawa) di bumi melainkan semuanya dijamin Allah rezekinya. Dia mengetahui tempat kediamannya dan tempat penyimpanannya. Semua (tertulis) dalam Kitab yang nyata (Lauh Mahfuzh)."
+        },
+        {
+            "id": 1480,
+            "surah": 11,
+            "nomor": 7,
+            "ar": "\u0648\u064e\u0647\u064f\u0648\u064e \u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652 \u062e\u064e\u0644\u064e\u0642\u064e \u0627\u0644\u0633\u0651\u064e\u0645\u0670\u0648\u0670\u062a\u0650 \u0648\u064e\u0627\u0644\u0652\u0627\u064e\u0631\u0652\u0636\u064e \u0641\u0650\u064a\u0652 \u0633\u0650\u062a\u0651\u064e\u0629\u0650 \u0627\u064e\u064a\u0651\u064e\u0627\u0645\u064d \u0648\u0651\u064e\u0643\u064e\u0627\u0646\u064e \u0639\u064e\u0631\u0652\u0634\u064f\u0647\u0657 \u0639\u064e\u0644\u064e\u0649 \u0627\u0644\u0652\u0645\u064e\u0627\u06e4\u0621\u0650 \u0644\u0650\u064a\u064e\u0628\u0652\u0644\u064f\u0648\u064e\u0643\u064f\u0645\u0652 \u0627\u064e\u064a\u0651\u064f\u0643\u064f\u0645\u0652 \u0627\u064e\u062d\u0652\u0633\u064e\u0646\u064f \u0639\u064e\u0645\u064e\u0644\u064b\u0627 \u06d7\u0648\u064e\u0644\u064e\u0649\u0655\u0650\u0646\u0652 \u0642\u064f\u0644\u0652\u062a\u064e \u0627\u0650\u0646\u0651\u064e\u0643\u064f\u0645\u0652 \u0645\u0651\u064e\u0628\u0652\u0639\u064f\u0648\u0652\u062b\u064f\u0648\u0652\u0646\u064e \u0645\u0650\u0646\u0652\u06e2 \u0628\u064e\u0639\u0652\u062f\u0650 \u0627\u0644\u0652\u0645\u064e\u0648\u0652\u062a\u0650 \u0644\u064e\u064a\u064e\u0642\u064f\u0648\u0652\u0644\u064e\u0646\u0651\u064e \u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u0643\u064e\u0641\u064e\u0631\u064f\u0648\u0652\u0653\u0627 \u0627\u0650\u0646\u0652 \u0647\u0670",
+            "tr": "wahuwa <strong>al</strong>la<u>dz</u>ii khalaqa <strong>al</strong>ssam<u>aa</u>w<u>aa</u>ti wa<strong>a</strong>l-ar<u>dh</u>a fii sittati ayy<u>aa</u>min wak<u>aa</u>na 'arsyuhu 'al<u>aa</u> <strong>a</strong>lm<u>aa</u>-i liyabluwakum ayyukum a<u>h</u>sanu 'amalan wala-in qulta innakum mab'uutsuuna min ba'di <strong>a</strong>lmawti layaquulanna <strong>al</strong>la<u>dz</u>iina kafaruu in h<u>aadzaa</u> ill<u>aa</u> si<u>h</u>run mubiin<strong>un</strong>",
+            "idn": "Dan Dialah yang menciptakan langit dan bumi dalam enam masa, dan \u2018Arsy-Nya di atas air, agar Dia menguji siapakah di antara kamu yang lebih baik amalnya. Jika engkau berkata (kepada penduduk Mekah), \u201cSesungguhnya kamu akan dibangkitkan setelah mati,\u201d niscaya orang kafir itu akan berkata, \u201cIni hanyalah sihir yang nyata.\u201d"
+        },
+        {
+            "id": 1481,
+            "surah": 11,
+            "nomor": 8,
+            "ar": "\u0648\u064e\u0644\u064e\u0649\u0655\u0650\u0646\u0652 \u0627\u064e\u062e\u0651\u064e\u0631\u0652\u0646\u064e\u0627 \u0639\u064e\u0646\u0652\u0647\u064f\u0645\u064f \u0627\u0644\u0652\u0639\u064e\u0630\u064e\u0627\u0628\u064e \u0627\u0650\u0644\u0670\u0653\u0649 \u0627\u064f\u0645\u0651\u064e\u0629\u064d \u0645\u0651\u064e\u0639\u0652\u062f\u064f\u0648\u0652\u062f\u064e\u0629\u064d \u0644\u0651\u064e\u064a\u064e\u0642\u064f\u0648\u0652\u0644\u064f\u0646\u0651\u064e \u0645\u064e\u0627 \u064a\u064e\u062d\u0652\u0628\u0650\u0633\u064f\u0647\u0657 \u06d7 \u0627\u064e\u0644\u064e\u0627 \u064a\u064e\u0648\u0652\u0645\u064e \u064a\u064e\u0623\u0652\u062a\u0650\u064a\u0652\u0647\u0650\u0645\u0652 \u0644\u064e\u064a\u0652\u0633\u064e \u0645\u064e\u0635\u0652\u0631\u064f\u0648\u0652\u0641\u064b\u0627 \u0639\u064e\u0646\u0652\u0647\u064f\u0645\u0652 \u0648\u064e\u062d\u064e\u0627\u0642\u064e \u0628\u0650\u0647\u0650\u0645\u0652 \u0645\u0651\u064e\u0627 \u0643\u064e\u0627\u0646\u064f\u0648\u0652\u0627 \u0628\u0650\u0647\u0656 \u064a\u064e\u0633\u0652\u062a\u064e\u0647\u0652\u0632\u0650\u0621\u064f\u0648\u0652\u0646\u064e \u08d6 ",
+            "tr": "wala-in akhkharn<u>aa</u> 'anhumu <strong>a</strong>l'a<u>dzaa</u>ba il<u>aa</u> ummatin ma'duudatin layaquulunna m<u>aa</u> ya<u>h</u>bisuhu <strong>a</strong>l<u>aa</u> yawma ya/tiihim laysa ma<u>sh</u>ruufan 'anhum wa<u>haa</u>qa bihim m<u>aa</u> k<u>aa</u>nuu bihi yastahzi-uun<strong>a</strong>",
+            "idn": "Dan sungguh, jika Kami tangguhkan azab terhadap mereka sampai waktu yang ditentukan, niscaya mereka akan berkata, \u201cApakah yang menghalanginya?\u201d Ketahuilah, ketika azab itu datang kepada mereka, tidaklah dapat dielakkan oleh mereka. Mereka dikepung oleh (azab) yang dahulu mereka memperolok-olokkannya."
+        },
+        {
+            "id": 1482,
+            "surah": 11,
+            "nomor": 9,
+            "ar": "\u0648\u064e\u0644\u064e\u0649\u0655\u0650\u0646\u0652 \u0627\u064e\u0630\u064e\u0642\u0652\u0646\u064e\u0627 \u0627\u0644\u0652\u0627\u0650\u0646\u0652\u0633\u064e\u0627\u0646\u064e \u0645\u0650\u0646\u0651\u064e\u0627 \u0631\u064e\u062d\u0652\u0645\u064e\u0629\u064b \u062b\u064f\u0645\u0651\u064e \u0646\u064e\u0632\u064e\u0639\u0652\u0646\u0670\u0647\u064e\u0627 \u0645\u0650\u0646\u0652\u0647\u064f\u06da \u0627\u0650\u0646\u0651\u064e\u0647\u0657 \u0644\u064e\u064a\u064e\u0640\u0654\u064f\u0648\u0652\u0633\u064c \u0643\u064e\u0641\u064f\u0648\u0652\u0631\u064c",
+            "tr": "wala-in a<u>dz</u>aqn<u>aa</u> <strong>a</strong>l-ins<u>aa</u>na minn<u>aa</u> ra<u>h</u>matan tsumma naza'n<u>aa</u>h<u>aa</u> minhu innahu layauusun kafuur<strong>un</strong>",
+            "idn": "Dan jika Kami berikan rahmat Kami kepada manusia, kemudian (rahmat itu) Kami cabut kembali, pastilah dia menjadi putus asa dan tidak berterima kasih."
+        },
+        {
+            "id": 1483,
+            "surah": 11,
+            "nomor": 10,
+            "ar": "\u0648\u064e\u0644\u064e\u0649\u0655\u0650\u0646\u0652 \u0627\u064e\u0630\u064e\u0642\u0652\u0646\u0670\u0647\u064f \u0646\u064e\u0639\u0652\u0645\u064e\u0627\u06e4\u0621\u064e \u0628\u064e\u0639\u0652\u062f\u064e \u0636\u064e\u0631\u0651\u064e\u0627\u06e4\u0621\u064e \u0645\u064e\u0633\u0651\u064e\u062a\u0652\u0647\u064f \u0644\u064e\u064a\u064e\u0642\u064f\u0648\u0652\u0644\u064e\u0646\u0651\u064e \u0630\u064e\u0647\u064e\u0628\u064e \u0627\u0644\u0633\u0651\u064e\u064a\u0651\u0650\u0627\u0670\u062a\u064f \u0639\u064e\u0646\u0651\u0650\u064a\u0652 \u06d7\u0627\u0650\u0646\u0651\u064e\u0647\u0657 \u0644\u064e\u0641\u064e\u0631\u0650\u062d\u064c \u0641\u064e\u062e\u064f\u0648\u0652\u0631\u064c\u06d9  ",
+            "tr": "wala-in a<u>dz</u>aqn<u>aa</u>hu na'm<u>aa</u>-a ba'da <u>dh</u>arr<u>aa</u>-a massat-hu layaquulanna <u>dz</u>ahaba <strong>al</strong>ssayyi-<u>aa</u>tu 'annii innahu lafari<u>h</u>un fakhuur<strong>un</strong>",
+            "idn": "Dan jika Kami berikan kebahagiaan kepadanya setelah ditimpa bencana yang menimpanya, niscaya dia akan berkata, \u201cTelah hilang bencana itu dariku.\u201d Sesungguhnya dia (merasa) sangat gembira dan bangga,"
+        },
+        {
+            "id": 1484,
+            "surah": 11,
+            "nomor": 11,
+            "ar": "\u0627\u0650\u0644\u0651\u064e\u0627 \u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u0635\u064e\u0628\u064e\u0631\u064f\u0648\u0652\u0627 \u0648\u064e\u0639\u064e\u0645\u0650\u0644\u064f\u0648\u0627 \u0627\u0644\u0635\u0651\u0670\u0644\u0650\u062d\u0670\u062a\u0650\u06d7 \u0627\u064f\u0648\u0644\u0670\u06e4\u0649\u0655\u0650\u0643\u064e \u0644\u064e\u0647\u064f\u0645\u0652 \u0645\u0651\u064e\u063a\u0652\u0641\u0650\u0631\u064e\u0629\u064c \u0648\u0651\u064e\u0627\u064e\u062c\u0652\u0631\u064c \u0643\u064e\u0628\u0650\u064a\u0652\u0631\u064c",
+            "tr": "ill<u>aa</u> <strong>al</strong>la<u>dz</u>iina <u>sh</u>abaruu wa'amiluu <strong>al</strong><u>shshaa</u>li<u>haa</u>ti ul<u>aa</u>-ika lahum maghfiratun wa-ajrun kabiir<strong>un</strong>",
+            "idn": "kecuali orang-orang yang sabar, dan mengerjakan kebajikan, mereka memperoleh ampunan dan pahala yang besar."
+        },
+        {
+            "id": 1485,
+            "surah": 11,
+            "nomor": 12,
+            "ar": "\u0641\u064e\u0644\u064e\u0639\u064e\u0644\u0651\u064e\u0643\u064e \u062a\u064e\u0627\u0631\u0650\u0643\u064c\u06e2 \u0628\u064e\u0639\u0652\u0636\u064e \u0645\u064e\u0627 \u064a\u064f\u0648\u0652\u062d\u0670\u0649\u0653 \u0627\u0650\u0644\u064e\u064a\u0652\u0643\u064e \u0648\u064e\u0636\u064e\u0627\u06e4\u0649\u0655\u0650\u0642\u064c\u06e2 \u0628\u0650\u0647\u0656 \u0635\u064e\u062f\u0652\u0631\u064f\u0643\u064e \u0627\u064e\u0646\u0652 \u064a\u0651\u064e\u0642\u064f\u0648\u0652\u0644\u064f\u0648\u0652\u0627 \u0644\u064e\u0648\u0652\u0644\u064e\u0627\u0653 \u0627\u064f\u0646\u0652\u0632\u0650\u0644\u064e \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650 \u0643\u064e\u0646\u0652\u0632\u064c \u0627\u064e\u0648\u0652 \u062c\u064e\u0627\u06e4\u0621\u064e \u0645\u064e\u0639\u064e\u0647\u0657 \u0645\u064e\u0644\u064e\u0643\u064c  \u06d7\u0627\u0650\u0646\u0651\u064e\u0645\u064e\u0627\u0653 \u0627\u064e\u0646\u0652\u062a\u064e \u0646\u064e\u0630\u0650\u064a\u0652\u0631\u064c \u06d7 \u0648\u064e\u0627\u0644\u0644\u0651\u0670\u0647\u064f \u0639\u064e\u0644\u0670\u0649 \u0643\u064f\u0644\u0651\u0650 \u0634\u064e\u064a\u0652\u0621\u064d \u0648\u0651\u064e\u0643\u0650\u064a\u0652\u0644\u064c  \u06d7",
+            "tr": "fala'allaka t<u>aa</u>rikun ba'<u>dh</u>a m<u>aa</u> yuu<u>haa</u> ilayka wa<u>daa</u>-iqun bihi <u>sh</u>adruka an yaquuluu lawl<u>aa</u> unzila 'alayhi kanzun aw j<u>aa</u>-a ma'ahu malakun innam<u>aa</u> anta na<u>dz</u>iirun wa<strong>al</strong>l<u>aa</u>hu 'al<u>aa</u> kulli syay-in wakiil<strong>un</strong>",
+            "idn": "Maka boleh jadi engkau (Muhammad) hendak meninggalkan sebagian dari apa yang diwahyukan kepadamu dan dadamu sempit karenanya, karena mereka akan mengatakan, \u201cMengapa tidak diturunkan kepadanya harta (kekayaan) atau datang bersamanya malaikat?\u201d Sungguh, engkau hanyalah seorang pemberi peringatan dan Allah pemelihara segala sesuatu."
+        },
+        {
+            "id": 1486,
+            "surah": 11,
+            "nomor": 13,
+            "ar": "\u0627\u064e\u0645\u0652 \u064a\u064e\u0642\u064f\u0648\u0652\u0644\u064f\u0648\u0652\u0646\u064e \u0627\u0641\u0652\u062a\u064e\u0631\u0670\u0649\u0647\u064f \u06d7\u0642\u064f\u0644\u0652 \u0641\u064e\u0623\u0652\u062a\u064f\u0648\u0652\u0627 \u0628\u0650\u0639\u064e\u0634\u0652\u0631\u0650 \u0633\u064f\u0648\u064e\u0631\u064d \u0645\u0650\u0651\u062b\u0652\u0644\u0650\u0647\u0656 \u0645\u064f\u0641\u0652\u062a\u064e\u0631\u064e\u064a\u0670\u062a\u064d \u0648\u0651\u064e\u0627\u062f\u0652\u0639\u064f\u0648\u0652\u0627 \u0645\u064e\u0646\u0650 \u0627\u0633\u0652\u062a\u064e\u0637\u064e\u0639\u0652\u062a\u064f\u0645\u0652 \u0645\u0650\u0651\u0646\u0652 \u062f\u064f\u0648\u0652\u0646\u0650 \u0627\u0644\u0644\u0651\u0670\u0647\u0650 \u0627\u0650\u0646\u0652 \u0643\u064f\u0646\u0652\u062a\u064f\u0645\u0652 \u0635\u0670\u062f\u0650\u0642\u0650\u064a\u0652\u0646\u064e ",
+            "tr": "am yaquuluuna iftar<u>aa</u>hu qul fa/tuu bi'asyri suwarin mitslihi muftaray<u>aa</u>tin wa<strong>u</strong>d'uu mani ista<u>th</u>a'tum min duuni <strong>al</strong>l<u>aa</u>hi in kuntum <u>shaa</u>diqiin<strong>a</strong>",
+            "idn": "Bahkan mereka mengatakan, \u201cDia (Muhammad) telah membuat-buat Al-Qur'an itu.\u201d Katakanlah, \u201c(Kalau demikian), datangkanlah sepuluh surah semisal dengannya (Al-Qur'an) yang dibuat-buat, dan ajaklah siapa saja di antara kamu yang sanggup selain Allah, jika kamu orang-orang yang benar.\u201d"
+        },
+        {
+            "id": 1487,
+            "surah": 11,
+            "nomor": 14,
+            "ar": "\u0641\u064e\u0627\u0650\u0644\u0651\u064e\u0645\u0652 \u064a\u064e\u0633\u0652\u062a\u064e\u062c\u0650\u064a\u0652\u0628\u064f\u0648\u0652\u0627 \u0644\u064e\u0643\u064f\u0645\u0652 \u0641\u064e\u0627\u0639\u0652\u0644\u064e\u0645\u064f\u0648\u0652\u0653\u0627 \u0627\u064e\u0646\u0651\u064e\u0645\u064e\u0627\u0653 \u0627\u064f\u0646\u0652\u0632\u0650\u0644\u064e \u0628\u0650\u0639\u0650\u0644\u0652\u0645\u0650 \u0627\u0644\u0644\u0651\u0670\u0647\u0650 \u0648\u064e\u0627\u064e\u0646\u0652 \u0644\u0651\u064e\u0627\u0653 \u0627\u0650\u0644\u0670\u0647\u064e \u0627\u0650\u0644\u0651\u064e\u0627 \u0647\u064f\u0648\u064e \u06da\u0641\u064e\u0647\u064e\u0644\u0652 \u0627\u064e\u0646\u0652\u062a\u064f\u0645\u0652 \u0645\u0651\u064f\u0633\u0652\u0644\u0650\u0645\u064f\u0648\u0652\u0646\u064e",
+            "tr": "fa-illam yastajiibuu lakum fa<strong>i</strong>'lamuu annam<u>aa</u> unzila bi'ilmi <strong>al</strong>l<u>aa</u>hi wa-an l<u>aa</u> il<u>aa</u>ha ill<u>aa</u> huwa fahal antum muslimuun<strong>a</strong>",
+            "idn": "Maka jika mereka tidak memenuhi tantanganmu, maka (katakanlah), \u201cKetahuilah, bahwa (Al-Qur'an) itu diturunkan dengan ilmu Allah, dan bahwa tidak ada tuhan selain Dia, maka maukah kamu berserah diri (masuk Islam)?\u201d"
+        },
+        {
+            "id": 1488,
+            "surah": 11,
+            "nomor": 15,
+            "ar": "\u0645\u064e\u0646\u0652 \u0643\u064e\u0627\u0646\u064e \u064a\u064f\u0631\u0650\u064a\u0652\u062f\u064f \u0627\u0644\u0652\u062d\u064e\u064a\u0670\u0648\u0629\u064e \u0627\u0644\u062f\u0651\u064f\u0646\u0652\u064a\u064e\u0627 \u0648\u064e\u0632\u0650\u064a\u0652\u0646\u064e\u062a\u064e\u0647\u064e\u0627 \u0646\u064f\u0648\u064e\u0641\u0651\u0650 \u0627\u0650\u0644\u064e\u064a\u0652\u0647\u0650\u0645\u0652 \u0627\u064e\u0639\u0652\u0645\u064e\u0627\u0644\u064e\u0647\u064f\u0645\u0652 \u0641\u0650\u064a\u0652\u0647\u064e\u0627 \u0648\u064e\u0647\u064f\u0645\u0652 \u0641\u0650\u064a\u0652\u0647\u064e\u0627 \u0644\u064e\u0627 \u064a\u064f\u0628\u0652\u062e\u064e\u0633\u064f\u0648\u0652\u0646\u064e",
+            "tr": "man k<u>aa</u>na yuriidu <strong>a</strong>l<u>h</u>ay<u>aa</u>ta <strong>al</strong>dduny<u>aa</u> waziinatah<u>aa</u> nuwaffi ilayhim a'm<u>aa</u>lahum fiih<u>aa</u> wahum fiih<u>aa</u> l<u>aa</u> yubkhasuun<strong>a</strong>",
+            "idn": "Barangsiapa menghendaki kehidupan dunia dan perhiasannya, pasti Kami berikan (balasan) penuh atas pekerjaan mereka di dunia (dengan sempurna) dan mereka di dunia tidak akan dirugikan."
+        },
+        {
+            "id": 1489,
+            "surah": 11,
+            "nomor": 16,
+            "ar": "\u0627\u064f\u0648\u0644\u0670\u06e4\u0649\u0655\u0650\u0643\u064e \u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u0644\u064e\u064a\u0652\u0633\u064e \u0644\u064e\u0647\u064f\u0645\u0652 \u0641\u0650\u0649 \u0627\u0644\u0652\u0627\u0670\u062e\u0650\u0631\u064e\u0629\u0650 \u0627\u0650\u0644\u0651\u064e\u0627 \u0627\u0644\u0646\u0651\u064e\u0627\u0631\u064f \u06d6\u0648\u064e\u062d\u064e\u0628\u0650\u0637\u064e \u0645\u064e\u0627 \u0635\u064e\u0646\u064e\u0639\u064f\u0648\u0652\u0627 \u0641\u0650\u064a\u0652\u0647\u064e\u0627 \u0648\u064e\u0628\u0670\u0637\u0650\u0644\u064c \u0645\u0651\u064e\u0627 \u0643\u064e\u0627\u0646\u064f\u0648\u0652\u0627 \u064a\u064e\u0639\u0652\u0645\u064e\u0644\u064f\u0648\u0652\u0646\u064e",
+            "tr": "ul<u>aa</u>-ika <strong>al</strong>la<u>dz</u>iina laysa lahum fii <strong>a</strong>l-<u>aa</u>khirati ill<u>aa</u> <strong>al</strong>nn<u>aa</u>ru wa<u>h</u>abi<u>th</u>a m<u>aa</u> <u>sh</u>ana'uu fiih<u>aa</u> wab<u>aath</u>ilun m<u>aa</u> k<u>aa</u>nuu ya'maluun<strong>a</strong>",
+            "idn": "Itulah orang-orang yang tidak memperoleh (sesuatu) di akhirat kecuali neraka, dan sia-sialah di sana apa yang telah mereka usahakan (di dunia) dan terhapuslah apa yang telah mereka kerjakan. "
+        },
+        {
+            "id": 1490,
+            "surah": 11,
+            "nomor": 17,
+            "ar": "\u0627\u064e\u0641\u064e\u0645\u064e\u0646\u0652 \u0643\u064e\u0627\u0646\u064e \u0639\u064e\u0644\u0670\u0649 \u0628\u064e\u064a\u0651\u0650\u0646\u064e\u0629\u064d \u0645\u0650\u0651\u0646\u0652 \u0631\u0651\u064e\u0628\u0651\u0650\u0647\u0656 \u0648\u064e\u064a\u064e\u062a\u0652\u0644\u064f\u0648\u0652\u0647\u064f \u0634\u064e\u0627\u0647\u0650\u062f\u064c \u0645\u0650\u0651\u0646\u0652\u0647\u064f \u0648\u064e\u0645\u0650\u0646\u0652 \u0642\u064e\u0628\u0652\u0644\u0650\u0647\u0656 \u0643\u0650\u062a\u0670\u0628\u064f \u0645\u064f\u0648\u0652\u0633\u0670\u0649\u0653 \u0627\u0650\u0645\u064e\u0627\u0645\u064b\u0627 \u0648\u0651\u064e\u0631\u064e\u062d\u0652\u0645\u064e\u0629\u064b\u06d7  \u0627\u064f\u0648\u0644\u0670\u06e4\u0649\u0655\u0650\u0643\u064e \u064a\u064f\u0624\u0652\u0645\u0650\u0646\u064f\u0648\u0652\u0646\u064e \u0628\u0650\u0647\u0656 \u06d7\u0648\u064e\u0645\u064e\u0646\u0652 \u064a\u0651\u064e\u0643\u0652\u0641\u064f\u0631\u0652 \u0628\u0650\u0647\u0656 \u0645\u0650\u0646\u064e \u0627\u0644\u0652\u0627\u064e\u062d\u0652\u0632\u064e\u0627\u0628\u0650 \u0641\u064e\u0627\u0644\u0646\u0651\u064e\u0627\u0631\u064f \u0645\u064e\u0648\u0652\u0639\u0650\u062f\u064f\u0647\u0657 \u0641\u064e\u0644\u064e\u0627 \u062a\u064e\u0643\u064f \u0641\u0650\u064a\u0652 \u0645\u0650\u0631\u0652\u064a\u064e\u0629\u064d \u0645\u0650\u0651\u0646\u0652\u0647\u064f",
+            "tr": "afaman k<u>aa</u>na 'al<u>aa</u> bayyinatin min rabbihi wayatluuhu sy<u>aa</u>hidun minhu wamin qablihi kit<u>aa</u>bu muus<u>aa</u> im<u>aa</u>man wara<u>h</u>matan ul<u>aa</u>-ika yu/minuuna bihi waman yakfur bihi mina <strong>a</strong>l-a<u>h</u>z<u>aa</u>bi fa<strong>al</strong>nn<u>aa</u>ru maw'iduhu fal<u>aa</u> taku fii miryatin minhu innahu <strong>a</strong>l<u>h</u>aqqu min rabbika wal<u>aa</u>kinna aktsara <strong>al</strong>nn<u>aa</u>si l<u>aa</u> yu/minuun<strong>a</strong>",
+            "idn": "Maka apakah (orang-orang kafir itu sama dengan) orang yang sudah mempunyai bukti yang nyata (Al-Qur'an) dari Tuhannya, dan diikuti oleh saksi dari-Nya dan sebelumnya sudah ada pula Kitab Musa yang menjadi pedoman dan rahmat? Mereka beriman kepadanya (Al-Qur'an). Barangsiapa mengingkarinya (Al-Qur'an) di antara kelompok-kelompok (orang Quraisy), maka nerakalah tempat yang diancamkan baginya, karena itu janganlah engkau ragu terhadap Al-Qur'an. Sungguh, Al-Qur'an itu benar-benar dari Tuhanmu, tetapi kebanyakan manusia tidak beriman."
+        },
+        {
+            "id": 1491,
+            "surah": 11,
+            "nomor": 18,
+            "ar": "\u0648\u064e\u0645\u064e\u0646\u0652 \u0627\u064e\u0638\u0652\u0644\u064e\u0645\u064f \u0645\u0650\u0645\u0651\u064e\u0646\u0650 \u0627\u0641\u0652\u062a\u064e\u0631\u0670\u0649 \u0639\u064e\u0644\u064e\u0649 \u0627\u0644\u0644\u0651\u0670\u0647\u0650 \u0643\u064e\u0630\u0650\u0628\u064b\u0627\u06d7 \u0627\u064f\u0648\u0644\u0670\u06e4\u0649\u0655\u0650\u0643\u064e \u064a\u064f\u0639\u0652\u0631\u064e\u0636\u064f\u0648\u0652\u0646\u064e \u0639\u064e\u0644\u0670\u0649 \u0631\u064e\u0628\u0651\u0650\u0647\u0650\u0645\u0652 \u0648\u064e\u064a\u064e\u0642\u064f\u0648\u0652\u0644\u064f \u0627\u0644\u0652\u0627\u064e\u0634\u0652\u0647\u064e\u0627\u062f\u064f \u0647\u0670\u0653\u0624\u064f\u0644\u064e\u0627\u06e4\u0621\u0650 \u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u0643\u064e\u0630\u064e\u0628\u064f\u0648\u0652\u0627 \u0639\u064e\u0644\u0670\u0649 \u0631\u064e\u0628\u0651\u0650\u0647\u0650\u0645\u0652\u06da  \u0627\u064e\u0644\u064e\u0627 \u0644\u064e\u0639\u0652\u0646\u064e\u0629\u064f \u0627\u0644\u0644\u0651\u0670\u0647\u0650 \u0639\u064e\u0644\u064e\u0649 \u0627\u0644\u0638\u0651\u0670\u0644\u0650\u0645\u0650\u064a\u0652\u0646\u064e \u06d9  ",
+            "tr": "waman a<u>zh</u>lamu mimmani iftar<u>aa</u> 'al<u>aa</u> <strong>al</strong>l<u>aa</u>hi ka<u>dz</u>iban ul<u>aa</u>-ika yu'ra<u>dh</u>uuna 'al<u>aa</u> rabbihim wayaquulu <strong>a</strong>l-asyh<u>aa</u>du h<u>aa</u>ul<u>aa</u>-i <strong>al</strong>la<u>dz</u>iina ka<u>dz</u>abuu 'al<u>aa</u> rabbihim <strong>a</strong>l<u>aa</u> la'natu <strong>al</strong>l<u>aa</u>hi 'al<u>aa</u> <strong>al</strong><u>zhzhaa</u>limiin<strong>a</strong>",
+            "idn": "Dan siapakah yang lebih zalim daripada orang yang mengada-adakan suatu kebohongan terhadap Allah? Mereka itu akan dihadapkan kepada Tuhan mereka, dan para saksi akan berkata, \u201cOrang-orang inilah yang telah berbohong terhadap Tuhan mereka.\u201d Ingatlah, laknat Allah (ditimpakan) kepada orang yang zalim,"
+        },
+        {
+            "id": 1492,
+            "surah": 11,
+            "nomor": 19,
+            "ar": "\u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u064a\u064e\u0635\u064f\u062f\u0651\u064f\u0648\u0652\u0646\u064e \u0639\u064e\u0646\u0652 \u0633\u064e\u0628\u0650\u064a\u0652\u0644\u0650 \u0627\u0644\u0644\u0651\u0670\u0647\u0650 \u0648\u064e\u064a\u064e\u0628\u0652\u063a\u064f\u0648\u0652\u0646\u064e\u0647\u064e\u0627 \u0639\u0650\u0648\u064e\u062c\u064b\u0627\u06d7 \u0648\u064e\u0647\u064f\u0645\u0652 \u0628\u0650\u0627\u0644\u0652\u0627\u0670\u062e\u0650\u0631\u064e\u0629\u0650 \u0647\u064f\u0645\u0652 \u0643\u0641\u0670\u0650\u0631\u064f\u0648\u0652\u0646\u064e",
+            "tr": "<strong>al</strong>la<u>dz</u>iina ya<u>sh</u>udduuna 'an sabiili <strong>al</strong>l<u>aa</u>hi wayabghuunah<u>aa</u> 'iwajan wahum bi<strong>a</strong>l-<u>aa</u>khirati hum k<u>aa</u>firuun<strong>a</strong>",
+            "idn": "(yaitu) mereka yang menghalangi dari jalan Allah dan menghendaki agar jalan itu bengkok. Dan mereka itulah orang yang tidak percaya adanya hari akhirat."
+        },
+        {
+            "id": 1493,
+            "surah": 11,
+            "nomor": 20,
+            "ar": "\u0627\u064f\u0648\u0644\u0670\u06e4\u0649\u0655\u0650\u0643\u064e \u0644\u064e\u0645\u0652 \u064a\u064e\u0643\u064f\u0648\u0652\u0646\u064f\u0648\u0652\u0627 \u0645\u064f\u0639\u0652\u062c\u0650\u0632\u0650\u064a\u0652\u0646\u064e \u0641\u0650\u0649 \u0627\u0644\u0652\u0627\u064e\u0631\u0652\u0636\u0650 \u0648\u064e\u0645\u064e\u0627 \u0643\u064e\u0627\u0646\u064e \u0644\u064e\u0647\u064f\u0645\u0652 \u0645\u0650\u0651\u0646\u0652 \u062f\u064f\u0648\u0652\u0646\u0650 \u0627\u0644\u0644\u0651\u0670\u0647\u0650 \u0645\u0650\u0646\u0652 \u0627\u064e\u0648\u0652\u0644\u0650\u064a\u064e\u0627\u06e4\u0621\u064e \u06d8 \u064a\u064f\u0636\u0670\u0639\u064e\u0641\u064f \u0644\u064e\u0647\u064f\u0645\u064f \u0627\u0644\u0652\u0639\u064e\u0630\u064e\u0627\u0628\u064f \u06d7\u0645\u064e\u0627 \u0643\u064e\u0627\u0646\u064f\u0648\u0652\u0627 \u064a\u064e\u0633\u0652\u062a\u064e\u0637\u0650\u064a\u0652\u0639\u064f\u0648\u0652\u0646\u064e \u0627\u0644\u0633\u0651\u064e\u0645\u0652\u0639\u064e \u0648\u064e\u0645\u064e\u0627 \u0643\u064e\u0627\u0646\u064f\u0648\u0652\u0627 \u064a\u064f\u0628\u0652\u0635\u0650\u0631\u064f\u0648\u0652\u0646\u064e",
+            "tr": "ul<u>aa</u>-ika lam yakuunuu mu'jiziina fii <strong>a</strong>l-ar<u>dh</u>i wam<u>aa</u> k<u>aa</u>na lahum min duuni <strong>al</strong>l<u>aa</u>hi min awliy<u>aa</u>-a yu<u>daa</u>'afu lahumu <strong>a</strong>l'a<u>dzaa</u>bu m<u>aa</u> k<u>aa</u>nuu yasta<u>th</u>ii'uuna <strong>al</strong>ssam'a wam<u>aa</u> k<u>aa</u>nuu yub<u>sh</u>iruun<strong>a</strong>",
+            "idn": "Mereka tidak mampu menghalangi (siksaan Allah) di bumi, dan tidak akan ada bagi mereka penolong selain Allah. Azab itu dilipatgandakan kepada mereka. Mereka tidak mampu mendengar (kebenaran) dan tidak dapat melihat(nya)."
+        },
+        {
+            "id": 1494,
+            "surah": 11,
+            "nomor": 21,
+            "ar": "\u0627\u064f\u0648\u0644\u0670\u06e4\u0649\u0655\u0650\u0643\u064e \u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u062e\u064e\u0633\u0650\u0631\u064f\u0648\u0652\u0653\u0627 \u0627\u064e\u0646\u0652\u0641\u064f\u0633\u064e\u0647\u064f\u0645\u0652 \u0648\u064e\u0636\u064e\u0644\u0651\u064e \u0639\u064e\u0646\u0652\u0647\u064f\u0645\u0652 \u0645\u0651\u064e\u0627 \u0643\u064e\u0627\u0646\u064f\u0648\u0652\u0627 \u064a\u064e\u0641\u0652\u062a\u064e\u0631\u064f\u0648\u0652\u0646\u064e",
+            "tr": "ul<u>aa</u>-ika <strong>al</strong>la<u>dz</u>iina khasiruu anfusahum wa<u>dh</u>alla 'anhum m<u>aa</u> k<u>aa</u>nuu yaftaruun<strong>a</strong>",
+            "idn": "Mereka itulah orang yang merugikan dirinya sendiri, dan lenyaplah dari mereka apa yang selalu mereka ada-adakan."
+        },
+        {
+            "id": 1495,
+            "surah": 11,
+            "nomor": 22,
+            "ar": "\u0644\u064e\u0627\u062c\u064e\u0631\u064e\u0645\u064e \u0627\u064e\u0646\u0651\u064e\u0647\u064f\u0645\u0652 \u0641\u0650\u0649 \u0627\u0644\u0652\u0627\u0670\u062e\u0650\u0631\u064e\u0629\u0650 \u0647\u064f\u0645\u064f \u0627\u0644\u0652\u0627\u064e\u062e\u0652\u0633\u064e\u0631\u064f\u0648\u0652\u0646\u064e",
+            "tr": "l<u>aa</u> jarama annahum fii <strong>a</strong>l-<u>aa</u>khirati humu <strong>a</strong>l-akhsaruun<strong>a</strong>",
+            "idn": "Pasti mereka itu (menjadi) orang yang paling rugi di akhirat."
+        },
+        {
+            "id": 1496,
+            "surah": 11,
+            "nomor": 23,
+            "ar": "\u0627\u0650\u0646\u0651\u064e \u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u0627\u0670\u0645\u064e\u0646\u064f\u0648\u0652\u0627 \u0648\u064e\u0639\u064e\u0645\u0650\u0644\u064f\u0648\u0627 \u0627\u0644\u0635\u0651\u0670\u0644\u0650\u062d\u0670\u062a\u0650 \u0648\u064e\u0627\u064e\u062e\u0652\u0628\u064e\u062a\u064f\u0648\u0652\u0653\u0627 \u0627\u0650\u0644\u0670\u0649 \u0631\u064e\u0628\u0651\u0650\u0647\u0650\u0645\u0652\u06d9 \u0627\u064f\u0648\u0644\u0670\u06e4\u0649\u0655\u0650\u0643\u064e \u0627\u064e\u0635\u0652\u062d\u0670\u0628\u064f \u0627\u0644\u0652\u062c\u064e\u0646\u0651\u064e\u0629\u0650\u06da \u0647\u064f\u0645\u0652 \u0641\u0650\u064a\u0652\u0647\u064e\u0627 \u062e\u0670\u0644\u0650\u062f\u064f\u0648\u0652\u0646\u064e",
+            "tr": "inna <strong>al</strong>la<u>dz</u>iina <u>aa</u>manuu wa'amiluu <strong>al</strong><u>shaa</u>li<u>haa</u>ti wa-akhbatuu il<u>aa</u> rabbihim ul<u>aa</u>-ika a<u>sh</u>-<u>haa</u>bu <strong>a</strong>ljannati hum fiih<u>aa</u> kh<u>aa</u>liduun<strong>a</strong>",
+            "idn": "Sesungguhnya orang-orang yang beriman dan mengerjakan kebajikan dan merendahkan diri kepada Tuhan, mereka itu penghuni surga, mereka kekal di dalamnya."
+        },
+        {
+            "id": 1497,
+            "surah": 11,
+            "nomor": 24,
+            "ar": "\u06de \u0645\u064e\u062b\u064e\u0644\u064f \u0627\u0644\u0652\u0641\u064e\u0631\u0650\u064a\u0652\u0642\u064e\u064a\u0652\u0646\u0650 \u0643\u064e\u0627\u0644\u0652\u0627\u064e\u0639\u0652\u0645\u0670\u0649 \u0648\u064e\u0627\u0644\u0652\u0627\u064e\u0635\u064e\u0645\u0651\u0650 \u0648\u064e\u0627\u0644\u0652\u0628\u064e\u0635\u0650\u064a\u0652\u0631\u0650 \u0648\u064e\u0627\u0644\u0633\u0651\u064e\u0645\u0650\u064a\u0652\u0639\u0650\u06d7 \u0647\u064e\u0644\u0652 \u064a\u064e\u0633\u0652\u062a\u064e\u0648\u0650\u064a\u0670\u0646\u0650 \u0645\u064e\u062b\u064e\u0644\u064b\u0627 \u06d7 \u0627\u064e\u0641\u064e\u0644\u064e\u0627 \u062a\u064e\u0630\u064e\u0643\u0651\u064e\u0631\u064f\u0648\u0652\u0646\u064e \u08d6 ",
+            "tr": "matsalu <strong>a</strong>lfariiqayni ka<strong>a</strong>l<strong>-</strong>a'm<u>aa</u> wa<strong>a</strong>l-a<u>sh</u>ammi wa<strong>a</strong>lba<u>sh</u>iiri wa<strong>al</strong>ssamii'i hal yastawiy<u>aa</u>ni matsalan afal<u>aa</u> ta<u>dz</u>akkaruun<strong>a</strong>",
+            "idn": "Perumpamaan kedua golongan (orang kafir dan mukmin), seperti orang buta dan tuli dengan orang yang dapat melihat dan dapat mendengar. Samakah kedua golongan itu? Maka tidakkah kamu mengambil pelajaran?"
+        },
+        {
+            "id": 1498,
+            "surah": 11,
+            "nomor": 25,
+            "ar": "\u0648\u064e\u0644\u064e\u0642\u064e\u062f\u0652 \u0627\u064e\u0631\u0652\u0633\u064e\u0644\u0652\u0646\u064e\u0627 \u0646\u064f\u0648\u0652\u062d\u064b\u0627 \u0627\u0650\u0644\u0670\u0649 \u0642\u064e\u0648\u0652\u0645\u0650\u0647\u0656\u0653 \u0627\u0650\u0646\u0651\u0650\u064a\u0652 \u0644\u064e\u0643\u064f\u0645\u0652 \u0646\u064e\u0630\u0650\u064a\u0652\u0631\u064c \u0645\u0651\u064f\u0628\u0650\u064a\u0652\u0646\u064c \u06d9",
+            "tr": "walaqad arsaln<u>aa</u> nuu<u>h</u>an il<u>aa</u> qawmihi innii lakum na<u>dz</u>iirun mubiin<strong>un</strong>",
+            "idn": "Dan sungguh, Kami telah mengutus Nuh kepada kaumnya, (dia berkata), \u201cSungguh, aku ini adalah pemberi peringatan yang nyata bagi kamu,"
+        },
+        {
+            "id": 1499,
+            "surah": 11,
+            "nomor": 26,
+            "ar": "\u0627\u064e\u0646\u0652 \u0644\u0651\u064e\u0627 \u062a\u064e\u0639\u0652\u0628\u064f\u062f\u064f\u0648\u0652\u0653\u0627 \u0627\u0650\u0644\u0651\u064e\u0627 \u0627\u0644\u0644\u0651\u0670\u0647\u064e \u06d6\u0627\u0650\u0646\u0651\u0650\u064a\u0652\u0653 \u0627\u064e\u062e\u064e\u0627\u0641\u064f \u0639\u064e\u0644\u064e\u064a\u0652\u0643\u064f\u0645\u0652 \u0639\u064e\u0630\u064e\u0627\u0628\u064e \u064a\u064e\u0648\u0652\u0645\u064d \u0627\u064e\u0644\u0650\u064a\u0652\u0645\u064d",
+            "tr": "an l<u>aa</u> ta'buduu ill<u>aa</u> <strong>al</strong>l<u>aa</u>ha innii akh<u>aa</u>fu 'alaykum 'a<u>dzaa</u>ba yawmin <strong>a</strong>liim<strong>in</strong>",
+            "idn": "agar kamu tidak menyembah selain Allah. Aku benar-benar khawatir kamu akan ditimpa azab (pada) hari yang sangat pedih.\u201d"
+        },
+        {
+            "id": 1500,
+            "surah": 11,
+            "nomor": 27,
+            "ar": "\u0641\u064e\u0642\u064e\u0627\u0644\u064e \u0627\u0644\u0652\u0645\u064e\u0644\u064e\u0627\u064f \u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u0643\u064e\u0641\u064e\u0631\u064f\u0648\u0652\u0627 \u0645\u0650\u0646\u0652 \u0642\u064e\u0648\u0652\u0645\u0650\u0647\u0656 \u0645\u064e\u0627 \u0646\u064e\u0631\u0670\u0649\u0643\u064e \u0627\u0650\u0644\u0651\u064e\u0627 \u0628\u064e\u0634\u064e\u0631\u064b\u0627 \u0645\u0650\u0651\u062b\u0652\u0644\u064e\u0646\u064e\u0627 \u0648\u064e\u0645\u064e\u0627 \u0646\u064e\u0631\u0670\u0649\u0643\u064e \u0627\u062a\u0651\u064e\u0628\u064e\u0639\u064e\u0643\u064e \u0627\u0650\u0644\u0651\u064e\u0627 \u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u0647\u064f\u0645\u0652 \u0627\u064e\u0631\u064e\u0627\u0630\u0650\u0644\u064f\u0646\u064e\u0627 \u0628\u064e\u0627\u062f\u0650\u064a\u064e \u0627\u0644\u0631\u0651\u064e\u0623\u0652\u064a\u0650\u06da \u0648\u064e\u0645\u064e\u0627 \u0646\u064e\u0631\u0670\u0649 \u0644\u064e\u0643\u064f\u0645\u0652 \u0639\u064e\u0644\u064e\u064a\u0652\u0646\u064e\u0627 \u0645\u0650\u0646\u0652 \u0641\u064e\u0636\u0652\u0644\u064d\u06e2 \u0628\u064e\u0644\u0652 \u0646\u064e\u0638\u064f\u0646\u0651\u064f\u0643\u064f\u0645\u0652 \u0643\u0670\u0630\u0650\u0628\u0650\u064a\u0652\u0646\u064e",
+            "tr": "faq<u>aa</u>la <strong>a</strong>lmalau <strong>al</strong>la<u>dz</u>iina kafaruu min qawmihi m<u>aa</u> nar<u>aa</u>ka ill<u>aa</u> basyaran mitslan<u>aa</u> wam<u>aa</u> nar<u>aa</u>ka ittaba'aka ill<u>aa</u> <strong>al</strong>la<u>dz</u>iina hum ar<u>aadz</u>ilun<u>aa</u> b<u>aa</u>diya <strong>al</strong>rra/yi wam<u>aa</u> nar<u>aa</u> lakum 'alayn<u>aa</u> min fa<u>dh</u>lin bal na<u>zh</u>unnukum k<u>aadz</u>ibiin<strong>a</strong>",
+            "idn": "Maka berkatalah para pemuka yang kafir dari kaumnya, \u201cKami tidak melihat engkau, melainkan hanyalah seorang manusia (biasa) seperti kami, dan kami tidak melihat orang yang mengikuti engkau, melainkan orang yang hina dina di antara kami yang lekas percaya. Kami tidak melihat kamu memiliki suatu kelebihan apa pun atas kami, bahkan kami menganggap kamu adalah orang pendusta.\u201d"
+        },
+        {
+            "id": 1501,
+            "surah": 11,
+            "nomor": 28,
+            "ar": "\u0642\u064e\u0627\u0644\u064e \u064a\u0670\u0642\u064e\u0648\u0652\u0645\u0650 \u0627\u064e\u0631\u064e\u0621\u064e\u064a\u0652\u062a\u064f\u0645\u0652 \u0627\u0650\u0646\u0652 \u0643\u064f\u0646\u0652\u062a\u064f \u0639\u064e\u0644\u0670\u0649 \u0628\u064e\u064a\u0651\u0650\u0646\u064e\u0629\u064d \u0645\u0650\u0651\u0646\u0652 \u0631\u0651\u064e\u0628\u0651\u0650\u064a\u0652 \u0648\u064e\u0627\u0670\u062a\u0670\u0649\u0646\u0650\u064a\u0652 \u0631\u064e\u062d\u0652\u0645\u064e\u0629\u064b \u0645\u0650\u0651\u0646\u0652 \u0639\u0650\u0646\u0652\u062f\u0650\u0647\u0656 \u0641\u064e\u0639\u064f\u0645\u0651\u0650\u064a\u064e\u062a\u0652 \u0639\u064e\u0644\u064e\u064a\u0652\u0643\u064f\u0645\u0652\u06d7 \u0627\u064e\u0646\u064f\u0644\u0652\u0632\u0650\u0645\u064f\u0643\u064f\u0645\u064f\u0648\u0652\u0647\u064e\u0627 \u0648\u064e\u0627\u064e\u0646\u0652\u062a\u064f\u0645\u0652 \u0644\u064e\u0647\u064e\u0627 \u0643\u0670\u0631\u0650\u0647\u064f\u0648\u0652\u0646\u064e",
+            "tr": "q<u>aa</u>la y<u>aa</u> qawmi ara-aytum in kuntu 'al<u>aa</u> bayyinatin min rabbii wa<u>aa</u>t<u>aa</u>nii ra<u>h</u>matan min 'indihi fa'ummiyat 'alaykum anulzimukumuuh<u>aa</u> wa-antum lah<u>aa</u> k<u>aa</u>rihuun<strong>a</strong>",
+            "idn": "Dia (Nuh) berkata,  \u201dWahai kaumku! Apa pendapatmu jika aku mempunyai bukti yang nyata dari Tuhanku, dan aku diberi rahmat dari sisi-Nya, sedangkan (rahmat itu) disamarkan bagimu. Apa kami akan memaksa kamu untuk menerimanya, padahal kamu tidak menyukainya?"
+        },
+        {
+            "id": 1502,
+            "surah": 11,
+            "nomor": 29,
+            "ar": "\u0648\u064e\u064a\u0670\u0642\u064e\u0648\u0652\u0645\u0650 \u0644\u064e\u0627\u0653 \u0627\u064e\u0633\u0652\u0640\u0654\u064e\u0644\u064f\u0643\u064f\u0645\u0652 \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650 \u0645\u064e\u0627\u0644\u064b\u0627\u06d7 \u0627\u0650\u0646\u0652 \u0627\u064e\u062c\u0652\u0631\u0650\u064a\u064e \u0627\u0650\u0644\u0651\u064e\u0627 \u0639\u064e\u0644\u064e\u0649 \u0627\u0644\u0644\u0651\u0670\u0647\u0650 \u0648\u064e\u0645\u064e\u0627\u0653 \u0627\u064e\u0646\u064e\u0627\u06e0 \u0628\u0650\u0637\u064e\u0627\u0631\u0650\u062f\u0650 \u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u0627\u0670\u0645\u064e\u0646\u064f\u0648\u0652\u0627\u06d7 \u0627\u0650\u0646\u0651\u064e\u0647\u064f\u0645\u0652 \u0645\u0651\u064f\u0644\u0670\u0642\u064f\u0648\u0652\u0627 \u0631\u064e\u0628\u0651\u0650\u0647\u0650\u0645\u0652 \u0648\u064e\u0644\u0670\u0643\u0650\u0646\u0651\u0650\u064a\u0652\u0653 \u0627\u064e\u0631\u0670\u0649\u0643\u064f\u0645\u0652 \u0642\u064e\u0648\u0652\u0645\u064b\u0627 \u062a\u064e\u062c\u0652\u0647\u064e\u0644\u064f\u0648\u0652\u0646\u064e",
+            "tr": "way<u>aa</u> qawmi l<u>aa</u> as-alukum 'alayhi m<u>aa</u>lan in ajriya ill<u>aa</u> 'al<u>aa</u> <strong>al</strong>l<u>aa</u>hi wam<u>aa</u> an<u>aa</u> bi<u>th</u><u>aa</u>ridi <strong>al</strong>la<u>dz</u>iina <u>aa</u>manuu innahum mul<u>aa</u>quu rabbihim wal<u>aa</u>kinnii ar<u>aa</u>kum qawman tajhaluun<strong>a</strong>",
+            "idn": "Dan wahai kaumku! Aku tidak meminta harta kepada kamu (sebagai imbalan) atas seruanku. Imbalanku hanyalah dari Allah dan aku sekali-kali tidak akan mengusir orang yang telah beriman. Sungguh, mereka akan bertemu dengan Tuhannya, dan sebaliknya aku memandangmu sebagai kaum yang bodoh."
+        },
+        {
+            "id": 1503,
+            "surah": 11,
+            "nomor": 30,
+            "ar": "\u0648\u064e\u064a\u0670\u0642\u064e\u0648\u0652\u0645\u0650 \u0645\u064e\u0646\u0652 \u064a\u0651\u064e\u0646\u0652\u0635\u064f\u0631\u064f\u0646\u0650\u064a\u0652 \u0645\u0650\u0646\u064e \u0627\u0644\u0644\u0651\u0670\u0647\u0650 \u0627\u0650\u0646\u0652 \u0637\u064e\u0631\u064e\u062f\u0652\u062a\u0651\u064f\u0647\u064f\u0645\u0652 \u06d7 \u0627\u064e\u0641\u064e\u0644\u064e\u0627 \u062a\u064e\u0630\u064e\u0643\u0651\u064e\u0631\u064f\u0648\u0652\u0646\u064e",
+            "tr": "way<u>aa</u> qawmi man yan<u>sh</u>urunii mina <strong>al</strong>l<u>aa</u>hi in <u>th</u>aradtuhum afal<u>aa</u> ta<u>dz</u>akkaruun<strong>a</strong>",
+            "idn": "Dan wahai kaumku! Siapakah yang akan menolongku dari (azab) Allah jika aku mengusir mereka. Tidakkah kamu mengambil pelajaran?"
+        },
+        {
+            "id": 1504,
+            "surah": 11,
+            "nomor": 31,
+            "ar": "\u0648\u064e\u0644\u064e\u0627\u0653 \u0627\u064e\u0642\u064f\u0648\u0652\u0644\u064f \u0644\u064e\u0643\u064f\u0645\u0652 \u0639\u0650\u0646\u0652\u062f\u0650\u064a\u0652 \u062e\u064e\u0632\u064e\u0627\u06e4\u0649\u0655\u0650\u0646\u064f \u0627\u0644\u0644\u0651\u0670\u0647\u0650 \u0648\u064e\u0644\u064e\u0627\u0653 \u0627\u064e\u0639\u0652\u0644\u064e\u0645\u064f \u0627\u0644\u0652\u063a\u064e\u064a\u0652\u0628\u064e \u0648\u064e\u0644\u064e\u0627\u0653 \u0627\u064e\u0642\u064f\u0648\u0652\u0644\u064f \u0627\u0650\u0646\u0651\u0650\u064a\u0652 \u0645\u064e\u0644\u064e\u0643\u064c \u0648\u0651\u064e\u0644\u064e\u0627\u0653 \u0627\u064e\u0642\u064f\u0648\u0652\u0644\u064f \u0644\u0650\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u062a\u064e\u0632\u0652\u062f\u064e\u0631\u0650\u064a\u0653\u0652 \u0627\u064e\u0639\u0652\u064a\u064f\u0646\u064f\u0643\u064f\u0645\u0652 \u0644\u064e\u0646\u0652 \u064a\u0651\u064f\u0624\u0652\u062a\u0650\u064a\u064e\u0647\u064f\u0645\u064f \u0627\u0644\u0644\u0651\u0670\u0647\u064f \u062e\u064e\u064a\u0652\u0631\u064b\u0627 \u06d7 \u0627\u064e\u0644\u0644\u0651\u0670\u0647\u064f \u0627\u064e\u0639\u0652\u0644\u064e\u0645\u064f \u0628\u0650\u0645\u064e\u0627 \u0641\u0650\u064a\u0653\u0652 \u0627\u064e\u0646\u0652\u0641\u064f\u0633\u0650\u0647\u0650\u0645\u0652 \u06da\u0627\u0650\u0646\u0651\u0650\u064a\u0652\u0653 \u0627\u0650",
+            "tr": "wal<u>aa</u> aquulu lakum 'indii khaz<u>aa</u>-inu <strong>al</strong>l<u>aa</u>hi wal<u>aa</u> a'lamu <strong>a</strong>lghayba wal<u>aa</u> aquulu innii malakun wal<u>aa</u> aquulu lilla<u>dz</u>iina tazdarii a'yunukum lan yu/tiyahumu <strong>al</strong>l<u>aa</u>hu khayran <strong>al</strong>l<u>aa</u>hu a'lamu bim<u>aa</u> fii anfusihim innii i<u>dz</u>an lamina <strong>al</strong><u>zhzhaa</u>limiin<strong>a</strong>",
+            "idn": "Dan aku tidak mengatakan kepadamu, bahwa aku mempunyai gudang-gudang rezeki dan kekayaan dari Allah, dan aku tidak mengetahui yang gaib, dan tidak (pula) mengatakan bahwa sesungguhnya aku adalah malaikat, dan aku tidak (juga) mengatakan kepada orang yang dipandang hina oleh penglihatanmu, \u201cBahwa Allah tidak akan memberikan kebaikan kepada mereka. Allah lebih mengetahui apa yang ada pada diri mereka. Sungguh, jika demikian aku benar-benar termasuk orang-orang yang zalim.\u201d"
+        },
+        {
+            "id": 1505,
+            "surah": 11,
+            "nomor": 32,
+            "ar": "\u0642\u064e\u0627\u0644\u064f\u0648\u0652\u0627 \u064a\u0670\u0646\u064f\u0648\u0652\u062d\u064f \u0642\u064e\u062f\u0652 \u062c\u064e\u0627\u062f\u064e\u0644\u0652\u062a\u064e\u0646\u064e\u0627 \u0641\u064e\u0627\u064e \u0643\u0652\u062b\u064e\u0631\u0652\u062a\u064e \u062c\u0650\u062f\u064e\u0627\u0644\u064e\u0646\u064e\u0627 \u0641\u064e\u0623\u0652\u062a\u0650\u0646\u064e\u0627 \u0628\u0650\u0645\u064e\u0627 \u062a\u064e\u0639\u0650\u062f\u064f\u0646\u064e\u0627\u0653 \u0627\u0650\u0646\u0652 \u0643\u064f\u0646\u0652\u062a\u064e \u0645\u0650\u0646\u064e \u0627\u0644\u0635\u0651\u0670\u062f\u0650\u0642\u0650\u064a\u0652\u0646\u064e",
+            "tr": "q<u>aa</u>luu y<u>aa</u> nuu<u>h</u>u qad j<u>aa</u>daltan<u>aa</u> fa-aktsarta jid<u>aa</u>lan<u>aa</u> fa/tin<u>aa</u> bim<u>aa</u> ta'idun<u>aa</u> in kunta mina <strong>al</strong><u>shshaa</u>diqiin<strong>a</strong>",
+            "idn": "Mereka berkata, \u201cWahai Nuh! Sungguh, engkau telah berbantah dengan kami, dan engkau telah memperpanjang bantahanmu terhadap kami, maka datangkanlah kepada kami azab yang engkau ancamkan, jika kamu termasuk orang yang benar.\u201d"
+        },
+        {
+            "id": 1506,
+            "surah": 11,
+            "nomor": 33,
+            "ar": "\u0642\u064e\u0627\u0644\u064e \u0627\u0650\u0646\u0651\u064e\u0645\u064e\u0627 \u064a\u064e\u0623\u0652\u062a\u0650\u064a\u0652\u0643\u064f\u0645\u0652 \u0628\u0650\u0647\u0650 \u0627\u0644\u0644\u0651\u0670\u0647\u064f \u0627\u0650\u0646\u0652 \u0634\u064e\u0627\u06e4\u0621\u064e \u0648\u064e\u0645\u064e\u0627\u0653 \u0627\u064e\u0646\u0652\u062a\u064f\u0645\u0652 \u0628\u0650\u0645\u064f\u0639\u0652\u062c\u0650\u0632\u0650\u064a\u0652\u0646\u064e",
+            "tr": "q<u>aa</u>la innam<u>aa</u> ya/tiikum bihi <strong>al</strong>l<u>aa</u>hu in sy<u>aa</u>-a wam<u>aa</u> antum bimu'jiziin<strong>a</strong>",
+            "idn": "Dia (Nuh) menjawab, \u201cHanya Allah yang akan mendatangkan azab kepadamu jika Dia menghendaki, dan kamu tidak akan dapat melepaskan diri."
+        },
+        {
+            "id": 1507,
+            "surah": 11,
+            "nomor": 34,
+            "ar": "\u0648\u064e\u0644\u064e\u0627 \u064a\u064e\u0646\u0652\u0641\u064e\u0639\u064f\u0643\u064f\u0645\u0652 \u0646\u064f\u0635\u0652\u062d\u0650\u064a\u0652\u0653 \u0627\u0650\u0646\u0652 \u0627\u064e\u0631\u064e\u062f\u0652\u062a\u0651\u064f \u0627\u064e\u0646\u0652 \u0627\u064e\u0646\u0652\u0635\u064e\u062d\u064e \u0644\u064e\u0643\u064f\u0645\u0652 \u0627\u0650\u0646\u0652 \u0643\u064e\u0627\u0646\u064e \u0627\u0644\u0644\u0651\u0670\u0647\u064f \u064a\u064f\u0631\u0650\u064a\u0652\u062f\u064f \u0627\u064e\u0646\u0652 \u064a\u0651\u064f\u063a\u0652\u0648\u0650\u064a\u064e\u0643\u064f\u0645\u0652 \u06d7\u0647\u064f\u0648\u064e \u0631\u064e\u0628\u0651\u064f\u0643\u064f\u0645\u0652 \u06d7\u0648\u064e\u0627\u0650\u0644\u064e\u064a\u0652\u0647\u0650 \u062a\u064f\u0631\u0652\u062c\u064e\u0639\u064f\u0648\u0652\u0646\u064e\u06d7 ",
+            "tr": "wal<u>aa</u> yanfa'ukum nu<u>sy</u>ii in aradtu an an<u>sh</u>a<u>h</u>a lakum in k<u>aa</u>na <strong>al</strong>l<u>aa</u>hu yuriidu an yughwiyakum huwa rabbukum wa-ilayhi turja'uun<strong>a</strong>",
+            "idn": "Dan nasihatku tidak akan bermanfaat bagimu sekalipun aku ingin memberi nasihat kepadamu, kalau Allah hendak menyesatkan kamu. Dia adalah Tuhanmu, dan kepada-Nyalah kamu dikembalikan.\u201d"
+        },
+        {
+            "id": 1508,
+            "surah": 11,
+            "nomor": 35,
+            "ar": "\u0627\u064e\u0645\u0652 \u064a\u064e\u0642\u064f\u0648\u0652\u0644\u064f\u0648\u0652\u0646\u064e \u0627\u0641\u0652\u062a\u064e\u0631\u0670\u0649\u0647\u064f\u06d7 \u0642\u064f\u0644\u0652 \u0627\u0650\u0646\u0650 \u0627\u0641\u0652\u062a\u064e\u0631\u064e\u064a\u0652\u062a\u064f\u0647\u0657 \u0641\u064e\u0639\u064e\u0644\u064e\u064a\u0651\u064e \u0627\u0650\u062c\u0652\u0631\u064e\u0627\u0645\u0650\u064a\u0652 \u0648\u064e\u0627\u064e\u0646\u064e\u0627\u06e0 \u0628\u064e\u0631\u0650\u064a\u06e4\u0652\u0621\u064c \u0645\u0650\u0651\u0645\u0651\u064e\u0627 \u062a\u064f\u062c\u0652\u0631\u0650\u0645\u064f\u0648\u0652\u0646\u064e \u08d6 ",
+            "tr": "am yaquuluuna iftar<u>aa</u>hu qul ini iftaraytuhu fa'alayya ijr<u>aa</u>mii wa-an<u>aa</u> barii-un mimm<u>aa</u> tujrimuun<strong>a</strong>",
+            "idn": "Bahkan mereka (orang kafir) berkata, \u201cDia cuma mengada-ada saja.\u201d Katakanlah (Muhammad), \u201cJika aku mengada-ada, akulah yang akan memikul dosanya, dan aku bebas dari dosa yang kamu perbuat.\u201d"
+        },
+        {
+            "id": 1509,
+            "surah": 11,
+            "nomor": 36,
+            "ar": "\u0648\u064e\u0627\u064f\u0648\u0652\u062d\u0650\u064a\u064e \u0627\u0650\u0644\u0670\u0649 \u0646\u064f\u0648\u0652\u062d\u064d \u0627\u064e\u0646\u0651\u064e\u0647\u0657 \u0644\u064e\u0646\u0652 \u064a\u0651\u064f\u0624\u0652\u0645\u0650\u0646\u064e \u0645\u0650\u0646\u0652 \u0642\u064e\u0648\u0652\u0645\u0650\u0643\u064e \u0627\u0650\u0644\u0651\u064e\u0627 \u0645\u064e\u0646\u0652 \u0642\u064e\u062f\u0652 \u0627\u0670\u0645\u064e\u0646\u064e \u0641\u064e\u0644\u064e\u0627 \u062a\u064e\u0628\u0652\u062a\u064e\u0649\u0655\u0650\u0633\u0652 \u0628\u0650\u0645\u064e\u0627 \u0643\u064e\u0627\u0646\u064f\u0648\u0652\u0627 \u064a\u064e\u0641\u0652\u0639\u064e\u0644\u064f\u0648\u0652\u0646\u064e\u06d6  ",
+            "tr": "wauu<u>h</u>iya il<u>aa</u> nuu<u>h</u>in annahu lan yu/mina min qawmika ill<u>aa</u> man qad <u>aa</u>mana fal<u>aa</u> tabta-is bim<u>aa</u> k<u>aa</u>nuu yaf'aluun<strong>a</strong>",
+            "idn": "Dan diwahyukan kepada Nuh, \u201cKetahuilah tidak akan beriman di an-tara kaummu, kecuali orang yang benar-benar beriman (saja), karena itu janganlah engkau bersedih hati tentang apa yang mereka perbuat."
+        },
+        {
+            "id": 1510,
+            "surah": 11,
+            "nomor": 37,
+            "ar": "\u0648\u064e\u0627\u0635\u0652\u0646\u064e\u0639\u0650 \u0627\u0644\u0652\u0641\u064f\u0644\u0652\u0643\u064e \u0628\u0650\u0627\u064e\u0639\u0652\u064a\u064f\u0646\u0650\u0646\u064e\u0627 \u0648\u064e\u0648\u064e\u062d\u0652\u064a\u0650\u0646\u064e\u0627 \u0648\u064e\u0644\u064e\u0627 \u062a\u064f\u062e\u064e\u0627\u0637\u0650\u0628\u0652\u0646\u0650\u064a\u0652 \u0641\u0650\u0649 \u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u0638\u064e\u0644\u064e\u0645\u064f\u0648\u0652\u0627 \u06da\u0627\u0650\u0646\u0651\u064e\u0647\u064f\u0645\u0652 \u0645\u0651\u064f\u063a\u0652\u0631\u064e\u0642\u064f\u0648\u0652\u0646\u064e",
+            "tr": "wa<strong>i</strong><u>sh</u>na'i <strong>a</strong>lfulka bi-a'yunin<u>aa</u> wawa<u>h</u>yin<u>aa</u> wal<u>aa</u> tukh<u>aath</u>ibnii fii <strong>al</strong>la<u>dz</u>iina <u>zh</u>alamuu innahum mughraquun<strong>a</strong>",
+            "idn": "Dan buatlah kapal itu dengan pengawasan dan petunjuk wahyu Kami, dan janganlah engkau bicarakan dengan Aku tentang orang-orang yang zalim. Sesungguhnya mereka itu akan ditenggelamkan.\u201d"
+        },
+        {
+            "id": 1511,
+            "surah": 11,
+            "nomor": 38,
+            "ar": "\u0648\u064e\u064a\u064e\u0635\u0652\u0646\u064e\u0639\u064f \u0627\u0644\u0652\u0641\u064f\u0644\u0652\u0643\u064e\u06d7 \u0648\u064e\u0643\u064f\u0644\u0651\u064e\u0645\u064e\u0627 \u0645\u064e\u0631\u0651\u064e \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650 \u0645\u064e\u0644\u064e\u0627\u064c \u0645\u0650\u0651\u0646\u0652 \u0642\u064e\u0648\u0652\u0645\u0650\u0647\u0656 \u0633\u064e\u062e\u0650\u0631\u064f\u0648\u0652\u0627 \u0645\u0650\u0646\u0652\u0647\u064f \u06d7\u0642\u064e\u0627\u0644\u064e \u0627\u0650\u0646\u0652 \u062a\u064e\u0633\u0652\u062e\u064e\u0631\u064f\u0648\u0652\u0627 \u0645\u0650\u0646\u0651\u064e\u0627 \u0641\u064e\u0627\u0650\u0646\u0651\u064e\u0627 \u0646\u064e\u0633\u0652\u062e\u064e\u0631\u064f \u0645\u0650\u0646\u0652\u0643\u064f\u0645\u0652 \u0643\u064e\u0645\u064e\u0627 \u062a\u064e\u0633\u0652\u062e\u064e\u0631\u064f\u0648\u0652\u0646\u064e\u06d7 ",
+            "tr": "waya<u>sh</u>na'u <strong>a</strong>lfulka wakullam<u>aa</u> marra 'alayhi malaun min qawmihi sakhiruu minhu q<u>aa</u>la in taskharuu minn<u>aa</u> fa-inn<u>aa</u> naskharu minkum kam<u>aa</u> taskharuun<strong>a</strong>",
+            "idn": "Dan mulailah dia (Nuh) membuat kapal. Setiap kali pemimpin kaumnya berjalan melewatinya, mereka mengejeknya. Dia (Nuh) berkata, \u201cJika kamu mengejek kami, maka kami (pun) akan mengejekmu sebagaimana kamu mengejek (kami)."
+        },
+        {
+            "id": 1512,
+            "surah": 11,
+            "nomor": 39,
+            "ar": "\u0641\u064e\u0633\u064e\u0648\u0652\u0641\u064e \u062a\u064e\u0639\u0652\u0644\u064e\u0645\u064f\u0648\u0652\u0646\u064e\u06d9 \u0645\u064e\u0646\u0652 \u064a\u0651\u064e\u0623\u0652\u062a\u0650\u064a\u0652\u0647\u0650 \u0639\u064e\u0630\u064e\u0627\u0628\u064c \u064a\u0651\u064f\u062e\u0652\u0632\u0650\u064a\u0652\u0647\u0650 \u0648\u064e\u064a\u064e\u062d\u0650\u0644\u0651\u064f \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650 \u0639\u064e\u0630\u064e\u0627\u0628\u064c \u0645\u0651\u064f\u0642\u0650\u064a\u0652\u0645\u064c",
+            "tr": "fasawfa ta'lamuuna man ya/tiihi 'a<u>dzaa</u>bun yukhziihi waya<u>h</u>illu 'alayhi 'a<u>dzaa</u>bun muqiim<strong>un</strong>",
+            "idn": "Maka kelak kamu akan mengetahui siapa yang akan ditimpa azab yang menghinakan dan (siapa) yang akan ditimpa azab yang kekal.\u201d"
+        },
+        {
+            "id": 1513,
+            "surah": 11,
+            "nomor": 40,
+            "ar": "\u062d\u064e\u062a\u0651\u0670\u0649\u0653 \u0627\u0650\u0630\u064e\u0627 \u062c\u064e\u0627\u06e4\u0621\u064e \u0627\u064e\u0645\u0652\u0631\u064f\u0646\u064e\u0627 \u0648\u064e\u0641\u064e\u0627\u0631\u064e \u0627\u0644\u062a\u0651\u064e\u0646\u0651\u064f\u0648\u0652\u0631\u064f\u06d9 \u0642\u064f\u0644\u0652\u0646\u064e\u0627 \u0627\u062d\u0652\u0645\u0650\u0644\u0652 \u0641\u0650\u064a\u0652\u0647\u064e\u0627 \u0645\u0650\u0646\u0652 \u0643\u064f\u0644\u0651\u064d \u0632\u064e\u0648\u0652\u062c\u064e\u064a\u0652\u0646\u0650 \u0627\u062b\u0652\u0646\u064e\u064a\u0652\u0646\u0650 \u0648\u064e\u0627\u064e\u0647\u0652\u0644\u064e\u0643\u064e \u0627\u0650\u0644\u0651\u064e\u0627 \u0645\u064e\u0646\u0652 \u0633\u064e\u0628\u064e\u0642\u064e \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650 \u0627\u0644\u0652\u0642\u064e\u0648\u0652\u0644\u064f \u0648\u064e\u0645\u064e\u0646\u0652 \u0627\u0670\u0645\u064e\u0646\u064e \u06d7\u0648\u064e\u0645\u064e\u0627\u0653 \u0627\u0670\u0645\u064e\u0646\u064e \u0645\u064e\u0639\u064e\u0647\u0657\u0653 \u0627\u0650\u0644\u0651\u064e\u0627 \u0642\u064e\u0644\u0650\u064a\u0652\u0644\u064c",
+            "tr": "<u>h</u>att<u>aa</u> i<u>dzaa</u> j<u>aa</u>-a amrun<u>aa</u> waf<u>aa</u>ra <strong>al</strong>ttannuuru quln<u>aa</u> i<u>h</u>mil fiih<u>aa</u> min kullin zawjayni itsnayni wa-ahlaka ill<u>aa</u> man sabaqa 'alayhi <strong>a</strong>lqawlu waman <u>aa</u>mana wam<u>aa</u> <u>aa</u>mana ma'ahu ill<u>aa</u> qaliil<strong>un</strong>",
+            "idn": "Hingga apabila perintah Kami datang dan tanur (dapur) telah memancarkan air, Kami berfirman, \u201cMuatkanlah ke dalamnya (kapal itu) dari masing-masing (hewan) sepasang (jantan dan betina), dan (juga) keluargamu kecuali orang yang telah terkena ketetapan terdahulu dan (muatkan pula) orang yang beriman.\u201d Ternyata orang-orang beriman yang bersama dengan Nuh hanya sedikit."
+        },
+        {
+            "id": 1514,
+            "surah": 11,
+            "nomor": 41,
+            "ar": "\u06de \u0648\u064e\u0642\u064e\u0627\u0644\u064e \u0627\u0631\u0652\u0643\u064e\u0628\u064f\u0648\u0652\u0627 \u0641\u0650\u064a\u0652\u0647\u064e\u0627 \u0628\u0650\u0633\u0652\u0645\u0650 \u0627\u0644\u0644\u0651\u0670\u0647\u0650 \u0645\u064e\u062c\u0652\u0631\u0670\u06ea\u0649\u0647\u064e\u0627 \u0648\u064e\u0645\u064f\u0631\u0652\u0633\u0670\u0649\u0647\u064e\u0627 \u06d7\u0627\u0650\u0646\u0651\u064e \u0631\u064e\u0628\u0651\u0650\u064a\u0652 \u0644\u064e\u063a\u064e\u0641\u064f\u0648\u0652\u0631\u064c \u0631\u0651\u064e\u062d\u0650\u064a\u0652\u0645\u064c",
+            "tr": "waq<u>aa</u>la irkabuu fiih<u>aa</u> bismi <strong>al</strong>l<u>aa</u>hi majr<u>aa</u>h<u>aa</u> wamurs<u>aa</u>h<u>aa</u> inna rabbii laghafuurun ra<u>h</u>iim<strong>un</strong>",
+            "idn": "Dan dia berkata,  \u201dNaiklah kamu semua ke dalamnya (kapal) dengan (menyebut) nama Allah pada waktu berlayar dan berlabuhnya. Sesungguhnya Tuhanku Maha Pengampun, Maha Penyayang.\u201d"
+        },
+        {
+            "id": 1515,
+            "surah": 11,
+            "nomor": 42,
+            "ar": "\u0648\u064e\u0647\u0650\u064a\u064e \u062a\u064e\u062c\u0652\u0631\u0650\u064a\u0652 \u0628\u0650\u0647\u0650\u0645\u0652 \u0641\u0650\u064a\u0652 \u0645\u064e\u0648\u0652\u062c\u064d \u0643\u064e\u0627\u0644\u0652\u062c\u0650\u0628\u064e\u0627\u0644\u0650\u06d7 \u0648\u064e\u0646\u064e\u0627\u062f\u0670\u0649 \u0646\u064f\u0648\u0652\u062d\u064f \u06e8\u0650\u0627\u0628\u0652\u0646\u064e\u0647\u0657 \u0648\u064e\u0643\u064e\u0627\u0646\u064e \u0641\u0650\u064a\u0652 \u0645\u064e\u0639\u0652\u0632\u0650\u0644\u064d \u064a\u0651\u0670\u0628\u064f\u0646\u064e\u064a\u0651\u064e \u0627\u0631\u0652\u0643\u064e\u0628\u0652 \u0645\u0651\u064e\u0639\u064e\u0646\u064e\u0627 \u0648\u064e\u0644\u064e\u0627 \u062a\u064e\u0643\u064f\u0646\u0652 \u0645\u0651\u064e\u0639\u064e \u0627\u0644\u0652\u0643\u0670\u0641\u0650\u0631\u0650\u064a\u0652\u0646\u064e",
+            "tr": "wahiya tajrii bihim fii mawjin ka<strong>a</strong>ljib<u>aa</u>li wan<u>aa</u>d<u>aa</u> nuu<u>h</u>unu ibnahu wak<u>aa</u>na fii ma'zilin y<u>aa</u> bunayya irkab ma'an<u>aa</u> wal<u>aa</u> takun ma'a <strong>a</strong>lk<u>aa</u>firiin<strong>a</strong>",
+            "idn": "Dan kapal itu berlayar membawa mereka ke dalam gelombang laksana gunung-gunung. Dan Nuh memanggil anaknya, ketika dia (anak itu) berada di tempat yang jauh terpencil, \u201cWahai anakku! Naiklah (ke kapal) bersama kami dan janganlah engkau bersama orang-orang kafir.\u201d"
+        },
+        {
+            "id": 1516,
+            "surah": 11,
+            "nomor": 43,
+            "ar": "\u0642\u064e\u0627\u0644\u064e \u0633\u064e\u0627\u0670\u0648\u0650\u064a\u0652\u0653 \u0627\u0650\u0644\u0670\u0649 \u062c\u064e\u0628\u064e\u0644\u064d \u064a\u0651\u064e\u0639\u0652\u0635\u0650\u0645\u064f\u0646\u0650\u064a\u0652 \u0645\u0650\u0646\u064e \u0627\u0644\u0652\u0645\u064e\u0627\u06e4\u0621\u0650 \u06d7\u0642\u064e\u0627\u0644\u064e \u0644\u064e\u0627 \u0639\u064e\u0627\u0635\u0650\u0645\u064e \u0627\u0644\u0652\u064a\u064e\u0648\u0652\u0645\u064e \u0645\u0650\u0646\u0652 \u0627\u064e\u0645\u0652\u0631\u0650 \u0627\u0644\u0644\u0651\u0670\u0647\u0650 \u0627\u0650\u0644\u0651\u064e\u0627 \u0645\u064e\u0646\u0652 \u0631\u0651\u064e\u062d\u0650\u0645\u064e \u06da\u0648\u064e\u062d\u064e\u0627\u0644\u064e \u0628\u064e\u064a\u0652\u0646\u064e\u0647\u064f\u0645\u064e\u0627 \u0627\u0644\u0652\u0645\u064e\u0648\u0652\u062c\u064f \u0641\u064e\u0643\u064e\u0627\u0646\u064e \u0645\u0650\u0646\u064e \u0627\u0644\u0652\u0645\u064f\u063a\u0652\u0631\u064e\u0642\u0650\u064a\u0652\u0646\u064e",
+            "tr": "q<u>aa</u>la sa<u>aa</u>wii il<u>aa</u> jabalin ya'<u>sh</u>imunii mina <strong>a</strong>lm<u>aa</u>-i q<u>aa</u>la l<u>aa</u> '<u>aas</u>ima <strong>a</strong>lyawma min amri <strong>al</strong>l<u>aa</u>hi ill<u>aa</u> man ra<u>h</u>ima wa<u>haa</u>la baynahum<u>aa</u> <strong>a</strong>lmawju fak<u>aa</u>na mina <strong>a</strong>lmughraqiin<strong>a</strong>",
+            "idn": "Dia (anaknya) menjawab, \u201cAku akan mencari perlindungan ke gunung yang dapat menghindarkan aku dari air bah!\u201d  (Nuh) berkata, \u201cTidak ada yang melindungi dari siksaan Allah pada hari ini selain Allah yang Maha Penyayang.\u201d Dan gelombang menjadi penghalang antara keduanya; maka dia (anak itu) termasuk orang yang ditenggelamkan."
+        },
+        {
+            "id": 1517,
+            "surah": 11,
+            "nomor": 44,
+            "ar": "\u0648\u064e\u0642\u0650\u064a\u0652\u0644\u064e \u064a\u0670\u0653\u0627\u064e\u0631\u0652\u0636\u064f \u0627\u0628\u0652\u0644\u064e\u0639\u0650\u064a\u0652 \u0645\u064e\u0627\u06e4\u0621\u064e\u0643\u0650 \u0648\u064e\u064a\u064e\u0627 \u0633\u064e\u0645\u064e\u0627\u06e4\u0621\u064f \u0627\u064e\u0642\u0652\u0644\u0650\u0639\u0650\u064a\u0652 \u0648\u064e\u063a\u0650\u064a\u0652\u0636\u064e \u0627\u0644\u0652\u0645\u064e\u0627\u06e4\u0621\u064f \u0648\u064e\u0642\u064f\u0636\u0650\u064a\u064e \u0627\u0644\u0652\u0627\u064e\u0645\u0652\u0631\u064f \u0648\u064e\u0627\u0633\u0652\u062a\u064e\u0648\u064e\u062a\u0652 \u0639\u064e\u0644\u064e\u0649 \u0627\u0644\u0652\u062c\u064f\u0648\u0652\u062f\u0650\u064a\u0651\u0650 \u0648\u064e\u0642\u0650\u064a\u0652\u0644\u064e \u0628\u064f\u0639\u0652\u062f\u064b\u0627 \u0644\u0650\u0651\u0644\u0652\u0642\u064e\u0648\u0652\u0645\u0650 \u0627\u0644\u0638\u0651\u0670\u0644\u0650\u0645\u0650\u064a\u0652\u0646\u064e",
+            "tr": "waqiila y<u>aa</u> ar<u>dh</u>u ibla'ii m<u>aa</u>-aki way<u>aa</u> sam<u>aa</u>u aqli'ii waghii<u>dh</u>a <strong>a</strong>lm<u>aa</u>u waqu<u>dh</u>iya <strong>a</strong>l-amru wa<strong>i</strong>stawat 'al<u>aa</u> <strong>a</strong>ljuudiyyi waqiila bu'dan lilqawmi <strong>al</strong><u>zhzhaa</u>limiin<strong>a</strong>",
+            "idn": "Dan difirmankan, \u201cWahai bumi! Telanlah airmu dan wahai langit (hujan!) berhentilah.\u201d Dan air pun disurutkan, dan perintah pun diselesaikan dan kapal itupun berlabuh di atas gunung Judi, dan dikatakan,  \u201dBinasalah orang-orang zalim.\u201d"
+        },
+        {
+            "id": 1518,
+            "surah": 11,
+            "nomor": 45,
+            "ar": "\u0648\u064e\u0646\u064e\u0627\u062f\u0670\u0649 \u0646\u064f\u0648\u0652\u062d\u064c \u0631\u0651\u064e\u0628\u0651\u064e\u0647\u0657 \u0641\u064e\u0642\u064e\u0627\u0644\u064e \u0631\u064e\u0628\u0651\u0650 \u0627\u0650\u0646\u0651\u064e \u0627\u0628\u0652\u0646\u0650\u064a\u0652 \u0645\u0650\u0646\u0652 \u0627\u064e\u0647\u0652\u0644\u0650\u064a\u0652\u06da \u0648\u064e\u0627\u0650\u0646\u0651\u064e \u0648\u064e\u0639\u0652\u062f\u064e\u0643\u064e \u0627\u0644\u0652\u062d\u064e\u0642\u0651\u064f \u0648\u064e\u0627\u064e\u0646\u0652\u062a\u064e \u0627\u064e\u062d\u0652\u0643\u064e\u0645\u064f \u0627\u0644\u0652\u062d\u0670\u0643\u0650\u0645\u0650\u064a\u0652\u0646\u064e",
+            "tr": "wan<u>aa</u>d<u>aa</u> nuu<u>h</u>un rabbahu faq<u>aa</u>la rabbi inna ibnii min ahlii wa-inna wa'daka <strong>a</strong>l<u>h</u>aqqu wa-anta a<u>h</u>kamu <strong>a</strong>l<u>haa</u>kimiin<strong>a</strong>",
+            "idn": "Dan Nuh memohon kepada Tuhannya sambil berkata, \u201cYa Tuhanku, sesungguhnya anakku adalah termasuk keluargaku, dan janji-Mu itu pasti benar. Engkau adalah hakim yang paling adil.\u201d"
+        },
+        {
+            "id": 1519,
+            "surah": 11,
+            "nomor": 46,
+            "ar": "\u0642\u064e\u0627\u0644\u064e \u064a\u0670\u0646\u064f\u0648\u0652\u062d\u064f \u0627\u0650\u0646\u0651\u064e\u0647\u0657 \u0644\u064e\u064a\u0652\u0633\u064e \u0645\u0650\u0646\u0652 \u0627\u064e\u0647\u0652\u0644\u0650\u0643\u064e \u06da\u0627\u0650\u0646\u0651\u064e\u0647\u0657 \u0639\u064e\u0645\u064e\u0644\u064c \u063a\u064e\u064a\u0652\u0631\u064f \u0635\u064e\u0627\u0644\u0650\u062d\u064d \u0641\u064e\u0644\u064e\u0627 \u062a\u064e\u0633\u0652\u0640\u0654\u064e\u0644\u0652\u0646\u0650 \u0645\u064e\u0627 \u0644\u064e\u064a\u0652\u0633\u064e \u0644\u064e\u0643\u064e \u0628\u0650\u0647\u0656 \u0639\u0650\u0644\u0652\u0645\u064c \u06d7\u0627\u0650\u0646\u0651\u0650\u064a\u0652\u0653 \u0627\u064e\u0639\u0650\u0638\u064f\u0643\u064e \u0627\u064e\u0646\u0652 \u062a\u064e\u0643\u064f\u0648\u0652\u0646\u064e \u0645\u0650\u0646\u064e \u0627\u0644\u0652\u062c\u0670\u0647\u0650\u0644\u0650\u064a\u0652\u0646\u064e",
+            "tr": "q<u>aa</u>la y<u>aa</u> nuu<u>h</u>u innahu laysa min ahlika innahu 'amalun ghayru <u>shaa</u>li<u>h</u>in fal<u>aa</u> tas-alni m<u>aa</u> laysa laka bihi 'ilmun innii a'i<u>zh</u>uka an takuuna mina <strong>a</strong>lj<u>aa</u>hiliin<strong>a</strong>",
+            "idn": "Dia (Allah) berfirman, \u201cWahai Nuh! Sesungguhnya dia bukanlah termasuk keluargamu, karena perbuatannya sungguh tidak baik, sebab itu jangan engkau memohon kepada-Ku sesuatu yang tidak engkau ketahui (hakikatnya). Aku menasihatimu agar (engkau) tidak termasuk orang yang bodoh.\u201d"
+        },
+        {
+            "id": 1520,
+            "surah": 11,
+            "nomor": 47,
+            "ar": "\u0642\u064e\u0627\u0644\u064e \u0631\u064e\u0628\u0651\u0650 \u0627\u0650\u0646\u0651\u0650\u064a\u0652\u0653 \u0627\u064e\u0639\u064f\u0648\u0652\u0630\u064f \u0628\u0650\u0643\u064e \u0627\u064e\u0646\u0652 \u0627\u064e\u0633\u0652\u0640\u0654\u064e\u0644\u064e\u0643\u064e \u0645\u064e\u0627 \u0644\u064e\u064a\u0652\u0633\u064e \u0644\u0650\u064a\u0652 \u0628\u0650\u0647\u0656 \u0639\u0650\u0644\u0652\u0645\u064c \u06d7\u0648\u064e\u0627\u0650\u0644\u0651\u064e\u0627 \u062a\u064e\u063a\u0652\u0641\u0650\u0631\u0652 \u0644\u0650\u064a\u0652 \u0648\u064e\u062a\u064e\u0631\u0652\u062d\u064e\u0645\u0652\u0646\u0650\u064a\u0652\u0653 \u0627\u064e\u0643\u064f\u0646\u0652 \u0645\u0650\u0651\u0646\u064e \u0627\u0644\u0652\u062e\u0670\u0633\u0650\u0631\u0650\u064a\u0652\u0646\u064e",
+            "tr": "q<u>aa</u>la rabbi innii a'uu<u>dz</u>u bika an as-alaka m<u>aa</u> laysa lii bihi 'ilmun wa-ill<u>aa</u> taghfir lii watar<u>h</u>amnii akun mina <strong>a</strong>lkh<u>aa</u>siriin<strong>a</strong>",
+            "idn": "Dia (Nuh) berkata, \u201cYa Tuhanku, sesungguhnya aku berlindung kepada-Mu untuk memohon kepada-Mu sesuatu yang aku tidak mengetahui (hakikatnya). Kalau Engkau tidak mengampuniku, dan (tidak) menaruh belas kasihan kepadaku, niscaya aku termasuk orang yang rugi.\u201d"
+        },
+        {
+            "id": 1521,
+            "surah": 11,
+            "nomor": 48,
+            "ar": "\u0642\u0650\u064a\u0652\u0644\u064e \u064a\u0670\u0646\u064f\u0648\u0652\u062d\u064f \u0627\u0647\u0652\u0628\u0650\u0637\u0652 \u0628\u0650\u0633\u064e\u0644\u0670\u0645\u064d \u0645\u0650\u0651\u0646\u0651\u064e\u0627 \u0648\u064e\u0628\u064e\u0631\u064e\u0643\u0670\u062a\u064d \u0639\u064e\u0644\u064e\u064a\u0652\u0643\u064e \u0648\u064e\u0639\u064e\u0644\u0670\u0653\u0649 \u0627\u064f\u0645\u064e\u0645\u064d \u0645\u0650\u0651\u0645\u0651\u064e\u0646\u0652 \u0645\u0651\u064e\u0639\u064e\u0643\u064e \u06d7\u0648\u064e\u0627\u064f\u0645\u064e\u0645\u064c \u0633\u064e\u0646\u064f\u0645\u064e\u062a\u0651\u0650\u0639\u064f\u0647\u064f\u0645\u0652 \u062b\u064f\u0645\u0651\u064e \u064a\u064e\u0645\u064e\u0633\u0651\u064f\u0647\u064f\u0645\u0652 \u0645\u0651\u0650\u0646\u0651\u064e\u0627 \u0639\u064e\u0630\u064e\u0627\u0628\u064c \u0627\u064e\u0644\u0650\u064a\u0652\u0645\u064c",
+            "tr": "qiila y<u>aa</u> nuu<u>h</u>u ihbi<u>th</u> bisal<u>aa</u>min minn<u>aa</u> wabarak<u>aa</u>tin 'alayka wa'al<u>aa</u> umamin mimman ma'aka waumamun sanumatti'uhum tsumma yamassuhum minn<u>aa</u> 'a<u>dzaa</u>bun <strong>a</strong>liim<strong>un</strong>",
+            "idn": "Difirmankan, \u201cWahai Nuh! Turunlah dengan selamat sejahtera dan penuh keberkahan dari Kami, bagimu dan bagi semua umat (mukmin) yang bersamamu. Dan ada umat-umat yang Kami beri kesenangan (dalam kehidupan dunia), kemudian mereka akan ditimpa azab Kami yang pedih.\u201d"
+        },
+        {
+            "id": 1522,
+            "surah": 11,
+            "nomor": 49,
+            "ar": "\u062a\u0650\u0644\u0652\u0643\u064e \u0645\u0650\u0646\u0652 \u0627\u064e\u0646\u0652\u06e2\u0628\u064e\u0627\u06e4\u0621\u0650 \u0627\u0644\u0652\u063a\u064e\u064a\u0652\u0628\u0650 \u0646\u064f\u0648\u0652\u062d\u0650\u064a\u0652\u0647\u064e\u0627\u0653 \u0627\u0650\u0644\u064e\u064a\u0652\u0643\u064e \u06da\u0645\u064e\u0627 \u0643\u064f\u0646\u0652\u062a\u064e \u062a\u064e\u0639\u0652\u0644\u064e\u0645\u064f\u0647\u064e\u0627\u0653 \u0627\u064e\u0646\u0652\u062a\u064e \u0648\u064e\u0644\u064e\u0627 \u0642\u064e\u0648\u0652\u0645\u064f\u0643\u064e \u0645\u0650\u0646\u0652 \u0642\u064e\u0628\u0652\u0644\u0650 \u0647\u0670\u0630\u064e\u0627\u06da \u0641\u064e\u0627\u0635\u0652\u0628\u0650\u0631\u0652\u06da \u0627\u0650\u0646\u0651\u064e \u0627\u0644\u0652\u0639\u064e\u0627\u0642\u0650\u0628\u064e\u0629\u064e \u0644\u0650\u0644\u0652\u0645\u064f\u062a\u0651\u064e\u0642\u0650\u064a\u0652\u0646\u064e \u08d6 ",
+            "tr": "tilka min anb<u>aa</u>-i <strong>a</strong>lghaybi nuu<u>h</u>iih<u>aa</u> ilayka m<u>aa</u> kunta ta'lamuh<u>aa</u> anta wal<u>aa</u> qawmuka min qabli h<u>aadzaa</u> fa<strong>i</strong><u>sh</u>bir inna <strong>a</strong>l'<u>aa</u>qibata lilmuttaqiin<strong>a</strong>",
+            "idn": "Itulah sebagian dari berita-berita gaib yang Kami wahyukan kepadamu (Muhammad); tidak pernah engkau mengetahuinya dan tidak (pula) kaummu sebelum ini. Maka bersabarlah, sungguh, kesudahan (yang baik) adalah bagi orang yang bertakwa."
+        },
+        {
+            "id": 1523,
+            "surah": 11,
+            "nomor": 50,
+            "ar": "\u0648\u064e\u0627\u0650\u0644\u0670\u0649 \u0639\u064e\u0627\u062f\u064d \u0627\u064e\u062e\u064e\u0627\u0647\u064f\u0645\u0652 \u0647\u064f\u0648\u0652\u062f\u064b\u0627 \u06d7\u0642\u064e\u0627\u0644\u064e \u064a\u0670\u0642\u064e\u0648\u0652\u0645\u0650 \u0627\u0639\u0652\u0628\u064f\u062f\u064f\u0648\u0627 \u0627\u0644\u0644\u0651\u0670\u0647\u064e \u0645\u064e\u0627 \u0644\u064e\u0643\u064f\u0645\u0652 \u0645\u0650\u0651\u0646\u0652 \u0627\u0650\u0644\u0670\u0647\u064d \u063a\u064e\u064a\u0652\u0631\u064f\u0647\u0657 \u06d7\u0627\u0650\u0646\u0652 \u0627\u064e\u0646\u0652\u062a\u064f\u0645\u0652 \u0627\u0650\u0644\u0651\u064e\u0627 \u0645\u064f\u0641\u0652\u062a\u064e\u0631\u064f\u0648\u0652\u0646\u064e",
+            "tr": "wa-il<u>aa</u> '<u>aa</u>din akh<u>aa</u>hum huudan q<u>aa</u>la y<u>aa</u> qawmi u'buduu <strong>al</strong>l<u>aa</u>ha m<u>aa</u> lakum min il<u>aa</u>hin ghayruhu in antum ill<u>aa</u> muftaruun<strong>a</strong>",
+            "idn": "Dan kepada kaum \u2018Ad (Kami utus) saudara mereka, Hud. Dia berkata, \u201cWahai kaumku! Sembahlah Allah, tidak ada tuhan bagimu selain Dia. (Selama ini) kamu hanyalah mengada-ada."
+        },
+        {
+            "id": 1524,
+            "surah": 11,
+            "nomor": 51,
+            "ar": "\u064a\u0670\u0642\u064e\u0648\u0652\u0645\u0650 \u0644\u064e\u0627\u0653 \u0627\u064e\u0633\u0652\u0640\u0654\u064e\u0644\u064f\u0643\u064f\u0645\u0652 \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650 \u0627\u064e\u062c\u0652\u0631\u064b\u0627 \u06d7\u0627\u0650\u0646\u0652 \u0627\u064e\u062c\u0652\u0631\u0650\u064a\u064e \u0627\u0650\u0644\u0651\u064e\u0627 \u0639\u064e\u0644\u064e\u0649 \u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652 \u0641\u064e\u0637\u064e\u0631\u064e\u0646\u0650\u064a\u0652 \u06d7 \u0627\u064e\u0641\u064e\u0644\u064e\u0627 \u062a\u064e\u0639\u0652\u0642\u0650\u0644\u064f\u0648\u0652\u0646\u064e ",
+            "tr": "y<u>aa</u> qawmi l<u>aa</u> as-alukum 'alayhi ajran in ajriya ill<u>aa</u> 'al<u>aa</u> <strong>al</strong>la<u>dz</u>ii fa<u>th</u>aranii afal<u>aa</u> ta'qiluun<strong>a</strong>",
+            "idn": "Wahai kaumku! Aku tidak meminta imbalan kepadamu atas (seruanku) ini. Imbalanku hanyalah dari Allah yang telah menciptakanku. Tidakkah kamu mengerti?\u201d"
+        },
+        {
+            "id": 1525,
+            "surah": 11,
+            "nomor": 52,
+            "ar": "\u0648\u064e\u064a\u0670\u0642\u064e\u0648\u0652\u0645\u0650 \u0627\u0633\u0652\u062a\u064e\u063a\u0652\u0641\u0650\u0631\u064f\u0648\u0652\u0627 \u0631\u064e\u0628\u0651\u064e\u0643\u064f\u0645\u0652 \u062b\u064f\u0645\u0651\u064e \u062a\u064f\u0648\u0652\u0628\u064f\u0648\u0652\u0653\u0627 \u0627\u0650\u0644\u064e\u064a\u0652\u0647\u0650 \u064a\u064f\u0631\u0652\u0633\u0650\u0644\u0650 \u0627\u0644\u0633\u0651\u064e\u0645\u064e\u0627\u06e4\u0621\u064e \u0639\u064e\u0644\u064e\u064a\u0652\u0643\u064f\u0645\u0652 \u0645\u0650\u0651\u062f\u0652\u0631\u064e\u0627\u0631\u064b\u0627 \u0648\u0651\u064e\u064a\u064e\u0632\u0650\u062f\u0652\u0643\u064f\u0645\u0652 \u0642\u064f\u0648\u0651\u064e\u0629\u064b \u0627\u0650\u0644\u0670\u0649 \u0642\u064f\u0648\u0651\u064e\u062a\u0650\u0643\u064f\u0645\u0652 \u0648\u064e\u0644\u064e\u0627 \u062a\u064e\u062a\u064e\u0648\u064e\u0644\u0651\u064e\u0648\u0652\u0627 \u0645\u064f\u062c\u0652\u0631\u0650\u0645\u0650\u064a\u0652\u0646\u064e",
+            "tr": "way<u>aa</u> qawmi istaghfiruu rabbakum tsumma tuubuu ilayhi yursili <strong>al</strong>ssam<u>aa</u>-a 'alaykum midr<u>aa</u>ran wayazidkum quwwatan il<u>aa</u> quwwatikum wal<u>aa</u> tatawallaw mujrimiin<strong>a</strong>",
+            "idn": "Dan (Hud berkata), \u201cWahai kaumku! Mohonlah ampunan kepada Tuhanmu lalu bertobatlah kepada-Nya, niscaya Dia menurunkan hujan yang sangat deras, Dia akan menambahkan kekuatan di atas kekuatanmu, dan janganlah kamu berpaling menjadi orang yang berdosa.\u201d"
+        },
+        {
+            "id": 1526,
+            "surah": 11,
+            "nomor": 53,
+            "ar": "\u0642\u064e\u0627\u0644\u064f\u0648\u0652\u0627 \u064a\u0670\u0647\u064f\u0648\u0652\u062f\u064f \u0645\u064e\u0627\u062c\u0650\u0626\u0652\u062a\u064e\u0646\u064e\u0627 \u0628\u0650\u0628\u064e\u064a\u0651\u0650\u0646\u064e\u0629\u064d \u0648\u0651\u064e\u0645\u064e\u0627 \u0646\u064e\u062d\u0652\u0646\u064f \u0628\u0650\u062a\u064e\u0627\u0631\u0650\u0643\u0650\u064a\u0652\u0653  \u0627\u0670\u0644\u0650\u0647\u064e\u062a\u0650\u0646\u064e\u0627 \u0639\u064e\u0646\u0652 \u0642\u064e\u0648\u0652\u0644\u0650\u0643\u064e \u0648\u064e\u0645\u064e\u0627 \u0646\u064e\u062d\u0652\u0646\u064f \u0644\u064e\u0643\u064e \u0628\u0650\u0645\u064f\u0624\u0652\u0645\u0650\u0646\u0650\u064a\u0652\u0646\u064e",
+            "tr": "q<u>aa</u>luu y<u>aa</u> huudu m<u>aa</u> ji/tan<u>aa</u> bibayyinatin wam<u>aa</u> na<u>h</u>nu bit<u>aa</u>rikii <u>aa</u>lihatin<u>aa</u> 'an qawlika wam<u>aa</u> na<u>h</u>nu laka bimu/miniin<strong>a</strong>",
+            "idn": " Mereka (kaum \u2018Ad) berkata, \u201cWahai Hud! Engkau tidak mendatangkan suatu bukti yang nyata kepada kami, dan kami tidak akan meninggalkan sesembahan kami karena perkataanmu dan kami tidak akan mempercayaimu,"
+        },
+        {
+            "id": 1527,
+            "surah": 11,
+            "nomor": 54,
+            "ar": "\u0627\u0650\u0646\u0652 \u0646\u0651\u064e\u0642\u064f\u0648\u0652\u0644\u064f \u0627\u0650\u0644\u0651\u064e\u0627 \u0627\u0639\u0652\u062a\u064e\u0631\u0670\u0649\u0643\u064e \u0628\u064e\u0639\u0652\u0636\u064f \u0627\u0670\u0644\u0650\u0647\u064e\u062a\u0650\u0646\u064e\u0627 \u0628\u0650\u0633\u064f\u0648\u0652\u06e4\u0621\u064d \u06d7\u0642\u064e\u0627\u0644\u064e \u0627\u0650\u0646\u0651\u0650\u064a\u0652\u0653 \u0627\u064f\u0634\u0652\u0647\u0650\u062f\u064f \u0627\u0644\u0644\u0651\u0670\u0647\u064e \u0648\u064e\u0627\u0634\u0652\u0647\u064e\u062f\u064f\u0648\u0652\u0653\u0627 \u0627\u064e\u0646\u0651\u0650\u064a\u0652 \u0628\u064e\u0631\u0650\u064a\u0652\u06e4\u0621\u064c \u0645\u0650\u0651\u0645\u0651\u064e\u0627 \u062a\u064f\u0634\u0652\u0631\u0650\u0643\u064f\u0648\u0652\u0646\u064e",
+            "tr": "in naquulu ill<u>aa</u> i'tar<u>aa</u>ka ba'<u>dh</u>u <u>aa</u>lihatin<u>aa</u> bisuu-in q<u>aa</u>la innii usyhidu <strong>al</strong>l<u>aa</u>ha wa<strong>i</strong>syhaduu annii barii-un mimm<u>aa</u> tusyrikuun<strong>a</strong>",
+            "idn": "kami hanya mengatakan bahwa sebagian sesembahan kami telah menimpakan penyakit gila atas dirimu.\u201d Dia (Hud) menjawab, \u201cSesungguhnya aku bersaksi kepada Allah dan saksikanlah bahwa aku berlepas diri dari apa yang kamu persekutukan,"
+        },
+        {
+            "id": 1528,
+            "surah": 11,
+            "nomor": 55,
+            "ar": "\u0645\u0650\u0646\u0652 \u062f\u064f\u0648\u0652\u0646\u0650\u0647\u0656 \u0641\u064e\u0643\u0650\u064a\u0652\u062f\u064f\u0648\u0652\u0646\u0650\u064a\u0652 \u062c\u064e\u0645\u0650\u064a\u0652\u0639\u064b\u0627 \u062b\u064f\u0645\u0651\u064e \u0644\u064e\u0627 \u062a\u064f\u0646\u0652\u0638\u0650\u0631\u064f\u0648\u0652\u0646\u0650",
+            "tr": "min duunihi fakiiduunii jamii'an tsumma l<u>aa</u> tun<u>zh</u>iruun<strong>i</strong>",
+            "idn": "dengan yang lain, sebab itu jalankanlah semua tipu dayamu terhadapku dan jangan kamu tunda lagi."
+        },
+        {
+            "id": 1529,
+            "surah": 11,
+            "nomor": 56,
+            "ar": "\u0627\u0650\u0646\u0651\u0650\u064a\u0652 \u062a\u064e\u0648\u064e\u0643\u0651\u064e\u0644\u0652\u062a\u064f \u0639\u064e\u0644\u064e\u0649 \u0627\u0644\u0644\u0651\u0670\u0647\u0650 \u0631\u064e\u0628\u0651\u0650\u064a\u0652 \u0648\u064e\u0631\u064e\u0628\u0651\u0650\u0643\u064f\u0645\u0652 \u06d7\u0645\u064e\u0627 \u0645\u0650\u0646\u0652 \u062f\u064e\u0627\u06e4\u0628\u0651\u064e\u0629\u064d \u0627\u0650\u0644\u0651\u064e\u0627 \u0647\u064f\u0648\u064e \u0627\u0670\u062e\u0650\u0630\u064c\u06e2 \u0628\u0650\u0646\u064e\u0627\u0635\u0650\u064a\u064e\u062a\u0650\u0647\u064e\u0627 \u06d7\u0627\u0650\u0646\u0651\u064e \u0631\u064e\u0628\u0651\u0650\u064a\u0652 \u0639\u064e\u0644\u0670\u0649 \u0635\u0650\u0631\u064e\u0627\u0637\u064d \u0645\u0651\u064f\u0633\u0652\u062a\u064e\u0642\u0650\u064a\u0652\u0645\u064d",
+            "tr": "innii tawakkaltu 'al<u>aa</u> <strong>al</strong>l<u>aa</u>hi rabbii warabbikum m<u>aa</u> min d<u>aa</u>bbatin ill<u>aa</u> huwa <u>aa</u>khi<u>dz</u>un bin<u>aas</u>iyatih<u>aa</u> inna rabbii 'al<u>aa</u> <u>sh</u>ir<u>aath</u>in mustaqiim<strong>in</strong>",
+            "idn": "Sesungguhnya aku bertawakal kepada Allah Tuhanku dan Tuhanmu. Tidak satu pun makhluk bergerak yang bernyawa melainkan Dialah yang memegang ubun-ubunnya (menguasainya). Sungguh, Tuhanku di jalan yang lurus (adil)."
+        },
+        {
+            "id": 1530,
+            "surah": 11,
+            "nomor": 57,
+            "ar": "\u0641\u064e\u0627\u0650\u0646\u0652 \u062a\u064e\u0648\u064e\u0644\u0651\u064e\u0648\u0652\u0627 \u0641\u064e\u0642\u064e\u062f\u0652 \u0627\u064e\u0628\u0652\u0644\u064e\u063a\u0652\u062a\u064f\u0643\u064f\u0645\u0652 \u0645\u0651\u064e\u0627\u0653 \u0627\u064f\u0631\u0652\u0633\u0650\u0644\u0652\u062a\u064f \u0628\u0650\u0647\u0656\u0653 \u0627\u0650\u0644\u064e\u064a\u0652\u0643\u064f\u0645\u0652 \u06d7\u0648\u064e\u064a\u064e\u0633\u0652\u062a\u064e\u062e\u0652\u0644\u0650\u0641\u064f \u0631\u064e\u0628\u0651\u0650\u064a\u0652 \u0642\u064e\u0648\u0652\u0645\u064b\u0627 \u063a\u064e\u064a\u0652\u0631\u064e\u0643\u064f\u0645\u0652\u06d7 \u0648\u064e\u0644\u064e\u0627 \u062a\u064e\u0636\u064f\u0631\u0651\u064f\u0648\u0652\u0646\u064e\u0647\u0657 \u0634\u064e\u064a\u0652\u0640\u0654\u064b\u0627 \u06d7\u0627\u0650\u0646\u0651\u064e \u0631\u064e\u0628\u0651\u0650\u064a\u0652 \u0639\u064e\u0644\u0670\u0649 \u0643\u064f\u0644\u0651\u0650 \u0634\u064e\u064a\u0652\u0621\u064d \u062d\u064e\u0641\u0650\u064a\u0652\u0638\u064c",
+            "tr": "fa-in tawallaw faqad ablaghtukum m<u>aa</u> ursiltu bihi ilaykum wayastakhlifu rabbii qawman ghayrakum wal<u>aa</u> ta<u>dh</u>urruunahu syay-an inna rabbii 'al<u>aa</u> kulli syay-in <u>h</u>afii<u>zh</u><strong>un</strong>",
+            "idn": "Maka jika kamu berpaling, maka sungguh, aku telah menyampaikan kepadamu apa yang menjadi tugasku sebagai rasul kepadamu. Dan Tuhanku akan mengganti kamu dengan kaum yang lain, sedang kamu tidak dapat mendatangkan mudarat kepada-Nya sedikit pun. Sesungguhnya Tuhanku Maha Pemelihara segala sesuatu.\u201d "
+        },
+        {
+            "id": 1531,
+            "surah": 11,
+            "nomor": 58,
+            "ar": "\u0648\u064e\u0644\u064e\u0645\u0651\u064e\u0627 \u062c\u064e\u0627\u06e4\u0621\u064e \u0627\u064e\u0645\u0652\u0631\u064f\u0646\u064e\u0627 \u0646\u064e\u062c\u0651\u064e\u064a\u0652\u0646\u064e\u0627 \u0647\u064f\u0648\u0652\u062f\u064b\u0627 \u0648\u0651\u064e\u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u0627\u0670\u0645\u064e\u0646\u064f\u0648\u0652\u0627 \u0645\u064e\u0639\u064e\u0647\u0657 \u0628\u0650\u0631\u064e\u062d\u0652\u0645\u064e\u0629\u064d \u0645\u0650\u0651\u0646\u0651\u064e\u0627\u06da \u0648\u064e\u0646\u064e\u062c\u0651\u064e\u064a\u0652\u0646\u0670\u0647\u064f\u0645\u0652 \u0645\u0650\u0651\u0646\u0652 \u0639\u064e\u0630\u064e\u0627\u0628\u064d \u063a\u064e\u0644\u0650\u064a\u0652\u0638\u064d",
+            "tr": "walamm<u>aa</u> j<u>aa</u>-a amrun<u>aa</u> najjayn<u>aa</u> huudan wa<strong>a</strong>lla<u>dz</u>iina <u>aa</u>manuu ma'ahu bira<u>h</u>matin minn<u>aa</u> wanajjayn<u>aa</u>hum min 'a<u>dzaa</u>bin ghalii<u>zh</u><strong>in</strong>",
+            "idn": "Dan ketika azab Kami datang, Kami selamatkan Hud dan orang-orang yang beriman bersama dia dengan rahmat Kami. Kami selamatkan (pula) mereka  (di akhirat) dari azab yang berat."
+        },
+        {
+            "id": 1532,
+            "surah": 11,
+            "nomor": 59,
+            "ar": "\u0648\u064e\u062a\u0650\u0644\u0652\u0643\u064e \u0639\u064e\u0627\u062f\u064c  \u06d6\u062c\u064e\u062d\u064e\u062f\u064f\u0648\u0652\u0627 \u0628\u0650\u0627\u0670\u064a\u0670\u062a\u0650 \u0631\u064e\u0628\u0651\u0650\u0647\u0650\u0645\u0652 \u0648\u064e\u0639\u064e\u0635\u064e\u0648\u0652\u0627 \u0631\u064f\u0633\u064f\u0644\u064e\u0647\u0657 \u0648\u064e\u0627\u062a\u0651\u064e\u0628\u064e\u0639\u064f\u0648\u0652\u0653\u0627 \u0627\u064e\u0645\u0652\u0631\u064e \u0643\u064f\u0644\u0651\u0650 \u062c\u064e\u0628\u0651\u064e\u0627\u0631\u064d \u0639\u064e\u0646\u0650\u064a\u0652\u062f\u064d",
+            "tr": "watilka '<u>aa</u>dun ja<u>h</u>aduu bi-<u>aa</u>y<u>aa</u>ti rabbihim wa'a<u>sh</u>aw rusulahu wa<strong>i</strong>ttaba'uu amra kulli jabb<u>aa</u>rin 'aniid<strong>in</strong>",
+            "idn": "Dan itulah (kisah) kaum \u2018Ad yang mengingkari tanda-tanda (kekuasaan) Tuhan. Mereka mendurhakai rasul-rasul-Nya dan menuruti perintah semua penguasa yang sewenang-wenang lagi durhaka."
+        },
+        {
+            "id": 1533,
+            "surah": 11,
+            "nomor": 60,
+            "ar": "\u0648\u064e\u0627\u064f\u062a\u0652\u0628\u0650\u0639\u064f\u0648\u0652\u0627 \u0641\u0650\u064a\u0652 \u0647\u0670\u0630\u0650\u0647\u0650 \u0627\u0644\u062f\u0651\u064f\u0646\u0652\u064a\u064e\u0627 \u0644\u064e\u0639\u0652\u0646\u064e\u0629\u064b \u0648\u0651\u064e\u064a\u064e\u0648\u0652\u0645\u064e \u0627\u0644\u0652\u0642\u0650\u064a\u0670\u0645\u064e\u0629\u0650 \u06d7 \u0627\u064e\u0644\u064e\u0627\u0653 \u0627\u0650\u0646\u0651\u064e \u0639\u064e\u0627\u062f\u064b\u0627 \u0643\u064e\u0641\u064e\u0631\u064f\u0648\u0652\u0627 \u0631\u064e\u0628\u0651\u064e\u0647\u064f\u0645\u0652 \u06d7 \u0627\u064e\u0644\u064e\u0627 \u0628\u064f\u0639\u0652\u062f\u064b\u0627 \u0644\u0650\u0651\u0639\u064e\u0627\u062f\u064d \u0642\u064e\u0648\u0652\u0645\u0650 \u0647\u064f\u0648\u0652\u062f\u064d \u08d6 ",
+            "tr": "wautbi'uu fii h<u>aadz</u>ihi <strong>al</strong>dduny<u>aa</u> la'natan wayawma <strong>a</strong>lqiy<u>aa</u>mati <strong>a</strong>l<u>aa</u> inna '<u>aa</u>dan kafaruu rabbahum <strong>a</strong>l<u>aa</u> bu'dan li'<u>aa</u>din qawmi huud<strong>in</strong>",
+            "idn": "Dan mereka selalu diikuti dengan laknat di dunia ini dan (begitu pula) di hari Kiamat. Ingatlah, kaum \u2018Ad itu ingkar kepada Tuhan mereka. Sungguh, binasalah kaum \u2018Ad, umat Hud itu,"
+        },
+        {
+            "id": 1534,
+            "surah": 11,
+            "nomor": 61,
+            "ar": "\u06de \u0648\u064e\u0627\u0650\u0644\u0670\u0649 \u062b\u064e\u0645\u064f\u0648\u0652\u062f\u064e \u0627\u064e\u062e\u064e\u0627\u0647\u064f\u0645\u0652 \u0635\u0670\u0644\u0650\u062d\u064b\u0627 \u06d8 \u0642\u064e\u0627\u0644\u064e \u064a\u0670\u0642\u064e\u0648\u0652\u0645\u0650 \u0627\u0639\u0652\u0628\u064f\u062f\u064f\u0648\u0627 \u0627\u0644\u0644\u0651\u0670\u0647\u064e \u0645\u064e\u0627 \u0644\u064e\u0643\u064f\u0645\u0652 \u0645\u0650\u0651\u0646\u0652 \u0627\u0650\u0644\u0670\u0647\u064d \u063a\u064e\u064a\u0652\u0631\u064f\u0647\u0657 \u06d7\u0647\u064f\u0648\u064e \u0627\u064e\u0646\u0652\u0634\u064e\u0627\u064e\u0643\u064f\u0645\u0652 \u0645\u0650\u0651\u0646\u064e \u0627\u0644\u0652\u0627\u064e\u0631\u0652\u0636\u0650 \u0648\u064e\u0627\u0633\u0652\u062a\u064e\u0639\u0652\u0645\u064e\u0631\u064e\u0643\u064f\u0645\u0652 \u0641\u0650\u064a\u0652\u0647\u064e\u0627 \u0641\u064e\u0627\u0633\u0652\u062a\u064e\u063a\u0652\u0641\u0650\u0631\u064f\u0648\u0652\u0647\u064f \u062b\u064f\u0645\u0651\u064e \u062a\u064f\u0648\u0652\u0628\u064f\u0648\u0652\u0653\u0627 \u0627\u0650\u0644\u064e\u064a\u0652\u0647\u0650 \u06d7\u0627\u0650\u0646\u0651\u064e \u0631\u064e\u0628\u0651\u0650\u064a\u0652 \u0642\u064e\u0631\u0650\u064a\u0652\u0628\u064c \u0645\u0651\u064f\u062c\u0650\u064a\u0652\u0628\u064c",
+            "tr": "wa-il<u>aa</u> tsamuuda akh<u>aa</u>hum <u>shaa</u>li<u>h</u>an q<u>aa</u>la y<u>aa</u> qawmi u'buduu <strong>al</strong>l<u>aa</u>ha m<u>aa</u> lakum min il<u>aa</u>hin ghayruhu huwa ansya-akum mina <strong>a</strong>l-ar<u>dh</u>i wa<strong>i</strong>sta'marakum fiih<u>aa</u> fa<strong>i</strong>staghfiruuhu tsumma tuubuu ilayhi inna rabbii qariibun mujiib<strong>un</strong>",
+            "idn": "dan kepada kaum samud (Kami utus) saudara mereka, Saleh. Dia berkata, \u201cWahai kaumku! Sembahlah Allah, tidak ada tuhan bagimu selain Dia. Dia telah menciptakanmu dari bumi (tanah) dan menjadikanmu pemakmurnya, karena itu mohonlah ampunan kepada-Nya, kemudian bertobatlah kepada-Nya. Sesungguhnya Tuhanku sangat dekat (rahmat-Nya) dan memperkenankan (doa hamba-Nya).\u201d"
+        },
+        {
+            "id": 1535,
+            "surah": 11,
+            "nomor": 62,
+            "ar": "\u0642\u064e\u0627\u0644\u064f\u0648\u0652\u0627 \u064a\u0670\u0635\u0670\u0644\u0650\u062d\u064f \u0642\u064e\u062f\u0652 \u0643\u064f\u0646\u0652\u062a\u064e \u0641\u0650\u064a\u0652\u0646\u064e\u0627 \u0645\u064e\u0631\u0652\u062c\u064f\u0648\u0651\u064b\u0627 \u0642\u064e\u0628\u0652\u0644\u064e \u0647\u0670\u0630\u064e\u0627\u0653 \u0627\u064e\u062a\u064e\u0646\u0652\u0647\u0670\u0649\u0646\u064e\u0627\u0653 \u0627\u064e\u0646\u0652 \u0646\u0651\u064e\u0639\u0652\u0628\u064f\u062f\u064e \u0645\u064e\u0627 \u064a\u064e\u0639\u0652\u0628\u064f\u062f\u064f \u0627\u0670\u0628\u064e\u0627\u06e4\u0624\u064f\u0646\u064e\u0627 \u0648\u064e\u0627\u0650\u0646\u0651\u064e\u0646\u064e\u0627 \u0644\u064e\u0641\u0650\u064a\u0652 \u0634\u064e\u0643\u0651\u064d \u0645\u0650\u0651\u0645\u0651\u064e\u0627 \u062a\u064e\u062f\u0652\u0639\u064f\u0648\u0652\u0646\u064e\u0627\u0653 \u0627\u0650\u0644\u064e\u064a\u0652\u0647\u0650 \u0645\u064f\u0631\u0650\u064a\u0652\u0628\u064d",
+            "tr": "q<u>aa</u>luu y<u>aa</u> <u>shaa</u>li<u>h</u>u qad kunta fiin<u>aa</u> marjuwwan qabla h<u>aadzaa</u> atanh<u>aa</u>n<u>aa</u> an na'buda m<u>aa</u> ya'budu <u>aa</u>b<u>aa</u>un<u>aa</u> wa-innan<u>aa</u> lafii syakkin mimm<u>aa</u> tad'uun<u>aa</u> ilayhi muriib<strong>un</strong>",
+            "idn": "Mereka (kaum samud) berkata, \u201cWahai Saleh! Sungguh, engkau sebelum ini berada di tengah-tengah kami merupakan orang yang di harapkan, mengapa engkau melarang kami menyembah apa yang disembah oleh nenek moyang kami? Sungguh, kami benar-benar dalam keraguan dan kegelisahan terhadap apa (agama) yang engkau serukan kepada kami.\u201d"
+        },
+        {
+            "id": 1536,
+            "surah": 11,
+            "nomor": 63,
+            "ar": "\u0642\u064e\u0627\u0644\u064e \u064a\u0670\u0642\u064e\u0648\u0652\u0645\u0650 \u0627\u064e\u0631\u064e\u0621\u064e\u064a\u0652\u062a\u064f\u0645\u0652 \u0627\u0650\u0646\u0652 \u0643\u064f\u0646\u0652\u062a\u064f \u0639\u064e\u0644\u0670\u0649 \u0628\u064e\u064a\u0651\u0650\u0646\u064e\u0629\u064d \u0645\u0650\u0651\u0646\u0652 \u0631\u0651\u064e\u0628\u0651\u0650\u064a\u0652\u06d7 \u0648\u064e\u0627\u0670\u062a\u0670\u0649\u0646\u0650\u064a\u0652 \u0645\u0650\u0646\u0652\u0647\u064f \u0631\u064e\u062d\u0652\u0645\u064e\u0629\u064b \u0641\u064e\u0645\u064e\u0646\u0652 \u064a\u0651\u064e\u0646\u0652\u0635\u064f\u0631\u064f\u0646\u0650\u064a\u0652 \u0645\u0650\u0646\u064e \u0627\u0644\u0644\u0651\u0670\u0647\u0650 \u0627\u0650\u0646\u0652 \u0639\u064e\u0635\u064e\u064a\u0652\u062a\u064f\u0647\u0657 \u06d7\u0641\u064e\u0645\u064e\u0627 \u062a\u064e\u0632\u0650\u064a\u0652\u062f\u064f\u0648\u0652\u0646\u064e\u0646\u0650\u064a\u0652 \u063a\u064e\u064a\u0652\u0631\u064e \u062a\u064e\u062e\u0652\u0633\u0650\u064a\u0652\u0631\u064d",
+            "tr": "q<u>aa</u>la y<u>aa</u> qawmi ara-aytum in kuntu 'al<u>aa</u> bayyinatin min rabbii wa<u>aa</u>t<u>aa</u>nii minhu ra<u>h</u>matan faman yan<u>sh</u>urunii mina <strong>al</strong>l<u>aa</u>hi in 'a<u>sh</u>aytuhu fam<u>aa</u> taziiduunanii ghayra takhsiir<strong>in</strong>",
+            "idn": "Dia (Saleh) berkata, \u201cWahai kaumku! Terangkanlah kepadaku jika aku mempunyai bukti yang nyata dari Tuhanku dan diberi-Nya aku rahmat (kenabian) dari-Nya, maka siapa yang akan menolongku dari (azab) Allah jika aku mendurhakai-Nya? Maka kamu hanya akan menambah kerugian kepadaku."
+        },
+        {
+            "id": 1537,
+            "surah": 11,
+            "nomor": 64,
+            "ar": "\u0648\u064e\u064a\u0670\u0642\u064e\u0648\u0652\u0645\u0650 \u0647\u0670\u0630\u0650\u0647\u0656 \u0646\u064e\u0627\u0642\u064e\u0629\u064f \u0627\u0644\u0644\u0651\u0670\u0647\u0650 \u0644\u064e\u0643\u064f\u0645\u0652 \u0627\u0670\u064a\u064e\u0629\u064b \u0641\u064e\u0630\u064e\u0631\u064f\u0648\u0652\u0647\u064e\u0627 \u062a\u064e\u0623\u0652\u0643\u064f\u0644\u0652 \u0641\u0650\u064a\u0652\u0653 \u0627\u064e\u0631\u0652\u0636\u0650 \u0627\u0644\u0644\u0651\u0670\u0647\u0650 \u0648\u064e\u0644\u064e\u0627 \u062a\u064e\u0645\u064e\u0633\u0651\u064f\u0648\u0652\u0647\u064e\u0627 \u0628\u0650\u0633\u064f\u0648\u0652\u06e4\u0621\u064d \u0641\u064e\u064a\u064e\u0623\u0652\u062e\u064f\u0630\u064e\u0643\u064f\u0645\u0652 \u0639\u064e\u0630\u064e\u0627\u0628\u064c \u0642\u064e\u0631\u0650\u064a\u0652\u0628\u064c",
+            "tr": "way<u>aa</u> qawmi h<u>aadz</u>ihi n<u>aa</u>qatu <strong>al</strong>l<u>aa</u>hi lakum <u>aa</u>yatan fa<u>dz</u>aruuh<u>aa</u> ta/kul fii ar<u>dh</u>i <strong>al</strong>l<u>aa</u>hi wal<u>aa</u> tamassuuh<u>aa</u> bisuu-in faya/khu<u>dz</u>akum 'a<u>dzaa</u>bun qariib<strong>un</strong>",
+            "idn": "Dan wahai kaumku! Inilah unta betina dari Allah, sebagai mukjizat untukmu, sebab itu biarkanlah dia makan di bumi Allah, dan janganlah kamu mengganggunya dengan gangguan apa pun yang akan menyebabkan kamu segera ditimpa (azab).\u201d"
+        },
+        {
+            "id": 1538,
+            "surah": 11,
+            "nomor": 65,
+            "ar": "\u0641\u064e\u0639\u064e\u0642\u064e\u0631\u064f\u0648\u0652\u0647\u064e\u0627 \u0641\u064e\u0642\u064e\u0627\u0644\u064e \u062a\u064e\u0645\u064e\u062a\u0651\u064e\u0639\u064f\u0648\u0652\u0627 \u0641\u0650\u064a\u0652 \u062f\u064e\u0627\u0631\u0650\u0643\u064f\u0645\u0652 \u062b\u064e\u0644\u0670\u062b\u064e\u0629\u064e \u0627\u064e\u064a\u0651\u064e\u0627\u0645\u064d \u06d7\u0630\u0670\u0644\u0650\u0643\u064e \u0648\u064e\u0639\u0652\u062f\u064c \u063a\u064e\u064a\u0652\u0631\u064f \u0645\u064e\u0643\u0652\u0630\u064f\u0648\u0652\u0628\u064d",
+            "tr": "fa'aqaruuh<u>aa</u> faq<u>aa</u>la tamatta'uu fii d<u>aa</u>rikum tsal<u>aa</u>tsata ayy<u>aa</u>min <u>dzaa</u>lika wa'dun ghayru mak<u>dz</u>uub<strong>in</strong>",
+            "idn": "Maka mereka menyembelih unta itu, kemudian dia (Saleh) berkata, \u201cBersukarialah kamu semua di rumahmu selama tiga hari. Itu adalah janji yang tidak dapat didustakan.\u201d"
+        },
+        {
+            "id": 1539,
+            "surah": 11,
+            "nomor": 66,
+            "ar": "\u0641\u064e\u0644\u064e\u0645\u0651\u064e\u0627 \u062c\u064e\u0627\u06e4\u0621\u064e \u0627\u064e\u0645\u0652\u0631\u064f\u0646\u064e\u0627 \u0646\u064e\u062c\u0651\u064e\u064a\u0652\u0646\u064e\u0627 \u0635\u0670\u0644\u0650\u062d\u064b\u0627 \u0648\u0651\u064e\u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u0627\u0670\u0645\u064e\u0646\u064f\u0648\u0652\u0627 \u0645\u064e\u0639\u064e\u0647\u0657 \u0628\u0650\u0631\u064e\u062d\u0652\u0645\u064e\u0629\u064d \u0645\u0650\u0651\u0646\u0651\u064e\u0627 \u0648\u064e\u0645\u0650\u0646\u0652 \u062e\u0650\u0632\u0652\u064a\u0650 \u064a\u064e\u0648\u0652\u0645\u0650\u0649\u0655\u0650\u0630\u064d \u06d7\u0627\u0650\u0646\u0651\u064e \u0631\u064e\u0628\u0651\u064e\u0643\u064e \u0647\u064f\u0648\u064e \u0627\u0644\u0652\u0642\u064e\u0648\u0650\u064a\u0651\u064f \u0627\u0644\u0652\u0639\u064e\u0632\u0650\u064a\u0652\u0632\u064f",
+            "tr": "falamm<u>aa</u> j<u>aa</u>-a amrun<u>aa</u> najjayn<u>aa</u> <u>shaa</u>li<u>h</u>an wa<strong>a</strong>lla<u>dz</u>iina <u>aa</u>manuu ma'ahu bira<u>h</u>matin minn<u>aa</u> wamin khizyi yawmi-i<u>dz</u>in inna rabbaka huwa <strong>a</strong>lqawiyyu <strong>a</strong>l'aziiz<strong>u</strong>",
+            "idn": "Maka ketika keputusan Kami datang, Kami selamatkan Saleh dan orang-orang yang beriman bersamanya dengan rahmat Kami dan (Kami selamatkan) dari kehinaan pada hari itu. Sungguh, Tuhanmu, Dia Mahakuat, Mahaperkasa."
+        },
+        {
+            "id": 1540,
+            "surah": 11,
+            "nomor": 67,
+            "ar": "\u0648\u064e\u0627\u064e\u062e\u064e\u0630\u064e \u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u0638\u064e\u0644\u064e\u0645\u064f\u0648\u0627 \u0627\u0644\u0635\u0651\u064e\u064a\u0652\u062d\u064e\u0629\u064f \u0641\u064e\u0627\u064e\u0635\u0652\u0628\u064e\u062d\u064f\u0648\u0652\u0627 \u0641\u0650\u064a\u0652 \u062f\u0650\u064a\u064e\u0627\u0631\u0650\u0647\u0650\u0645\u0652 \u062c\u0670\u062b\u0650\u0645\u0650\u064a\u0652\u0646\u064e\u06d9  ",
+            "tr": "wa-akha<u>dz</u>a <strong>al</strong>la<u>dz</u>iina <u>zh</u>alamuu <strong>al</strong><u>shsh</u>ay<u>h</u>atu fa-a<u>sh</u>ba<u>h</u>uu fii diy<u>aa</u>rihim j<u>aa</u>tsimiin<strong>a</strong>",
+            "idn": " Kemudian suara yang mengguntur menimpa orang-orang zalim itu, sehingga mereka mati bergelimpangan di rumahnya."
+        },
+        {
+            "id": 1541,
+            "surah": 11,
+            "nomor": 68,
+            "ar": "\u0643\u064e\u0627\u064e\u0646\u0652 \u0644\u0651\u064e\u0645\u0652 \u064a\u064e\u063a\u0652\u0646\u064e\u0648\u0652\u0627 \u0641\u0650\u064a\u0652\u0647\u064e\u0627 \u06d7 \u0627\u064e\u0644\u064e\u0627\u0653 \u0627\u0650\u0646\u0651\u064e \u062b\u064e\u0645\u064f\u0648\u0652\u062f\u064e\u0627\u06e0 \u0643\u064e\u0641\u064e\u0631\u064f\u0648\u0652\u0627 \u0631\u064e\u0628\u0651\u064e\u0647\u064f\u0645\u0652 \u06d7 \u0627\u064e\u0644\u064e\u0627 \u0628\u064f\u0639\u0652\u062f\u064b\u0627 \u0644\u0650\u0651\u062b\u064e\u0645\u064f\u0648\u0652\u062f\u064e \u08d6 ",
+            "tr": "ka-an lam yaghnaw fiih<u>aa</u> <strong>a</strong>l<u>aa</u> inna tsamuuda kafaruu rabbahum <strong>a</strong>l<u>aa</u> bu'dan litsamuud<strong>a</strong>",
+            "idn": "Seolah-olah mereka belum pernah tinggal di tempat itu. Ingatlah, kaum samud mengingkari Tuhan mereka. Ingatlah, binasalah kaum samud."
+        },
+        {
+            "id": 1542,
+            "surah": 11,
+            "nomor": 69,
+            "ar": "\u0648\u064e\u0644\u064e\u0642\u064e\u062f\u0652 \u062c\u064e\u0627\u06e4\u0621\u064e\u062a\u0652 \u0631\u064f\u0633\u064f\u0644\u064f\u0646\u064e\u0627\u0653 \u0627\u0650\u0628\u0652\u0631\u0670\u0647\u0650\u064a\u0652\u0645\u064e \u0628\u0650\u0627\u0644\u0652\u0628\u064f\u0634\u0652\u0631\u0670\u0649 \u0642\u064e\u0627\u0644\u064f\u0648\u0652\u0627 \u0633\u064e\u0644\u0670\u0645\u064b\u0627 \u06d6\u0642\u064e\u0627\u0644\u064e \u0633\u064e\u0644\u0670\u0645\u064c \u0641\u064e\u0645\u064e\u0627 \u0644\u064e\u0628\u0650\u062b\u064e \u0627\u064e\u0646\u0652 \u062c\u064e\u0627\u06e4\u0621\u064e \u0628\u0650\u0639\u0650\u062c\u0652\u0644\u064d \u062d\u064e\u0646\u0650\u064a\u0652\u0630\u064d",
+            "tr": "walaqad j<u>aa</u>-at rusulun<u>aa</u> ibr<u>aa</u>hiima bi<strong>a</strong>lbusyr<u>aa</u> q<u>aa</u>luu sal<u>aa</u>man q<u>aa</u>la sal<u>aa</u>mun fam<u>aa</u> labitsa an j<u>aa</u>-a bi'ijlin <u>h</u>anii<u>dz</u><strong>in</strong>",
+            "idn": "Dan para utusan Kami (para malaikat) telah datang kepada Ibrahim dengan membawa kabar gembira, mereka mengucapkan, \u201cSelamat.\u201d Dia (Ibrahim) menjawab, \u201cSelamat (atas kamu).\u201d Ma-ka tidak lama kemudian Ibrahim menyuguhkan daging anak sapi yang dipanggang."
+        },
+        {
+            "id": 1543,
+            "surah": 11,
+            "nomor": 70,
+            "ar": "\u0641\u064e\u0644\u064e\u0645\u0651\u064e\u0627 \u0631\u064e\u0627\u0670\u0649\u0653 \u0627\u064e\u064a\u0652\u062f\u0650\u064a\u064e\u0647\u064f\u0645\u0652 \u0644\u064e\u0627 \u062a\u064e\u0635\u0650\u0644\u064f \u0627\u0650\u0644\u064e\u064a\u0652\u0647\u0650 \u0646\u064e\u0643\u0650\u0631\u064e\u0647\u064f\u0645\u0652 \u0648\u064e\u0627\u064e\u0648\u0652\u062c\u064e\u0633\u064e \u0645\u0650\u0646\u0652\u0647\u064f\u0645\u0652 \u062e\u0650\u064a\u0652\u0641\u064e\u0629\u064b \u06d7\u0642\u064e\u0627\u0644\u064f\u0648\u0652\u0627 \u0644\u064e\u0627 \u062a\u064e\u062e\u064e\u0641\u0652 \u0627\u0650\u0646\u0651\u064e\u0627\u0653 \u0627\u064f\u0631\u0652\u0633\u0650\u0644\u0652\u0646\u064e\u0627\u0653 \u0627\u0650\u0644\u0670\u0649 \u0642\u064e\u0648\u0652\u0645\u0650 \u0644\u064f\u0648\u0652\u0637\u064d\u06d7 ",
+            "tr": "falamm<u>aa</u> ra<u>aa</u> aydiyahum l<u>aa</u> ta<u>sh</u>ilu ilayhi nakirahum wa-awjasa minhum khiifatan q<u>aa</u>luu l<u>aa</u> takhaf inn<u>aa</u> ursiln<u>aa</u> il<u>aa</u> qawmi luu<u>th</u><strong>in</strong>",
+            "idn": "Maka ketika dilihatnya tangan mereka tidak menjamahnya, dia (Ibrahim) mencurigai mereka, dan merasa takut kepada mereka. Mereka (malaikat) berkata, \u201cJangan takut, sesungguhnya kami diutus kepada kaum Lut.\u201d"
+        },
+        {
+            "id": 1544,
+            "surah": 11,
+            "nomor": 71,
+            "ar": "\u0648\u064e\u0627\u0645\u0652\u0631\u064e\u0627\u064e\u062a\u064f\u0647\u0657 \u0642\u064e\u0627\u06e4\u0649\u0655\u0650\u0645\u064e\u0629\u064c \u0641\u064e\u0636\u064e\u062d\u0650\u0643\u064e\u062a\u0652 \u0641\u064e\u0628\u064e\u0634\u0651\u064e\u0631\u0652\u0646\u0670\u0647\u064e\u0627 \u0628\u0650\u0627\u0650\u0633\u0652\u062d\u0670\u0642\u064e\u06d9 \u0648\u064e\u0645\u0650\u0646\u0652 \u0648\u0651\u064e\u0631\u064e\u0627\u06e4\u0621\u0650 \u0627\u0650\u0633\u0652\u062d\u0670\u0642\u064e \u064a\u064e\u0639\u0652\u0642\u064f\u0648\u0652\u0628\u064e",
+            "tr": "wa<strong>i</strong>mra-atuhu q<u>aa</u>-imatun fa<u>dh</u>a<u>h</u>ikat fabasysyarn<u>aa</u>h<u>aa</u> bi-is<u>haa</u>qa wamin war<u>aa</u>-i is<u>haa</u>qa ya'quub<strong>a</strong>",
+            "idn": "Dan istrinya berdiri lalu dia tersenyum. Maka Kami sampaikan kepadanya kabar gembira tentang (kelahiran) Ishak dan setelah Ishak (akan lahir) Yakub."
+        },
+        {
+            "id": 1545,
+            "surah": 11,
+            "nomor": 72,
+            "ar": "\u0642\u064e\u0627\u0644\u064e\u062a\u0652 \u064a\u0670\u0648\u064e\u064a\u0652\u0644\u064e\u062a\u0670\u0649\u0653 \u0621\u064e\u0627\u064e\u0644\u0650\u062f\u064f \u0648\u064e\u0627\u064e\u0646\u064e\u0627\u06e0 \u0639\u064e\u062c\u064f\u0648\u0652\u0632\u064c \u0648\u0651\u064e\u0647\u0670\u0630\u064e\u0627 \u0628\u064e\u0639\u0652\u0644\u0650\u064a\u0652 \u0634\u064e\u064a\u0652\u062e\u064b\u0627 \u06d7\u0627\u0650\u0646\u0651\u064e \u0647\u0670\u0630\u064e\u0627 \u0644\u064e\u0634\u064e\u064a\u0652\u0621\u064c \u0639\u064e\u062c\u0650\u064a\u0652\u0628\u064c",
+            "tr": "q<u>aa</u>lat y<u>aa</u> waylat<u>aa</u> a-alidu wa-an<u>aa</u> 'ajuuzun wah<u>aadzaa</u> ba'lii syaykhan inna h<u>aadzaa</u> lasyay-un 'ajiib<strong>un</strong>",
+            "idn": "Dia (istrinya) berkata, \u201cSungguh ajaib, mungkinkah aku akan melahirkan anak padahal aku sudah tua, dan suamiku ini sudah sangat tua? Ini benar-benar sesuatu yang ajaib.\u201d"
+        },
+        {
+            "id": 1546,
+            "surah": 11,
+            "nomor": 73,
+            "ar": "\u0642\u064e\u0627\u0644\u064f\u0648\u0652\u0653\u0627 \u0627\u064e\u062a\u064e\u0639\u0652\u062c\u064e\u0628\u0650\u064a\u0652\u0646\u064e \u0645\u0650\u0646\u0652 \u0627\u064e\u0645\u0652\u0631\u0650 \u0627\u0644\u0644\u0651\u0670\u0647\u0650 \u0631\u064e\u062d\u0652\u0645\u064e\u062a\u064f \u0627\u0644\u0644\u0651\u0670\u0647\u0650 \u0648\u064e\u0628\u064e\u0631\u064e\u0643\u0670\u062a\u064f\u0647\u0657 \u0639\u064e\u0644\u064e\u064a\u0652\u0643\u064f\u0645\u0652 \u0627\u064e\u0647\u0652\u0644\u064e \u0627\u0644\u0652\u0628\u064e\u064a\u0652\u062a\u0650\u06d7 \u0627\u0650\u0646\u0651\u064e\u0647\u064f \u062d\u064e\u0645\u0650\u064a\u0652\u062f\u064c \u0645\u0651\u064e\u062c\u0650\u064a\u0652\u062f\u064c",
+            "tr": "q<u>aa</u>luu ata'jabiina min amri <strong>al</strong>l<u>aa</u>hi ra<u>h</u>matu <strong>al</strong>l<u>aa</u>hi wabarak<u>aa</u>tuhu 'alaykum ahla <strong>a</strong>lbayti innahu <u>h</u>amiidun majiid<strong>un</strong>",
+            "idn": "Mereka (para malaikat) berkata, \u201cMengapa engkau merasa heran tentang ketetapan Allah? (Itu adalah) rahmat dan berkah Allah, dicurahkan kepada kamu, wahai ahlulbait! Sesungguhnya Allah Maha Terpuji, Maha Pengasih.\u201d"
+        },
+        {
+            "id": 1547,
+            "surah": 11,
+            "nomor": 74,
+            "ar": "\u0641\u064e\u0644\u064e\u0645\u0651\u064e\u0627 \u0630\u064e\u0647\u064e\u0628\u064e \u0639\u064e\u0646\u0652 \u0627\u0650\u0628\u0652\u0631\u0670\u0647\u0650\u064a\u0652\u0645\u064e \u0627\u0644\u0631\u0651\u064e\u0648\u0652\u0639\u064f \u0648\u064e\u062c\u064e\u0627\u06e4\u0621\u064e\u062a\u0652\u0647\u064f \u0627\u0644\u0652\u0628\u064f\u0634\u0652\u0631\u0670\u0649 \u064a\u064f\u062c\u064e\u0627\u062f\u0650\u0644\u064f\u0646\u064e\u0627 \u0641\u0650\u064a\u0652 \u0642\u064e\u0648\u0652\u0645\u0650 \u0644\u064f\u0648\u0652\u0637\u064d",
+            "tr": "falamm<u>aa</u> <u>dz</u>ahaba 'an ibr<u>aa</u>hiima <strong>al</strong>rraw'u waj<u>aa</u>-at-hu <strong>a</strong>lbusyr<u>aa </u>yuj<u>aa</u>dilun<u>aa</u> fii qawmi luu<u>th</u><strong>in</strong>",
+            "idn": "Maka ketika rasa takut hilang dari Ibrahim dan kabar gembira telah datang kepadanya, dia pun bersoal jawab dengan (para malaikat) Kami tentang kaum Lut."
+        },
+        {
+            "id": 1548,
+            "surah": 11,
+            "nomor": 75,
+            "ar": "\u0627\u0650\u0646\u0651\u064e \u0627\u0650\u0628\u0652\u0631\u0670\u0647\u0650\u064a\u0652\u0645\u064e \u0644\u064e\u062d\u064e\u0644\u0650\u064a\u0652\u0645\u064c \u0627\u064e\u0648\u0651\u064e\u0627\u0647\u064c \u0645\u0651\u064f\u0646\u0650\u064a\u0652\u0628\u064c",
+            "tr": "inna ibr<u>aa</u>hiima la<u>h</u>aliimun aww<u>aa</u>hun muniib<strong>un</strong>",
+            "idn": "Ibrahim sungguh penyantun, lembut hati dan suka kembali (kepada Allah)."
+        },
+        {
+            "id": 1549,
+            "surah": 11,
+            "nomor": 76,
+            "ar": "\u064a\u0670\u0653\u0627\u0650\u0628\u0652\u0631\u0670\u0647\u0650\u064a\u0652\u0645\u064f \u0627\u064e\u0639\u0652\u0631\u0650\u0636\u0652 \u0639\u064e\u0646\u0652 \u0647\u0670\u0630\u064e\u0627 \u06da\u0627\u0650\u0646\u0651\u064e\u0647\u0657 \u0642\u064e\u062f\u0652 \u062c\u064e\u0627\u06e4\u0621\u064e \u0627\u064e\u0645\u0652\u0631\u064f \u0631\u064e\u0628\u0651\u0650\u0643\u064e\u06da \u0648\u064e\u0627\u0650\u0646\u0651\u064e\u0647\u064f\u0645\u0652 \u0627\u0670\u062a\u0650\u064a\u0652\u0647\u0650\u0645\u0652 \u0639\u064e\u0630\u064e\u0627\u0628\u064c \u063a\u064e\u064a\u0652\u0631\u064f \u0645\u064e\u0631\u0652\u062f\u064f\u0648\u0652\u062f\u064d",
+            "tr": "y<u>aa</u> ibr<u>aa</u>hiimu a'ri<u>dh</u> 'an h<u>aadzaa</u> innahu qad j<u>aa</u>-a amru rabbika wa-innahum <u>aa</u>tiihim 'a<u>dzaa</u>bun ghayru marduud<strong>in</strong>",
+            "idn": "Wahai Ibrahim! Tinggalkanlah (perbincangan) ini, sungguh, ketetapan Tuhanmu telah datang, dan mereka itu akan ditimpa azab yang tidak dapat ditolak."
+        },
+        {
+            "id": 1550,
+            "surah": 11,
+            "nomor": 77,
+            "ar": "\u0648\u064e\u0644\u064e\u0645\u0651\u064e\u0627 \u062c\u064e\u0627\u06e4\u0621\u064e\u062a\u0652 \u0631\u064f\u0633\u064f\u0644\u064f\u0646\u064e\u0627 \u0644\u064f\u0648\u0652\u0637\u064b\u0627 \u0633\u0650\u064a\u06e4\u0652\u0621\u064e \u0628\u0650\u0647\u0650\u0645\u0652 \u0648\u064e\u0636\u064e\u0627\u0642\u064e \u0628\u0650\u0647\u0650\u0645\u0652 \u0630\u064e\u0631\u0652\u0639\u064b\u0627 \u0648\u0651\u064e\u0642\u064e\u0627\u0644\u064e \u0647\u0670\u0630\u064e\u0627 \u064a\u064e\u0648\u0652\u0645\u064c \u0639\u064e\u0635\u0650\u064a\u0652\u0628\u064c",
+            "tr": "walamm<u>aa</u> j<u>aa</u>-at rusulun<u>aa</u> luu<u>th</u>an sii-a bihim wa<u>daa</u>qa bihim <u>dz</u>ar'an waq<u>aa</u>la h<u>aadzaa</u> yawmun 'a<u>sh</u>iib<strong>un</strong>",
+            "idn": "Dan ketika para utusan Kami (para malaikat) itu datang kepada Lut, dia merasa curiga dan dadanya merasa sempit karena (kedatangan)nya. Dia (Lut) berkata, \u201cIni hari yang sangat sulit.\u201d"
+        },
+        {
+            "id": 1551,
+            "surah": 11,
+            "nomor": 78,
+            "ar": "\u0648\u064e\u062c\u064e\u0627\u06e4\u0621\u064e\u0647\u0657 \u0642\u064e\u0648\u0652\u0645\u064f\u0647\u0657 \u064a\u064f\u0647\u0652\u0631\u064e\u0639\u064f\u0648\u0652\u0646\u064e \u0627\u0650\u0644\u064e\u064a\u0652\u0647\u0650\u06d7 \u0648\u064e\u0645\u0650\u0646\u0652 \u0642\u064e\u0628\u0652\u0644\u064f \u0643\u064e\u0627\u0646\u064f\u0648\u0652\u0627 \u064a\u064e\u0639\u0652\u0645\u064e\u0644\u064f\u0648\u0652\u0646\u064e \u0627\u0644\u0633\u0651\u064e\u064a\u0651\u0650\u0627\u0670\u062a\u0650\u06d7 \u0642\u064e\u0627\u0644\u064e \u064a\u0670\u0642\u064e\u0648\u0652\u0645\u0650 \u0647\u0670\u0653\u0624\u064f\u0644\u064e\u0627\u06e4\u0621\u0650 \u0628\u064e\u0646\u064e\u0627\u062a\u0650\u064a\u0652 \u0647\u064f\u0646\u0651\u064e \u0627\u064e\u0637\u0652\u0647\u064e\u0631\u064f \u0644\u064e\u0643\u064f\u0645\u0652 \u0641\u064e\u0627\u062a\u0651\u064e\u0642\u064f\u0648\u0627 \u0627\u0644\u0644\u0651\u0670\u0647\u064e \u0648\u064e\u0644\u064e\u0627 \u062a\u064f\u062e\u0652\u0632\u064f\u0648\u0652\u0646\u0650 \u0641\u0650\u064a\u0652 \u0636\u064e\u064a\u0652\u0641\u0650\u064a\u0652\u06d7  \u0627\u064e\u0644\u064e\u064a\u0652\u0633\u064e \u0645\u0650\u0646\u0652\u0643\u064f\u0645\u0652 \u0631\u064e\u062c\u064f\u0644\u064c \u0631\u0651\u064e\u0634\u0650\u064a\u0652\u062f\u064c",
+            "tr": "waj<u>aa</u>-ahu qawmuhu yuhra'uuna ilayhi wamin qablu k<u>aa</u>nuu ya'maluuna <strong>al</strong>ssayyi-<u>aa</u>ti q<u>aa</u>la y<u>aa</u> qawmi h<u>aa</u>ul<u>aa</u>-i ban<u>aa</u>tii hunna a<u>th</u>haru lakum fa<strong>i</strong>ttaquu <strong>al</strong>l<u>aa</u>ha wal<u>aa</u> tukhzuuni fii <u>dh</u>ayfii alaysa minkum rajulun rasyiid<strong>un</strong>",
+            "idn": "Dan kaumnya segera datang kepadanya. Dan sejak dahulu mereka selalu melakukan perbuatan keji. Lut berkata, \u201cWahai kaumku! Inilah putri-putri (negeri)ku mereka lebih suci bagimu, maka bertakwalah kepada Allah dan janganlah kamu mencemarkan (nama)ku terhadap tamuku ini. Tidak adakah di antaramu orang yang pandai?\u201d"
+        },
+        {
+            "id": 1552,
+            "surah": 11,
+            "nomor": 79,
+            "ar": "\u0642\u064e\u0627\u0644\u064f\u0648\u0652\u0627 \u0644\u064e\u0642\u064e\u062f\u0652 \u0639\u064e\u0644\u0650\u0645\u0652\u062a\u064e \u0645\u064e\u0627 \u0644\u064e\u0646\u064e\u0627 \u0641\u0650\u064a\u0652 \u0628\u064e\u0646\u0670\u062a\u0650\u0643\u064e \u0645\u0650\u0646\u0652 \u062d\u064e\u0642\u0651\u064d\u06da \u0648\u064e\u0627\u0650\u0646\u0651\u064e\u0643\u064e \u0644\u064e\u062a\u064e\u0639\u0652\u0644\u064e\u0645\u064f \u0645\u064e\u0627 \u0646\u064f\u0631\u0650\u064a\u0652\u062f\u064f",
+            "tr": "q<u>aa</u>luu laqad 'alimta m<u>aa</u> lan<u>aa</u> fii ban<u>aa</u>tika min <u>h</u>aqqin wa-innaka lata'lamu m<u>aa</u> nuriid<strong>u</strong>",
+            "idn": "Mereka menjawab, \u201cSesungguhnya eng-kau pasti tahu bahwa kami tidak mempunyai keinginan (syahwat) terhadap putri-putrimu; dan engkau tentu mengetahui apa yang (sebenarnya) kami kehendaki.\u201d"
+        },
+        {
+            "id": 1553,
+            "surah": 11,
+            "nomor": 80,
+            "ar": "\u0642\u064e\u0627\u0644\u064e \u0644\u064e\u0648\u0652 \u0627\u064e\u0646\u0651\u064e \u0644\u0650\u064a\u0652 \u0628\u0650\u0643\u064f\u0645\u0652 \u0642\u064f\u0648\u0651\u064e\u0629\u064b \u0627\u064e\u0648\u0652 \u0627\u0670\u0648\u0650\u064a\u0652\u0653 \u0627\u0650\u0644\u0670\u0649 \u0631\u064f\u0643\u0652\u0646\u064d \u0634\u064e\u062f\u0650\u064a\u0652\u062f\u064d",
+            "tr": "q<u>aa</u>la law anna lii bikum quwwatan aw <u>aa</u>wii il<u>aa</u> ruknin syadiid<strong>in</strong>",
+            "idn": "Dia (Lut) berkata, \u201cSekiranya aku mempunyai kekuatan (untuk menolakmu) atau aku dapat berlindung kepada keluarga yang kuat (tentu aku lakukan).\u201d"
+        },
+        {
+            "id": 1554,
+            "surah": 11,
+            "nomor": 81,
+            "ar": "\u0642\u064e\u0627\u0644\u064f\u0648\u0652\u0627 \u064a\u0670\u0644\u064f\u0648\u0652\u0637\u064f \u0627\u0650\u0646\u0651\u064e\u0627 \u0631\u064f\u0633\u064f\u0644\u064f \u0631\u064e\u0628\u0651\u0650\u0643\u064e \u0644\u064e\u0646\u0652 \u064a\u0651\u064e\u0635\u0650\u0644\u064f\u0648\u0652\u0653\u0627 \u0627\u0650\u0644\u064e\u064a\u0652\u0643\u064e \u0641\u064e\u0627\u064e\u0633\u0652\u0631\u0650 \u0628\u0650\u0627\u064e\u0647\u0652\u0644\u0650\u0643\u064e \u0628\u0650\u0642\u0650\u0637\u0652\u0639\u064d \u0645\u0650\u0651\u0646\u064e \u0627\u0644\u0651\u064e\u064a\u0652\u0644\u0650 \u0648\u064e\u0644\u064e\u0627 \u064a\u064e\u0644\u0652\u062a\u064e\u0641\u0650\u062a\u0652 \u0645\u0650\u0646\u0652\u0643\u064f\u0645\u0652 \u0627\u064e\u062d\u064e\u062f\u064c \u0627\u0650\u0644\u0651\u064e\u0627 \u0627\u0645\u0652\u0631\u064e\u0627\u064e\u062a\u064e\u0643\u064e\u06d7 \u0627\u0650\u0646\u0651\u064e\u0647\u0657 \u0645\u064f\u0635\u0650\u064a\u0652\u0628\u064f\u0647\u064e\u0627 \u0645\u064e\u0627\u0653 \u0627\u064e\u0635\u064e\u0627\u0628\u064e\u0647\u064f\u0645\u0652  \u06d7\u0627\u0650\u0646\u0651\u064e \u0645\u064e\u0648\u0652\u0639\u0650\u062f\u064e\u0647\u064f\u0645\u064f \u0627\u0644\u0635\u0651\u064f\u0628\u0652\u062d\u064f \u06d7 \u0627\u064e\u0644\u064e\u064a\u0652\u0633\u064e \u0627\u0644\u0635\u0651\u064f\u0628\u0652\u062d\u064f \u0628\u0650\u0642",
+            "tr": "q<u>aa</u>luu y<u>aa</u> luu<u>th</u>u inn<u>aa</u> rusulu rabbika lan ya<u>sh</u>iluu ilayka fa-asri bi-ahlika biqi<u>th</u>'in mina <strong>al</strong>layli wal<u>aa</u> yaltafit minkum a<u>h</u>adun ill<u>aa</u> imra-ataka innahu mu<u>sh</u>iibuh<u>aa</u> m<u>aa</u> a<u>shaa</u>bahum inna maw'idahumu <strong>al</strong><u>shsh</u>ub<u>h</u>u alaysa <strong>al</strong><u>shsh</u>ub<u>h</u>u biqariib<strong>in</strong>",
+            "idn": "Mereka (para malaikat) berkata, \u201cWahai Lut! Sesungguhnya kami adalah para utusan Tuhanmu, mereka tidak akan dapat mengganggu kamu, sebab itu pergilah beserta keluargamu pada akhir malam dan jangan ada seorang pun di antara kamu yang menoleh ke belakang, kecuali istrimu. Sesungguhnya dia (juga) akan ditimpa (siksaan) yang menimpa mereka. Sesungguhnya saat terjadinya siksaan bagi mereka itu pada waktu subuh. Bukankah subuh itu sudah dekat?\u201d"
+        },
+        {
+            "id": 1555,
+            "surah": 11,
+            "nomor": 82,
+            "ar": "\u0641\u064e\u0644\u064e\u0645\u0651\u064e\u0627 \u062c\u064e\u0627\u06e4\u0621\u064e \u0627\u064e\u0645\u0652\u0631\u064f\u0646\u064e\u0627 \u062c\u064e\u0639\u064e\u0644\u0652\u0646\u064e\u0627 \u0639\u064e\u0627\u0644\u0650\u064a\u064e\u0647\u064e\u0627 \u0633\u064e\u0627\u0641\u0650\u0644\u064e\u0647\u064e\u0627 \u0648\u064e\u0627\u064e\u0645\u0652\u0637\u064e\u0631\u0652\u0646\u064e\u0627 \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u064e\u0627 \u062d\u0650\u062c\u064e\u0627\u0631\u064e\u0629\u064b \u0645\u0650\u0651\u0646\u0652 \u0633\u0650\u062c\u0651\u0650\u064a\u0652\u0644\u064d \u0645\u0651\u064e\u0646\u0652\u0636\u064f\u0648\u0652\u062f\u064d",
+            "tr": "falamm<u>aa</u> j<u>aa</u>-a amrun<u>aa</u> ja'aln<u>aa</u> '<u>aa</u>liyah<u>aa</u> s<u>aa</u>filah<u>aa</u> wa-am<u>th</u>arn<u>aa</u> 'alayh<u>aa</u> <u>h</u>ij<u>aa</u>ratan min sijjiilin man<u>dh</u>uud<strong>in</strong>",
+            "idn": "Maka ketika keputusan Kami datang, Kami menjungkirbalikkannya negeri kaum Lut, dan Kami hujani mereka bertubi-tubi dengan batu dari tanah yang terbakar, "
+        },
+        {
+            "id": 1556,
+            "surah": 11,
+            "nomor": 83,
+            "ar": "\u0645\u064f\u0633\u064e\u0648\u0651\u064e\u0645\u064e\u0629\u064b \u0639\u0650\u0646\u0652\u062f\u064e \u0631\u064e\u0628\u0651\u0650\u0643\u064e\u06d7 \u0648\u064e\u0645\u064e\u0627 \u0647\u0650\u064a\u064e \u0645\u0650\u0646\u064e \u0627\u0644\u0638\u0651\u0670\u0644\u0650\u0645\u0650\u064a\u0652\u0646\u064e \u0628\u0650\u0628\u064e\u0639\u0650\u064a\u0652\u062f\u064d \u08d6 ",
+            "tr": "musawwamatan 'inda rabbika wam<u>aa</u> hiya mina <strong>al</strong><u>zhzhaa</u>limiina biba'iid<strong>in</strong>",
+            "idn": "yang diberi tanda oleh Tuhanmu. Dan siksaan itu tiadalah jauh dari orang yang zalim."
+        },
+        {
+            "id": 1557,
+            "surah": 11,
+            "nomor": 84,
+            "ar": "\u06de \u0648\u064e\u0627\u0650\u0644\u0670\u0649 \u0645\u064e\u062f\u0652\u064a\u064e\u0646\u064e \u0627\u064e\u062e\u064e\u0627\u0647\u064f\u0645\u0652 \u0634\u064f\u0639\u064e\u064a\u0652\u0628\u064b\u0627 \u06d7\u0642\u064e\u0627\u0644\u064e \u064a\u0670\u0642\u064e\u0648\u0652\u0645\u0650 \u0627\u0639\u0652\u0628\u064f\u062f\u064f\u0648\u0627 \u0627\u0644\u0644\u0651\u0670\u0647\u064e \u0645\u064e\u0627 \u0644\u064e\u0643\u064f\u0645\u0652 \u0645\u0650\u0651\u0646\u0652 \u0627\u0650\u0644\u0670\u0647\u064d \u063a\u064e\u064a\u0652\u0631\u064f\u0647\u0657 \u06d7\u0648\u064e\u0644\u064e\u0627 \u062a\u064e\u0646\u0652\u0642\u064f\u0635\u064f\u0648\u0627 \u0627\u0644\u0652\u0645\u0650\u0643\u0652\u064a\u064e\u0627\u0644\u064e \u0648\u064e\u0627\u0644\u0652\u0645\u0650\u064a\u0652\u0632\u064e\u0627\u0646\u064e \u0627\u0650\u0646\u0651\u0650\u064a\u0652\u0653 \u0627\u064e\u0631\u0670\u0649\u0643\u064f\u0645\u0652 \u0628\u0650\u062e\u064e\u064a\u0652\u0631\u064d \u0648\u0651\u064e\u0627\u0650\u0646\u0651\u0650\u064a\u0652\u0653 \u0627\u064e\u062e\u064e\u0627\u0641\u064f \u0639\u064e\u0644\u064e\u064a\u0652\u0643\u064f\u0645\u0652 \u0639\u064e\u0630\u064e\u0627\u0628\u064e \u064a\u064e\u0648\u0652\u0645\u064d \u0645\u0651\u064f\u062d\u0650\u064a\u0652\u0637\u064d",
+            "tr": "wa-il<u>aa</u> madyana akh<u>aa</u>hum syu'ayban q<u>aa</u>la y<u>aa</u> qawmi u'buduu <strong>al</strong>l<u>aa</u>ha m<u>aa</u> lakum min il<u>aa</u>hin ghayruhu wal<u>aa</u> tanqu<u>sh</u>uu <strong>a</strong>lmiky<u>aa</u>la wa<strong>a</strong>lmiiz<u>aa</u>na innii ar<u>aa</u>kum bikhayrin wa-innii akh<u>aa</u>fu 'alaykum 'a<u>dzaa</u>ba yawmin mu<u>h</u>ii<u>th</u><strong>in</strong>",
+            "idn": "Dan kepada (penduduk) Madyan (Kami utus) saudara mereka, Syuaib. Dia berkata, \u201cWahai kaumku! Sembahlah Allah, tidak ada tuhan bagimu selain Dia. Dan janganlah kamu kurangi takaran dan timbangan. Sesungguhnya aku melihat kamu dalam keadaan yang baik (makmur). Dan sesungguhnya aku khawatir kamu akan ditimpa azab pada hari yang membinasakan (Kiamat)."
+        },
+        {
+            "id": 1558,
+            "surah": 11,
+            "nomor": 85,
+            "ar": "\u0648\u064e\u064a\u0670\u0642\u064e\u0648\u0652\u0645\u0650 \u0627\u064e\u0648\u0652\u0641\u064f\u0648\u0627 \u0627\u0644\u0652\u0645\u0650\u0643\u0652\u064a\u064e\u0627\u0644\u064e \u0648\u064e\u0627\u0644\u0652\u0645\u0650\u064a\u0652\u0632\u064e\u0627\u0646\u064e \u0628\u0650\u0627\u0644\u0652\u0642\u0650\u0633\u0652\u0637\u0650 \u0648\u064e\u0644\u064e\u0627 \u062a\u064e\u0628\u0652\u062e\u064e\u0633\u064f\u0648\u0627 \u0627\u0644\u0646\u0651\u064e\u0627\u0633\u064e \u0627\u064e\u0634\u0652\u064a\u064e\u0627\u06e4\u0621\u064e\u0647\u064f\u0645\u0652 \u0648\u064e\u0644\u064e\u0627 \u062a\u064e\u0639\u0652\u062b\u064e\u0648\u0652\u0627 \u0641\u0650\u0649 \u0627\u0644\u0652\u0627\u064e\u0631\u0652\u0636\u0650 \u0645\u064f\u0641\u0652\u0633\u0650\u062f\u0650\u064a\u0652\u0646\u064e",
+            "tr": "way<u>aa</u> qawmi awfuu <strong>a</strong>lmiky<u>aa</u>la wa<strong>a</strong>lmiiz<u>aa</u>na bi<strong>a</strong>lqis<u>th</u>i wal<u>aa</u> tabkhasuu <strong>al</strong>nn<u>aa</u>sa asyy<u>aa</u>-ahum wal<u>aa</u> ta'tsaw fii <strong>a</strong>l-ar<u>dh</u>i mufsidiin<strong>a</strong>",
+            "idn": "Dan wahai kaumku! Penuhilah takaran dan timbangan dengan adil, dan janganlah kamu merugikan manusia terhadap hak-hak mereka dan jangan kamu membuat kejahatan di bumi dengan berbuat kerusakan."
+        },
+        {
+            "id": 1559,
+            "surah": 11,
+            "nomor": 86,
+            "ar": "\u0628\u064e\u0642\u0650\u064a\u0651\u064e\u062a\u064f \u0627\u0644\u0644\u0651\u0670\u0647\u0650 \u062e\u064e\u064a\u0652\u0631\u064c \u0644\u0651\u064e\u0643\u064f\u0645\u0652 \u0627\u0650\u0646\u0652 \u0643\u064f\u0646\u0652\u062a\u064f\u0645\u0652 \u0645\u0651\u064f\u0624\u0652\u0645\u0650\u0646\u0650\u064a\u0652\u0646\u064e \u06d5\u06da \u0648\u064e\u0645\u064e\u0627\u0653 \u0627\u064e\u0646\u064e\u0627\u06e0 \u0639\u064e\u0644\u064e\u064a\u0652\u0643\u064f\u0645\u0652 \u0628\u0650\u062d\u064e\u0641\u0650\u064a\u0652\u0638\u064d",
+            "tr": "baqiyyatu <strong>al</strong>l<u>aa</u>hi khayrun lakum in kuntum mu/miniina wam<u>aa</u> an<u>aa</u> 'alaykum bi<u>h</u>afii<u>zh</u><strong>in</strong>",
+            "idn": "Sisa (yang halal) dari Allah adalah lebih baik bagimu jika kamu orang yang beriman. Dan aku bukanlah seorang penjaga atas dirimu.\u201d"
+        },
+        {
+            "id": 1560,
+            "surah": 11,
+            "nomor": 87,
+            "ar": "\u0642\u064e\u0627\u0644\u064f\u0648\u0652\u0627 \u064a\u0670\u0634\u064f\u0639\u064e\u064a\u0652\u0628\u064f \u0627\u064e\u0635\u064e\u0644\u0670\u0648\u062a\u064f\u0643\u064e \u062a\u064e\u0623\u0652\u0645\u064f\u0631\u064f\u0643\u064e \u0627\u064e\u0646\u0652 \u0646\u0651\u064e\u062a\u0652\u0631\u064f\u0643\u064e \u0645\u064e\u0627 \u064a\u064e\u0639\u0652\u0628\u064f\u062f\u064f \u0627\u0670\u0628\u064e\u0627\u06e4\u0624\u064f\u0646\u064e\u0627\u0653 \u0627\u064e\u0648\u0652 \u0627\u064e\u0646\u0652 \u0646\u0651\u064e\u0641\u0652\u0639\u064e\u0644\u064e \u0641\u0650\u064a\u0652\u0653 \u0627\u064e\u0645\u0652\u0648\u064e\u0627\u0644\u0650\u0646\u064e\u0627 \u0645\u064e\u0627 \u0646\u064e\u0634\u0670\u06e4\u0624\u064f\u0627 \u06d7\u0627\u0650\u0646\u0651\u064e\u0643\u064e \u0644\u064e\u0627\u064e\u0646\u0652\u062a\u064e \u0627\u0644\u0652\u062d\u064e\u0644\u0650\u064a\u0652\u0645\u064f \u0627\u0644\u0631\u0651\u064e\u0634\u0650\u064a\u0652\u062f\u064f",
+            "tr": "q<u>aa</u>luu y<u>aa</u> syu'aybu a<u>sh</u>al<u>aa</u>tuka ta/muruka an natruka m<u>aa</u> ya'budu <u>aa</u>b<u>aa</u>un<u>aa</u> aw an naf'ala fii amw<u>aa</u>lin<u>aa</u> m<u>aa</u> nasy<u>aa</u>u innaka la-anta <strong>a</strong>l<u>h</u>aliimu <strong>al</strong>rrasyiid<strong>u</strong>",
+            "idn": "Mereka berkata, \u201cWahai Syuaib! Apakah agamamu yang menyuruhmu agar kami meninggalkan apa yang disembah nenek moyang kami atau melarang kami mengelola harta kami menurut cara yang kami kehendaki? Sesungguhnya engkau benar-benar orang yang sangat penyantun dan pandai.\u201d"
+        },
+        {
+            "id": 1561,
+            "surah": 11,
+            "nomor": 88,
+            "ar": "\u0642\u064e\u0627\u0644\u064e \u064a\u0670\u0642\u064e\u0648\u0652\u0645\u0650 \u0627\u064e\u0631\u064e\u0621\u064e\u064a\u0652\u062a\u064f\u0645\u0652 \u0627\u0650\u0646\u0652 \u0643\u064f\u0646\u0652\u062a\u064f \u0639\u064e\u0644\u0670\u0649 \u0628\u064e\u064a\u0651\u0650\u0646\u064e\u0629\u064d \u0645\u0650\u0651\u0646\u0652 \u0631\u0651\u064e\u0628\u0651\u0650\u064a\u0652 \u0648\u064e\u0631\u064e\u0632\u064e\u0642\u064e\u0646\u0650\u064a\u0652 \u0645\u0650\u0646\u0652\u0647\u064f \u0631\u0650\u0632\u0652\u0642\u064b\u0627 \u062d\u064e\u0633\u064e\u0646\u064b\u0627 \u0648\u0651\u064e\u0645\u064e\u0627\u0653 \u0627\u064f\u0631\u0650\u064a\u0652\u062f\u064f \u0627\u064e\u0646\u0652 \u0627\u064f\u062e\u064e\u0627\u0644\u0650\u0641\u064e\u0643\u064f\u0645\u0652 \u0627\u0650\u0644\u0670\u0649 \u0645\u064e\u0627\u0653 \u0627\u064e\u0646\u0652\u0647\u0670\u0649\u0643\u064f\u0645\u0652 \u0639\u064e\u0646\u0652\u0647\u064f \u06d7\u0627\u0650\u0646\u0652 \u0627\u064f\u0631\u0650\u064a\u0652\u062f\u064f \u0627\u0650\u0644\u0651\u064e\u0627 \u0627\u0644\u0652\u0627\u0650\u0635\u0652\u0644\u064e\u0627\u062d\u064e \u0645\u064e\u0627 \u0627\u0633\u0652\u062a\u064e\u0637\u064e\u0639\u0652\u062a\u064f\u06d7 \u0648\u064e\u0645\u064e\u0627 \u062a\u064e\u0648\u0652\u0641\u0650\u064a\u0652\u0642\u0650\u064a\u0652\u0653 \u0627\u0650\u0644\u0651\u064e\u0627 \u0628\u0650\u0627",
+            "tr": "q<u>aa</u>la y<u>aa</u> qawmi ara-aytum in kuntu 'al<u>aa</u> bayyinatin min rabbii warazaqanii minhu rizqan <u>h</u>asanan wam<u>aa</u> uriidu an ukh<u>aa</u>lifakum il<u>aa</u> m<u>aa</u> anh<u>aa</u>kum 'anhu in uriidu ill<u>aa</u> <strong>a</strong>l-i<u>sh</u>l<u>aah</u>a m<u>aa</u> ista<u>th</u>a'tu wam<u>aa</u> tawfiiqii ill<u>aa</u> bi<strong>al</strong>l<u>aa</u>hi 'alayhi tawakkaltu wa-ilayhi uniib<strong>u</strong>",
+            "idn": "Dia (Syuaib) berkata, \u201cWahai kaumku! Terangkan padaku jika aku mempunyai bukti yang nyata dari Tuhanku dan aku dianugerahi-Nya rezeki yang baik (pantaskah aku menyalahi perintah-Nya)? Aku tidak bermaksud menyalahi kamu terhadap apa yang aku larang darinya. Aku hanya bermaksud (mendatangkan) perbaikan selama aku masih sanggup. Dan petunjuk yang aku ikuti hanya dari Allah. Kepada-Nya aku bertawakal dan kepada-Nya (pula) aku kembali."
+        },
+        {
+            "id": 1562,
+            "surah": 11,
+            "nomor": 89,
+            "ar": "\u0648\u064e\u064a\u0670\u0642\u064e\u0648\u0652\u0645\u0650 \u0644\u064e\u0627 \u064a\u064e\u062c\u0652\u0631\u0650\u0645\u064e\u0646\u0651\u064e\u0643\u064f\u0645\u0652 \u0634\u0650\u0642\u064e\u0627\u0642\u0650\u064a\u0652\u0653 \u0627\u064e\u0646\u0652 \u064a\u0651\u064f\u0635\u0650\u064a\u0652\u0628\u064e\u0643\u064f\u0645\u0652 \u0645\u0650\u0651\u062b\u0652\u0644\u064f \u0645\u064e\u0627\u0653 \u0627\u064e\u0635\u064e\u0627\u0628\u064e \u0642\u064e\u0648\u0652\u0645\u064e \u0646\u064f\u0648\u0652\u062d\u064d \u0627\u064e\u0648\u0652 \u0642\u064e\u0648\u0652\u0645\u064e \u0647\u064f\u0648\u0652\u062f\u064d \u0627\u064e\u0648\u0652 \u0642\u064e\u0648\u0652\u0645\u064e \u0635\u0670\u0644\u0650\u062d\u064d \u06d7\u0648\u064e\u0645\u064e\u0627 \u0642\u064e\u0648\u0652\u0645\u064f \u0644\u064f\u0648\u0652\u0637\u064d \u0645\u0650\u0651\u0646\u0652\u0643\u064f\u0645\u0652 \u0628\u0650\u0628\u064e\u0639\u0650\u064a\u0652\u062f\u064d",
+            "tr": "way<u>aa</u> qawmi l<u>aa</u> yajrimannakum syiq<u>aa</u>qii an yu<u>sh</u>iibakum mitslu m<u>aa</u> a<u>shaa</u>ba qawma nuu<u>h</u>in aw qawma huudin aw qawma <u>shaa</u>li<u>h</u>in wam<u>aa</u> qawmu luu<u>th</u>in minkum biba'iid<strong>in</strong>",
+            "idn": "Dan wahai kaumku! Janganlah pertentangan antara aku (dengan kamu) menyebabkan kamu berbuat dosa, sehingga kamu ditimpa siksaan seperti yang menimpa kaum Nuh, kaum Hud atau kaum Saleh, sedang kaum Lut tidak jauh dari kamu."
+        },
+        {
+            "id": 1563,
+            "surah": 11,
+            "nomor": 90,
+            "ar": "\u0648\u064e\u0627\u0633\u0652\u062a\u064e\u063a\u0652\u0641\u0650\u0631\u064f\u0648\u0652\u0627 \u0631\u064e\u0628\u0651\u064e\u0643\u064f\u0645\u0652 \u062b\u064f\u0645\u0651\u064e \u062a\u064f\u0648\u0652\u0628\u064f\u0648\u0652\u0653\u0627 \u0627\u0650\u0644\u064e\u064a\u0652\u0647\u0650 \u06d7\u0627\u0650\u0646\u0651\u064e \u0631\u064e\u0628\u0651\u0650\u064a\u0652 \u0631\u064e\u062d\u0650\u064a\u0652\u0645\u064c \u0648\u0651\u064e\u062f\u064f\u0648\u0652\u062f\u064c",
+            "tr": "wa<strong>i</strong>staghfiruu rabbakum tsumma tuubuu ilayhi inna rabbii ra<u>h</u>iimun waduud<strong>un</strong>",
+            "idn": " Dan mohonlah ampunan kepada Tuhanmu, kemudian bertobatlah kepada-Nya. Sungguh, Tuhanku Maha Penyayang, Maha Pengasih.\u201d"
+        },
+        {
+            "id": 1564,
+            "surah": 11,
+            "nomor": 91,
+            "ar": "\u0642\u064e\u0627\u0644\u064f\u0648\u0652\u0627 \u064a\u0670\u0634\u064f\u0639\u064e\u064a\u0652\u0628\u064f \u0645\u064e\u0627 \u0646\u064e\u0641\u0652\u0642\u064e\u0647\u064f \u0643\u064e\u062b\u0650\u064a\u0652\u0631\u064b\u0627 \u0645\u0650\u0651\u0645\u0651\u064e\u0627 \u062a\u064e\u0642\u064f\u0648\u0652\u0644\u064f \u0648\u064e\u0627\u0650\u0646\u0651\u064e\u0627 \u0644\u064e\u0646\u064e\u0631\u0670\u0649\u0643\u064e \u0641\u0650\u064a\u0652\u0646\u064e\u0627 \u0636\u064e\u0639\u0650\u064a\u0652\u0641\u064b\u0627 \u06d7\u0648\u064e\u0644\u064e\u0648\u0652\u0644\u064e\u0627 \u0631\u064e\u0647\u0652\u0637\u064f\u0643\u064e \u0644\u064e\u0631\u064e\u062c\u064e\u0645\u0652\u0646\u0670\u0643\u064e \u06d6\u0648\u064e\u0645\u064e\u0627\u0653 \u0627\u064e\u0646\u0652\u062a\u064e \u0639\u064e\u0644\u064e\u064a\u0652\u0646\u064e\u0627 \u0628\u0650\u0639\u064e\u0632\u0650\u064a\u0652\u0632\u064d ",
+            "tr": "q<u>aa</u>luu y<u>aa</u> syu'aybu m<u>aa</u> nafqahu katsiiran mimm<u>aa</u> taquulu wa-inn<u>aa</u> lanar<u>aa</u>ka fiin<u>aa</u> <u>dh</u>a'iifan walawl<u>aa</u> rah<u>th</u>uka larajamn<u>aa</u>ka wam<u>aa</u> anta 'alayn<u>aa</u> bi'aziiz<strong>in</strong>",
+            "idn": "Mereka berkata, \u201cWahai Syuaib! Kami tidak banyak mengerti tentang apa yang engkau katakan itu, sedang kenyataannya kami memandang engkau seorang yang lemah di antara kami. Kalau tidak karena keluargamu, tentu kami telah merajam engkau, sedang engkau pun bukan seorang yang berpengaruh di lingkungan kami.\u201d"
+        },
+        {
+            "id": 1565,
+            "surah": 11,
+            "nomor": 92,
+            "ar": "\u0642\u064e\u0627\u0644\u064e \u064a\u0670\u0642\u064e\u0648\u0652\u0645\u0650 \u0627\u064e\u0631\u064e\u0647\u0652\u0637\u0650\u064a\u0652\u0653 \u0627\u064e\u0639\u064e\u0632\u0651\u064f \u0639\u064e\u0644\u064e\u064a\u0652\u0643\u064f\u0645\u0652 \u0645\u0651\u0650\u0646\u064e \u0627\u0644\u0644\u0651\u0670\u0647\u0650 \u06d7\u0648\u064e\u0627\u062a\u0651\u064e\u062e\u064e\u0630\u0652\u062a\u064f\u0645\u064f\u0648\u0652\u0647\u064f \u0648\u064e\u0631\u064e\u0627\u06e4\u0621\u064e\u0643\u064f\u0645\u0652 \u0638\u0650\u0647\u0652\u0631\u0650\u064a\u0651\u064b\u0627 \u06d7\u0627\u0650\u0646\u0651\u064e \u0631\u064e\u0628\u0651\u0650\u064a\u0652 \u0628\u0650\u0645\u064e\u0627 \u062a\u064e\u0639\u0652\u0645\u064e\u0644\u064f\u0648\u0652\u0646\u064e \u0645\u064f\u062d\u0650\u064a\u0652\u0637\u064c",
+            "tr": "q<u>aa</u>la y<u>aa</u> qawmi arah<u>th</u>ii a'azzu 'alaykum mina <strong>al</strong>l<u>aa</u>hi wa<strong>i</strong>ttakha<u>dz</u>tumuuhu war<u>aa</u>-akum <u>zh</u>ihriyyan inna rabbii bim<u>aa</u> ta'maluuna mu<u>h</u>ii<u>th</u><strong>un</strong>",
+            "idn": "Dia (Syuaib) menjawab, \u201cWahai kaumku! Apakah keluargaku lebih terhormat menurut pandanganmu daripada Allah, bahkan Dia kamu tempatkan di belakangmu (diabaikan)? Ketahuilah sesungguhnya (pengetahuan) Tuhanku meliputi apa yang kamu kerjakan."
+        },
+        {
+            "id": 1566,
+            "surah": 11,
+            "nomor": 93,
+            "ar": "\u0648\u064e\u064a\u0670\u0642\u064e\u0648\u0652\u0645\u0650 \u0627\u0639\u0652\u0645\u064e\u0644\u064f\u0648\u0652\u0627 \u0639\u064e\u0644\u0670\u0649 \u0645\u064e\u0643\u064e\u0627\u0646\u064e\u062a\u0650\u0643\u064f\u0645\u0652 \u0627\u0650\u0646\u0651\u0650\u064a\u0652 \u0639\u064e\u0627\u0645\u0650\u0644\u064c  \u06d7\u0633\u064e\u0648\u0652\u0641\u064e \u062a\u064e\u0639\u0652\u0644\u064e\u0645\u064f\u0648\u0652\u0646\u064e\u06d9 \u0645\u064e\u0646\u0652 \u064a\u0651\u064e\u0623\u0652\u062a\u0650\u064a\u0652\u0647\u0650 \u0639\u064e\u0630\u064e\u0627\u0628\u064c \u064a\u0651\u064f\u062e\u0652\u0632\u0650\u064a\u0652\u0647\u0650 \u0648\u064e\u0645\u064e\u0646\u0652 \u0647\u064f\u0648\u064e \u0643\u064e\u0627\u0630\u0650\u0628\u064c\u06d7 \u0648\u064e\u0627\u0631\u0652\u062a\u064e\u0642\u0650\u0628\u064f\u0648\u0652\u0653\u0627 \u0627\u0650\u0646\u0651\u0650\u064a\u0652 \u0645\u064e\u0639\u064e\u0643\u064f\u0645\u0652 \u0631\u064e\u0642\u0650\u064a\u0652\u0628\u064c",
+            "tr": "way<u>aa</u> qawmi i'maluu 'al<u>aa</u> mak<u>aa</u>natikum innii '<u>aa</u>milun sawfa ta'lamuuna man ya/tiihi 'a<u>dzaa</u>bun yukhziihi waman huwa k<u>aadz</u>ibun wa<strong>i</strong>rtaqibuu inne ma'akum raqiib<strong>un</strong>",
+            "idn": "Dan wahai kaumku! Berbuatlah menurut kemampuanmu, sesungguhnya aku pun berbuat (pula). Kelak kamu akan mengetahui siapa yang akan ditimpa azab yang menghinakan dan siapa yang berdusta. Dan tunggulah! Sesungguhnya aku bersamamu adalah orang yang menunggu.\u201d"
+        },
+        {
+            "id": 1567,
+            "surah": 11,
+            "nomor": 94,
+            "ar": "\u0648\u064e\u0644\u064e\u0645\u0651\u064e\u0627 \u062c\u064e\u0627\u06e4\u0621\u064e \u0627\u064e\u0645\u0652\u0631\u064f\u0646\u064e\u0627 \u0646\u064e\u062c\u0651\u064e\u064a\u0652\u0646\u064e\u0627 \u0634\u064f\u0639\u064e\u064a\u0652\u0628\u064b\u0627 \u0648\u0651\u064e\u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u0627\u0670\u0645\u064e\u0646\u064f\u0648\u0652\u0627 \u0645\u064e\u0639\u064e\u0647\u0657 \u0628\u0650\u0631\u064e\u062d\u0652\u0645\u064e\u0629\u064d \u0645\u0651\u0650\u0646\u0651\u064e\u0627\u06da \u0648\u064e\u0627\u064e\u062e\u064e\u0630\u064e\u062a\u0650 \u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u0638\u064e\u0644\u064e\u0645\u064f\u0648\u0627 \u0627\u0644\u0635\u0651\u064e\u064a\u0652\u062d\u064e\u0629\u064f \u0641\u064e\u0627\u064e\u0635\u0652\u0628\u064e\u062d\u064f\u0648\u0652\u0627 \u0641\u0650\u064a\u0652 \u062f\u0650\u064a\u064e\u0627\u0631\u0650\u0647\u0650\u0645\u0652 \u062c\u0670\u062b\u0650\u0645\u0650\u064a\u0652\u0646\u064e\u06d9  ",
+            "tr": "walamm<u>aa</u> j<u>aa</u>-a amrun<u>aa</u> najjayn<u>aa</u> syu'ayban wa<strong>a</strong>lla<u>dz</u>iina <u>aa</u>manuu ma'ahu bira<u>h</u>matin minn<u>aa</u> wa-akha<u>dz</u>ati <strong>al</strong>la<u>dz</u>iina <u>zh</u>alamuu <strong>al</strong><u>shsh</u>ay<u>h</u>atu fa-a<u>sh</u>ba<u>h</u>uu fii diy<u>aa</u>rihim j<u>aa</u>tsimiin<strong>a</strong>",
+            "idn": "Maka ketika keputusan Kami datang, Kami selamatkan Syuaib dan orang-orang yang beriman bersamanya dengan rahmat Kami. Sedang orang yang zalim dibinasakan oleh suara yang mengguntur, sehingga mereka mati bergelimpangan di rumahnya,"
+        },
+        {
+            "id": 1568,
+            "surah": 11,
+            "nomor": 95,
+            "ar": "\u0643\u064e\u0627\u064e\u0646\u0652 \u0644\u0651\u064e\u0645\u0652 \u064a\u064e\u063a\u0652\u0646\u064e\u0648\u0652\u0627 \u0641\u0650\u064a\u0652\u0647\u064e\u0627 \u06d7 \u0627\u064e\u0644\u064e\u0627 \u0628\u064f\u0639\u0652\u062f\u064b\u0627 \u0644\u0650\u0651\u0645\u064e\u062f\u0652\u064a\u064e\u0646\u064e \u0643\u064e\u0645\u064e\u0627 \u0628\u064e\u0639\u0650\u062f\u064e\u062a\u0652 \u062b\u064e\u0645\u064f\u0648\u0652\u062f\u064f \u08d6 ",
+            "tr": "ka-an lam yaghnaw fiih<u>aa</u> <strong>a</strong>l<u>aa</u> bu'dan limadyana kam<u>aa</u> ba'idat tsamuud<strong>u</strong>",
+            "idn": "seolah-olah mereka belum pernah tinggal di tempat itu. Ingatlah, binasalah penduduk Madyan sebagaimana kaum samud (juga) telah binasa."
+        },
+        {
+            "id": 1569,
+            "surah": 11,
+            "nomor": 96,
+            "ar": "\u0648\u064e\u0644\u064e\u0642\u064e\u062f\u0652 \u0627\u064e\u0631\u0652\u0633\u064e\u0644\u0652\u0646\u064e\u0627 \u0645\u064f\u0648\u0652\u0633\u0670\u0649 \u0628\u0650\u0627\u0670\u064a\u0670\u062a\u0650\u0646\u064e\u0627 \u0648\u064e\u0633\u064f\u0644\u0652\u0637\u0670\u0646\u064d \u0645\u0651\u064f\u0628\u0650\u064a\u0652\u0646\u064d\u06d9 ",
+            "tr": "walaqad arsaln<u>aa</u> muus<u>aa</u> bi-<u>aa</u>y<u>aa</u>tin<u>aa</u> wasul<u>th</u><u>aa</u>nin mubiin<strong>in</strong>",
+            "idn": "Dan sungguh, Kami telah mengutus Musa dengan tanda-tanda (kekuasaan) Kami dan bukti yang nyata,"
+        },
+        {
+            "id": 1570,
+            "surah": 11,
+            "nomor": 97,
+            "ar": "\u0627\u0650\u0644\u0670\u0649 \u0641\u0650\u0631\u0652\u0639\u064e\u0648\u0652\u0646\u064e \u0648\u064e\u0645\u0644\u064e\u0627\u06df\u0649\u0655\u0650\u0647\u0656 \u0641\u064e\u0627\u062a\u0651\u064e\u0628\u064e\u0639\u064f\u0648\u0652\u0653\u0627 \u0627\u064e\u0645\u0652\u0631\u064e \u0641\u0650\u0631\u0652\u0639\u064e\u0648\u0652\u0646\u064e \u06da\u0648\u064e\u0645\u064e\u0627\u0653 \u0627\u064e\u0645\u0652\u0631\u064f \u0641\u0650\u0631\u0652\u0639\u064e\u0648\u0652\u0646\u064e \u0628\u0650\u0631\u064e\u0634\u0650\u064a\u0652\u062f\u064d",
+            "tr": "il<u>aa</u> fir'awna wamala-ihi fa<strong>i</strong>ttaba'uu amra fir'awna wam<u>aa</u> amru fir'awna birasyiid<strong>in</strong>",
+            "idn": "Kepada Fir\u2018aun dan para pemuka kaumnya, tetapi mereka mengikuti perintah Fir\u2018aun, padahal perintah Fir\u2018aun bukanlah (perintah) yang benar."
+        },
+        {
+            "id": 1571,
+            "surah": 11,
+            "nomor": 98,
+            "ar": "\u064a\u064e\u0642\u0652\u062f\u064f\u0645\u064f \u0642\u064e\u0648\u0652\u0645\u064e\u0647\u0657 \u064a\u064e\u0648\u0652\u0645\u064e \u0627\u0644\u0652\u0642\u0650\u064a\u0670\u0645\u064e\u0629\u0650 \u0641\u064e\u0627\u064e\u0648\u0652\u0631\u064e\u062f\u064e\u0647\u064f\u0645\u064f \u0627\u0644\u0646\u0651\u064e\u0627\u0631\u064e \u06d7\u0648\u064e\u0628\u0650\u0626\u0652\u0633\u064e \u0627\u0644\u0652\u0648\u0650\u0631\u0652\u062f\u064f \u0627\u0644\u0652\u0645\u064e\u0648\u0652\u0631\u064f\u0648\u0652\u062f\u064f",
+            "tr": "yaqdumu qawmahu yawma <strong>a</strong>lqiy<u>aa</u>mati fa-awradahumu <strong>al</strong>nn<u>aa</u>ra wabi/sa <strong>a</strong>lwirdu <strong>a</strong>lmawruud<strong>u</strong>",
+            "idn": "Dia (Fir\u2018aun) berjalan di depan kaumnya di hari Kiamat, lalu membawa mereka masuk ke dalam neraka. Neraka itu seburuk-buruk tempat yang dimasuki."
+        },
+        {
+            "id": 1572,
+            "surah": 11,
+            "nomor": 99,
+            "ar": "\u0648\u064e\u0627\u064f\u062a\u0652\u0628\u0650\u0639\u064f\u0648\u0652\u0627 \u0641\u0650\u064a\u0652 \u0647\u0670\u0630\u0650\u0647\u0656 \u0644\u064e\u0639\u0652\u0646\u064e\u0629\u064b \u0648\u0651\u064e\u064a\u064e\u0648\u0652\u0645\u064e \u0627\u0644\u0652\u0642\u0650\u064a\u0670\u0645\u064e\u0629\u0650\u06d7 \u0628\u0650\u0626\u0652\u0633\u064e \u0627\u0644\u0631\u0651\u0650\u0641\u0652\u062f\u064f \u0627\u0644\u0652\u0645\u064e\u0631\u0652\u0641\u064f\u0648\u0652\u062f\u064f",
+            "tr": "wautbi'uu fii h<u>aadz</u>ihi la'natan wayawma <strong>a</strong>lqiy<u>aa</u>mati bi/sa <strong>al</strong>rrifdu <strong>a</strong>lmarfuud<strong>u</strong>",
+            "idn": "Dan mereka diikuti dengan laknat di sini (dunia) dan (begitu pula) pada hari Kiamat. (Laknat) itu seburuk-buruk pemberian yang diberikan."
+        },
+        {
+            "id": 1573,
+            "surah": 11,
+            "nomor": 100,
+            "ar": "\u0630\u0670\u0644\u0650\u0643\u064e \u0645\u0650\u0646\u0652 \u0627\u064e\u0646\u0652\u06e2\u0628\u064e\u0627\u06e4\u0621\u0650 \u0627\u0644\u0652\u0642\u064f\u0631\u0670\u0649 \u0646\u064e\u0642\u064f\u0635\u0651\u064f\u0647\u0657 \u0639\u064e\u0644\u064e\u064a\u0652\u0643\u064e \u0645\u0650\u0646\u0652\u0647\u064e\u0627 \u0642\u064e\u0627\u06e4\u0649\u0655\u0650\u0645\u064c \u0648\u0651\u064e\u062d\u064e\u0635\u0650\u064a\u0652\u062f\u064c",
+            "tr": "<u>dzaa</u>lika min anb<u>aa</u>-i <strong>a</strong>lqur<u>aa</u> naqu<u>shsh</u>uhu 'alayka minh<u>aa</u> q<u>aa</u>-imun wa<u>h</u>a<u>sh</u>iid<strong>un</strong>",
+            "idn": "Itulah beberapa berita tentang negeri-negeri (yang telah dibinasakan) yang Kami ceritakan kepadamu (Muhammad). Di antara negeri-negeri itu sebagian masih ada bekas-bekasnya dan ada (pula) yang telah musnah."
+        },
+        {
+            "id": 1574,
+            "surah": 11,
+            "nomor": 101,
+            "ar": "\u0648\u064e\u0645\u064e\u0627 \u0638\u064e\u0644\u064e\u0645\u0652\u0646\u0670\u0647\u064f\u0645\u0652 \u0648\u064e\u0644\u0670\u0643\u0650\u0646\u0652 \u0638\u064e\u0644\u064e\u0645\u064f\u0648\u0652\u0653\u0627 \u0627\u064e\u0646\u0652\u0641\u064f\u0633\u064e\u0647\u064f\u0645\u0652 \u0641\u064e\u0645\u064e\u0627\u0653 \u0627\u064e\u063a\u0652\u0646\u064e\u062a\u0652 \u0639\u064e\u0646\u0652\u0647\u064f\u0645\u0652 \u0627\u0670\u0644\u0650\u0647\u064e\u062a\u064f\u0647\u064f\u0645\u064f \u0627\u0644\u0651\u064e\u062a\u0650\u064a\u0652 \u064a\u064e\u062f\u0652\u0639\u064f\u0648\u0652\u0646\u064e \u0645\u0650\u0646\u0652 \u062f\u064f\u0648\u0652\u0646\u0650 \u0627\u0644\u0644\u0651\u0670\u0647\u0650 \u0645\u0650\u0646\u0652 \u0634\u064e\u064a\u0652\u0621\u064d \u0644\u0651\u064e\u0645\u0651\u064e\u0627 \u062c\u064e\u0627\u06e4\u0621\u064e \u0627\u064e\u0645\u0652\u0631\u064f \u0631\u064e\u0628\u0651\u0650\u0643\u064e\u06d7 \u0648\u064e\u0645\u064e\u0627 \u0632\u064e\u0627\u062f\u064f\u0648\u0652\u0647\u064f\u0645\u0652 \u063a\u064e\u064a\u0652\u0631\u064e \u062a\u064e\u062a\u0652\u0628\u0650\u064a\u0652\u0628\u064d ",
+            "tr": "wam<u>aa</u> <u>zh</u>alamn<u>aa</u>hum wal<u>aa</u>kin <u>zh</u>alamuu anfusahum fam<u>aa</u> aghnat 'anhum <u>aa</u>lihatuhumu <strong>al</strong>latii yad'uuna min duuni <strong>al</strong>l<u>aa</u>hi min syay-in lamm<u>aa</u> j<u>aa</u>-a amru rabbika wam<u>aa</u> z<u>aa</u>duuhum ghayra tatbiib<strong>i</strong>",
+            "idn": "Dan Kami tidak menzalimi mereka, tetapi merekalah yang menzalimi diri mereka sendiri, karena itu tidak bermanfaat sedikit pun bagi mereka sesembahan yang mereka sembah selain Allah, ketika siksaan Tuhanmu datang. Sesembahan itu hanya menambah kebinasaan bagi mereka."
+        },
+        {
+            "id": 1575,
+            "surah": 11,
+            "nomor": 102,
+            "ar": "\u0648\u064e\u0643\u064e\u0630\u0670\u0644\u0650\u0643\u064e \u0627\u064e\u062e\u0652\u0630\u064f \u0631\u064e\u0628\u0651\u0650\u0643\u064e \u0627\u0650\u0630\u064e\u0627\u0653 \u0627\u064e\u062e\u064e\u0630\u064e \u0627\u0644\u0652\u0642\u064f\u0631\u0670\u0649 \u0648\u064e\u0647\u0650\u064a\u064e \u0638\u064e\u0627\u0644\u0650\u0645\u064e\u0629\u064c  \u06d7\u0627\u0650\u0646\u0651\u064e \u0627\u064e\u062e\u0652\u0630\u064e\u0647\u0657\u0653 \u0627\u064e\u0644\u0650\u064a\u0652\u0645\u064c \u0634\u064e\u062f\u0650\u064a\u0652\u062f\u064c",
+            "tr": "waka<u>dzaa</u>lika akh<u>dz</u>u rabbika i<u>dzaa</u> akha<u>dz</u>a <strong>a</strong>lqur<u>aa</u> wahiya <u>zhaa</u>limatun inna akh<u>dz</u>ahu <strong>a</strong>liimun syadiid<strong>un</strong>",
+            "idn": "Dan begitulah siksa Tuhanmu apabila Dia menyiksa (penduduk) negeri-negeri yang berbuat zalim. Sungguh, siksa-Nya sangat pedih, sangat berat."
+        },
+        {
+            "id": 1576,
+            "surah": 11,
+            "nomor": 103,
+            "ar": "\u0627\u0650\u0646\u0651\u064e \u0641\u0650\u064a\u0652 \u0630\u0670\u0644\u0650\u0643\u064e \u0644\u064e\u0627\u0670\u064a\u064e\u0629\u064b \u0644\u0650\u0651\u0645\u064e\u0646\u0652 \u062e\u064e\u0627\u0641\u064e \u0639\u064e\u0630\u064e\u0627\u0628\u064e \u0627\u0644\u0652\u0627\u0670\u062e\u0650\u0631\u064e\u0629\u0650 \u06d7\u0630\u0670\u0644\u0650\u0643\u064e \u064a\u064e\u0648\u0652\u0645\u064c \u0645\u0651\u064e\u062c\u0652\u0645\u064f\u0648\u0652\u0639\u064c\u06d9 \u0644\u0651\u064e\u0647\u064f \u0627\u0644\u0646\u0651\u064e\u0627\u0633\u064f \u0648\u064e\u0630\u0670\u0644\u0650\u0643\u064e \u064a\u064e\u0648\u0652\u0645\u064c \u0645\u0651\u064e\u0634\u0652\u0647\u064f\u0648\u0652\u062f\u064c",
+            "tr": "inna fii <u>dzaa</u>lika la<u>aa</u>yatan liman kh<u>aa</u>fa 'a<u>dzaa</u>ba <strong>a</strong>l-<u>aa</u>khirati <u>dzaa</u>lika yawmun majmuu'un lahu <strong>al</strong>nn<u>aa</u>su wa<u>dzaa</u>lika yawmun masyhuudun",
+            "idn": "Sesungguhnya pada yang demikian itu pasti terdapat pelajaran bagi orang-orang yang takut kepada azab akhirat. Itulah hari ketika semua manusia dikumpulkan (untuk dihisab), dan itulah hari yang disaksikan (oleh semua makhluk)."
+        },
+        {
+            "id": 1577,
+            "surah": 11,
+            "nomor": 104,
+            "ar": "\u0648\u064e\u0645\u064e\u0627 \u0646\u064f\u0624\u064e\u062e\u0651\u0650\u0631\u064f\u0647\u0657\u0653 \u0627\u0650\u0644\u0651\u064e\u0627 \u0644\u0650\u0627\u064e\u062c\u064e\u0644\u064d \u0645\u0651\u064e\u0639\u0652\u062f\u064f\u0648\u0652\u062f\u064d\u06d7 ",
+            "tr": "wam<u>aa</u> nu-akhkhiruhu ill<u>aa</u> li-ajalin ma'duud<strong>in</strong>",
+            "idn": "Dan Kami tidak akan menunda, kecuali sampai waktu yang sudah ditentukan."
+        },
+        {
+            "id": 1578,
+            "surah": 11,
+            "nomor": 105,
+            "ar": "\u064a\u064e\u0648\u0652\u0645\u064e \u064a\u064e\u0623\u0652\u062a\u0650 \u0644\u064e\u0627 \u062a\u064e\u0643\u064e\u0644\u0651\u064e\u0645\u064f \u0646\u064e\u0641\u0652\u0633\u064c \u0627\u0650\u0644\u0651\u064e\u0627 \u0628\u0650\u0627\u0650\u0630\u0652\u0646\u0650\u0647\u0656\u06da \u0641\u064e\u0645\u0650\u0646\u0652\u0647\u064f\u0645\u0652 \u0634\u064e\u0642\u0650\u064a\u0651\u064c \u0648\u0651\u064e\u0633\u064e\u0639\u0650\u064a\u0652\u062f\u064c",
+            "tr": "yawma ya/ti l<u>aa</u> takallamu nafsun ill<u>aa</u> bi-i<u>dz</u>nihi faminhum syaqiyyun wasa'iid<strong>in</strong>",
+            "idn": "Ketika hari itu datang, tidak seorang pun yang berbicara, kecuali dengan izin-Nya; maka di antara mereka ada yang sengsara dan ada yang berbahagia."
+        },
+        {
+            "id": 1579,
+            "surah": 11,
+            "nomor": 106,
+            "ar": "\u0641\u064e\u0627\u064e\u0645\u0651\u064e\u0627 \u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u0634\u064e\u0642\u064f\u0648\u0652\u0627 \u0641\u064e\u0641\u0650\u0649 \u0627\u0644\u0646\u0651\u064e\u0627\u0631\u0650 \u0644\u064e\u0647\u064f\u0645\u0652 \u0641\u0650\u064a\u0652\u0647\u064e\u0627 \u0632\u064e\u0641\u0650\u064a\u0652\u0631\u064c \u0648\u0651\u064e\u0634\u064e\u0647\u0650\u064a\u0652\u0642\u064c\u06d9  ",
+            "tr": "fa-amm<u>aa</u> <strong>al</strong>la<u>dz</u>iina syaquu fafii <strong>al</strong>nn<u>aa</u>ri lahum fiih<u>aa</u> zafiirun wasyahiiq<strong>un</strong>",
+            "idn": "Maka adapun orang-orang yang sengsara, maka (tempatnya) di dalam neraka, di sana mereka mengeluarkan dan menarik nafas dengan merintih,"
+        },
+        {
+            "id": 1580,
+            "surah": 11,
+            "nomor": 107,
+            "ar": "\u062e\u0670\u0644\u0650\u062f\u0650\u064a\u0652\u0646\u064e \u0641\u0650\u064a\u0652\u0647\u064e\u0627 \u0645\u064e\u0627 \u062f\u064e\u0627\u0645\u064e\u062a\u0650 \u0627\u0644\u0633\u0651\u064e\u0645\u0670\u0648\u0670\u062a\u064f \u0648\u064e\u0627\u0644\u0652\u0627\u064e\u0631\u0652\u0636\u064f \u0627\u0650\u0644\u0651\u064e\u0627 \u0645\u064e\u0627 \u0634\u064e\u0627\u06e4\u0621\u064e \u0631\u064e\u0628\u0651\u064f\u0643\u064e\u06d7 \u0627\u0650\u0646\u0651\u064e \u0631\u064e\u0628\u0651\u064e\u0643\u064e \u0641\u064e\u0639\u0651\u064e\u0627\u0644\u064c \u0644\u0650\u0651\u0645\u064e\u0627 \u064a\u064f\u0631\u0650\u064a\u0652\u062f\u064f",
+            "tr": "kh<u>aa</u>lidiina fiih<u>aa</u> m<u>aa</u> d<u>aa</u>mati <strong>al</strong>ssam<u>aa</u>w<u>aa</u>tu wa<strong>a</strong>l-ar<u>dh</u>u ill<u>aa</u> m<u>aa</u> sy<u>aa</u>-a rabbuka inna rabbaka fa''<u>aa</u>lun lim<u>aa</u> yuriid<strong>u</strong>",
+            "idn": "mereka kekal di dalamnya selama ada langit dan bumi, kecuali jika Tuhanmu menghendaki (yang lain). Sungguh, Tuhanmu Maha Pelaksana terhadap apa yang Dia kehendaki."
+        },
+        {
+            "id": 1581,
+            "surah": 11,
+            "nomor": 108,
+            "ar": "\u06de \u0648\u064e\u0627\u064e\u0645\u0651\u064e\u0627 \u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u0633\u064f\u0639\u0650\u062f\u064f\u0648\u0652\u0627 \u0641\u064e\u0641\u0650\u0649 \u0627\u0644\u0652\u062c\u064e\u0646\u0651\u064e\u0629\u0650 \u062e\u0670\u0644\u0650\u062f\u0650\u064a\u0652\u0646\u064e \u0641\u0650\u064a\u0652\u0647\u064e\u0627 \u0645\u064e\u0627 \u062f\u064e\u0627\u0645\u064e\u062a\u0650 \u0627\u0644\u0633\u0651\u064e\u0645\u0670\u0648\u0670\u062a\u064f \u0648\u064e\u0627\u0644\u0652\u0627\u064e\u0631\u0652\u0636\u064f \u0627\u0650\u0644\u0651\u064e\u0627 \u0645\u064e\u0627 \u0634\u064e\u0627\u06e4\u0621\u064e \u0631\u064e\u0628\u0651\u064f\u0643\u064e\u06d7 \u0639\u064e\u0637\u064e\u0627\u06e4\u0621\u064b \u063a\u064e\u064a\u0652\u0631\u064e \u0645\u064e\u062c\u0652\u0630\u064f\u0648\u0652\u0630\u064d",
+            "tr": "wa-amm<u>aa</u> <strong>al</strong>la<u>dz</u>iina su'iduu fafii <strong>a</strong>ljannati kh<u>aa</u>lidiina fiih<u>aa</u> m<u>aa</u> d<u>aa</u>mati <strong>al</strong>ssam<u>aa</u>w<u>aa</u>tu wa<strong>a</strong>l-ar<u>dh</u>u ill<u>aa</u> m<u>aa</u> sy<u>aa</u>-a rabbuka 'a<u>th</u><u>aa</u>-an ghayra maj<u>dz</u>uu<u>dz</u><strong>in</strong>",
+            "idn": "Dan adapun orang-orang yang berbahagia, maka (tempatnya) di dalam surga; mereka kekal di dalamnya selama ada langit dan bumi, kecuali jika Tuhanmu menghendaki (yang lain); sebagai karunia yang tidak ada putus-putusnya."
+        },
+        {
+            "id": 1582,
+            "surah": 11,
+            "nomor": 109,
+            "ar": "\u0641\u064e\u0644\u064e\u0627 \u062a\u064e\u0643\u064f \u0641\u0650\u064a\u0652 \u0645\u0650\u0631\u0652\u064a\u064e\u0629\u064d \u0645\u0650\u0651\u0645\u0651\u064e\u0627 \u064a\u064e\u0639\u0652\u0628\u064f\u062f\u064f \u0647\u0653\u0670\u0624\u064f\u0644\u064e\u0627\u06e4\u0621\u0650 \u06d7\u0645\u064e\u0627 \u064a\u064e\u0639\u0652\u0628\u064f\u062f\u064f\u0648\u0652\u0646\u064e \u0627\u0650\u0644\u0651\u064e\u0627 \u0643\u064e\u0645\u064e\u0627 \u064a\u064e\u0639\u0652\u0628\u064f\u062f\u064f \u0627\u0670\u0628\u064e\u0627\u06e4\u0624\u064f\u0647\u064f\u0645\u0652 \u0645\u0651\u0650\u0646\u0652 \u0642\u064e\u0628\u0652\u0644\u064f \u06d7\u0648\u064e\u0627\u0650\u0646\u0651\u064e\u0627 \u0644\u064e\u0645\u064f\u0648\u064e\u0641\u0651\u064f\u0648\u0652\u0647\u064f\u0645\u0652 \u0646\u064e\u0635\u0650\u064a\u0652\u0628\u064e\u0647\u064f\u0645\u0652 \u063a\u064e\u064a\u0652\u0631\u064e \u0645\u064e\u0646\u0652\u0642\u064f\u0648\u0652\u0635\u064d \u08d6 ",
+            "tr": "fal<u>aa</u> taku fii miryatin mimm<u>aa</u> ya'budu h<u>aa</u>ul<u>aa</u>-i m<u>aa</u> ya'buduuna ill<u>aa</u> kam<u>aa</u> ya'budu <u>aa</u>b<u>aa</u>uhum min qablu wa-inn<u>aa</u> lamuwaffuuhum na<u>sh</u>iibahum ghayra manquu<u>sh</u><strong>in</strong>",
+            "idn": "Maka janganlah engkau (Muhammad) ragu-ragu tentang apa yang mereka sembah. Mereka menyembah sebagaimana nenek moyang mereka dahulu menyembah. Kami pasti akan menyempurnakan pembalasan (terhadap) mereka tanpa dikurangi sedikit pun."
+        },
+        {
+            "id": 1583,
+            "surah": 11,
+            "nomor": 110,
+            "ar": "\u0648\u064e\u0644\u064e\u0642\u064e\u062f\u0652 \u0627\u0670\u062a\u064e\u064a\u0652\u0646\u064e\u0627 \u0645\u064f\u0648\u0652\u0633\u064e\u0649 \u0627\u0644\u0652\u0643\u0650\u062a\u0670\u0628\u064e \u0641\u064e\u0627\u062e\u0652\u062a\u064f\u0644\u0650\u0641\u064e \u0641\u0650\u064a\u0652\u0647\u0650 \u06d7\u0648\u064e\u0644\u064e\u0648\u0652\u0644\u064e\u0627 \u0643\u064e\u0644\u0650\u0645\u064e\u0629\u064c \u0633\u064e\u0628\u064e\u0642\u064e\u062a\u0652 \u0645\u0650\u0646\u0652 \u0631\u0651\u064e\u0628\u0651\u0650\u0643\u064e \u0644\u064e\u0642\u064f\u0636\u0650\u064a\u064e \u0628\u064e\u064a\u0652\u0646\u064e\u0647\u064f\u0645\u0652 \u06da\u0648\u064e\u0627\u0650\u0646\u0651\u064e\u0647\u064f\u0645\u0652 \u0644\u064e\u0641\u0650\u064a\u0652 \u0634\u064e\u0643\u0651\u064d \u0645\u0650\u0651\u0646\u0652\u0647\u064f \u0645\u064f\u0631\u0650\u064a\u0652\u0628\u064d",
+            "tr": "walaqad <u>aa</u>tayn<u>aa</u> muus<u>aa</u> <strong>a</strong>lkit<u>aa</u>ba fa<strong>i</strong>khtulifa fiihi walawl<u>aa</u> kalimatun sabaqat min rabbika laqu<u>dh</u>iya baynahum wa-innahum lafii syakkin minhu muriib<strong>un</strong>",
+            "idn": "Dan sungguh, Kami telah memberikan Kitab (Taurat) kepada Musa, lalu diperselisihkannya. Dan kalau tidak ada ketetapan yang terdahulu dari Tuhanmu, niscaya telah dilaksanakan hukuman di antara mereka. Sungguh, mereka (orang kafir Mekah) benar-benar dalam kebimbangan dan keraguan terhadapnya (Al-Qur'an)."
+        },
+        {
+            "id": 1584,
+            "surah": 11,
+            "nomor": 111,
+            "ar": "\u0648\u064e\u0627\u0650\u0646\u0651\u064e \u0643\u064f\u0644\u0651\u064b\u0627 \u0644\u0651\u064e\u0645\u0651\u064e\u0627 \u0644\u064e\u064a\u064f\u0648\u064e\u0641\u0651\u0650\u064a\u064e\u0646\u0651\u064e\u0647\u064f\u0645\u0652 \u0631\u064e\u0628\u0651\u064f\u0643\u064e \u0627\u064e\u0639\u0652\u0645\u064e\u0627\u0644\u064e\u0647\u064f\u0645\u0652 \u06d7\u0627\u0650\u0646\u0651\u064e\u0647\u0657 \u0628\u0650\u0645\u064e\u0627 \u064a\u064e\u0639\u0652\u0645\u064e\u0644\u064f\u0648\u0652\u0646\u064e \u062e\u064e\u0628\u0650\u064a\u0652\u0631\u064c",
+            "tr": "wa-inna kullan lamm<u>aa</u> layuwaffiyannahum rabbuka a'm<u>aa</u>lahum innahu bim<u>aa</u> ya'maluuna khabiir<strong>un</strong>",
+            "idn": "Dan sesungguhnya kepada masing-masing (yang berselisih itu) pasti Tuhanmu akan memberi balasan secara penuh atas perbuatan mereka. Sungguh, Dia Mahateliti terhadap apa yang mereka kerjakan."
+        },
+        {
+            "id": 1585,
+            "surah": 11,
+            "nomor": 112,
+            "ar": "\u0641\u064e\u0627\u0633\u0652\u062a\u064e\u0642\u0650\u0645\u0652 \u0643\u064e\u0645\u064e\u0627\u0653 \u0627\u064f\u0645\u0650\u0631\u0652\u062a\u064e \u0648\u064e\u0645\u064e\u0646\u0652 \u062a\u064e\u0627\u0628\u064e \u0645\u064e\u0639\u064e\u0643\u064e \u0648\u064e\u0644\u064e\u0627 \u062a\u064e\u0637\u0652\u063a\u064e\u0648\u0652\u0627\u06d7 \u0627\u0650\u0646\u0651\u064e\u0647\u0657 \u0628\u0650\u0645\u064e\u0627 \u062a\u064e\u0639\u0652\u0645\u064e\u0644\u064f\u0648\u0652\u0646\u064e \u0628\u064e\u0635\u0650\u064a\u0652\u0631\u064c ",
+            "tr": "fa<strong>i</strong>staqim kam<u>aa</u> umirta waman t<u>aa</u>ba ma'aka wal<u>aa</u> ta<u>th</u>ghaw innahu bim<u>aa</u> ta'maluuna ba<u>sh</u>iir<strong>un</strong>",
+            "idn": "Maka tetaplah engkau (Muhammad) (di jalan yang benar), sebagaimana telah diperintahkan kepadamu dan (juga) orang yang bertobat bersamamu, dan janganlah kamu melampaui batas. Sungguh, Dia Maha Melihat apa yang kamu kerjakan."
+        },
+        {
+            "id": 1586,
+            "surah": 11,
+            "nomor": 113,
+            "ar": "\u0648\u064e\u0644\u064e\u0627 \u062a\u064e\u0631\u0652\u0643\u064e\u0646\u064f\u0648\u0652\u0653\u0627 \u0627\u0650\u0644\u064e\u0649 \u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u0638\u064e\u0644\u064e\u0645\u064f\u0648\u0652\u0627 \u0641\u064e\u062a\u064e\u0645\u064e\u0633\u0651\u064e\u0643\u064f\u0645\u064f \u0627\u0644\u0646\u0651\u064e\u0627\u0631\u064f\u06d9 \u0648\u064e\u0645\u064e\u0627 \u0644\u064e\u0643\u064f\u0645\u0652 \u0645\u0650\u0651\u0646\u0652 \u062f\u064f\u0648\u0652\u0646\u0650 \u0627\u0644\u0644\u0651\u0670\u0647\u0650 \u0645\u0650\u0646\u0652 \u0627\u064e\u0648\u0652\u0644\u0650\u064a\u064e\u0627\u06e4\u0621\u064e \u062b\u064f\u0645\u0651\u064e \u0644\u064e\u0627 \u062a\u064f\u0646\u0652\u0635\u064e\u0631\u064f\u0648\u0652\u0646\u064e",
+            "tr": "wal<u>aa</u> tarkanuu il<u>aa</u> <strong>al</strong>la<u>dz</u>iina <u>zh</u>alamuu fatamassakumu <strong>al</strong>nn<u>aa</u>ru wam<u>aa</u> lakum min duuni <strong>al</strong>l<u>aa</u>hi min awliy<u>aa</u>-a tsumma l<u>aa</u> tun<u>sh</u>aruun<strong>a</strong>",
+            "idn": "Dan janganlah kamu cenderung kepada orang yang zalim yang menyebabkan kamu disentuh api neraka, sedangkan kamu tidak mempunyai seorang penolong pun selain Allah, sehingga kamu tidak akan diberi pertolongan."
+        },
+        {
+            "id": 1587,
+            "surah": 11,
+            "nomor": 114,
+            "ar": "\u0648\u064e\u0627\u064e\u0642\u0650\u0645\u0650 \u0627\u0644\u0635\u0651\u064e\u0644\u0670\u0648\u0629\u064e \u0637\u064e\u0631\u064e\u0641\u064e\u064a\u0650 \u0627\u0644\u0646\u0651\u064e\u0647\u064e\u0627\u0631\u0650 \u0648\u064e\u0632\u064f\u0644\u064e\u0641\u064b\u0627 \u0645\u0651\u0650\u0646\u064e \u0627\u0644\u0651\u064e\u064a\u0652\u0644\u0650 \u06d7\u0627\u0650\u0646\u0651\u064e \u0627\u0644\u0652\u062d\u064e\u0633\u064e\u0646\u0670\u062a\u0650 \u064a\u064f\u0630\u0652\u0647\u0650\u0628\u0652\u0646\u064e \u0627\u0644\u0633\u0651\u064e\u064a\u0651\u0650\u0627\u0670\u062a\u0650\u06d7 \u0630\u0670\u0644\u0650\u0643\u064e \u0630\u0650\u0643\u0652\u0631\u0670\u0649 \u0644\u0650\u0644\u0630\u0651\u064e\u0627\u0643\u0650\u0631\u0650\u064a\u0652\u0646\u064e",
+            "tr": "wa-aqimi <strong>al</strong><u>shsh</u>al<u>aa</u>ta <u>th</u>arafayi <strong>al</strong>nnah<u>aa</u>ri wazulafan mina <strong>al</strong>layli inna <strong>a</strong>l<u>h</u>asan<u>aa</u>ti yu<u>dz</u>hibna <strong>al</strong>ssayyi-<u>aa</u>ti <u>dzaa</u>lika <u>dz</u>ikr<u>aa</u> li<strong>l</strong><u>dzdzaa</u>kiriin<strong>a</strong>",
+            "idn": "Dan laksanakanlah salat pada kedua ujung siang (pagi dan petang) dan pada bagian permulaan malam. Perbuatan-perbuatan baik itu menghapus kesalahan-kesalahan. Itulah peringatan bagi orang-orang yang selalu mengingat (Allah)."
+        },
+        {
+            "id": 1588,
+            "surah": 11,
+            "nomor": 115,
+            "ar": "\u0648\u064e\u0627\u0635\u0652\u0628\u0650\u0631\u0652 \u0641\u064e\u0627\u0650\u0646\u0651\u064e \u0627\u0644\u0644\u0651\u0670\u0647\u064e \u0644\u064e\u0627 \u064a\u064f\u0636\u0650\u064a\u0652\u0639\u064f \u0627\u064e\u062c\u0652\u0631\u064e \u0627\u0644\u0652\u0645\u064f\u062d\u0652\u0633\u0650\u0646\u0650\u064a\u0652\u0646\u064e",
+            "tr": "wa<strong>i</strong><u>sh</u>bir fa-inna <strong>al</strong>l<u>aa</u>ha l<u>aa</u> yu<u>dh</u>ii'u ajra <strong>a</strong>lmu<u>h</u>siniin<strong>a</strong>",
+            "idn": "Dan bersabarlah, karena sesungguhnya Allah tidak menyia-nyiakan pahala orang yang berbuat kebaikan."
+        },
+        {
+            "id": 1589,
+            "surah": 11,
+            "nomor": 116,
+            "ar": "\u0641\u064e\u0644\u064e\u0648\u0652\u0644\u064e\u0627 \u0643\u064e\u0627\u0646\u064e \u0645\u0650\u0646\u064e \u0627\u0644\u0652\u0642\u064f\u0631\u064f\u0648\u0652\u0646\u0650 \u0645\u0650\u0646\u0652 \u0642\u064e\u0628\u0652\u0644\u0650\u0643\u064f\u0645\u0652 \u0627\u064f\u0648\u0644\u064f\u0648\u0652\u0627 \u0628\u064e\u0642\u0650\u064a\u0651\u064e\u0629\u064d \u064a\u0651\u064e\u0646\u0652\u0647\u064e\u0648\u0652\u0646\u064e \u0639\u064e\u0646\u0650 \u0627\u0644\u0652\u0641\u064e\u0633\u064e\u0627\u062f\u0650 \u0641\u0650\u0649 \u0627\u0644\u0652\u0627\u064e\u0631\u0652\u0636\u0650 \u0627\u0650\u0644\u0651\u064e\u0627 \u0642\u064e\u0644\u0650\u064a\u0652\u0644\u064b\u0627 \u0645\u0650\u0651\u0645\u0651\u064e\u0646\u0652 \u0627\u064e\u0646\u0652\u062c\u064e\u064a\u0652\u0646\u064e\u0627 \u0645\u0650\u0646\u0652\u0647\u064f\u0645\u0652 \u06da\u0648\u064e\u0627\u062a\u0651\u064e\u0628\u064e\u0639\u064e \u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u0638\u064e\u0644\u064e\u0645\u064f\u0648\u0652\u0627 \u0645\u064e\u0627\u0653 \u0627\u064f\u062a\u0652\u0631\u0650\u0641\u064f\u0648\u0652\u0627 \u0641\u0650\u064a\u0652\u0647\u0650 \u0648\u064e\u0643\u064e\u0627\u0646\u064f\u0648\u0652\u0627 \u0645\u064f\u062c\u0652\u0631\u0650\u0645\u0650\u064a\u0652\u0646\u064e",
+            "tr": "falawl<u>aa</u> k<u>aa</u>na mina <strong>a</strong>lquruuni min qablikum uluu baqiyyatin yanhawna 'ani <strong>a</strong>lfas<u>aa</u>di fii <strong>a</strong>l-ar<u>dh</u>i ill<u>aa</u> qaliilan mimman anjayn<u>aa</u> minhum wa<strong>i</strong>ttaba'a <strong>al</strong>la<u>dz</u>iina <u>zh</u>alamuu m<u>aa</u> utrifuu fiihi wak<u>aa</u>nuu mujrimiin<strong>a</strong>",
+            "idn": "Maka mengapa tidak ada di antara umat-umat sebelum kamu orang yang mempunyai keutamaan yang melarang (berbuat) kerusakan di bumi, kecuali sebagian kecil di antara orang yang telah Kami selamatkan. Dan orang-orang yang zalim hanya mementingkan kenikmatan dan kemewahan. Dan mereka adalah orang-orang yang berdosa. "
+        },
+        {
+            "id": 1590,
+            "surah": 11,
+            "nomor": 117,
+            "ar": "\u0648\u064e\u0645\u064e\u0627 \u0643\u064e\u0627\u0646\u064e \u0631\u064e\u0628\u0651\u064f\u0643\u064e \u0644\u0650\u064a\u064f\u0647\u0652\u0644\u0650\u0643\u064e \u0627\u0644\u0652\u0642\u064f\u0631\u0670\u0649 \u0628\u0650\u0638\u064f\u0644\u0652\u0645\u064d \u0648\u0651\u064e\u0627\u064e\u0647\u0652\u0644\u064f\u0647\u064e\u0627 \u0645\u064f\u0635\u0652\u0644\u0650\u062d\u064f\u0648\u0652\u0646\u064e",
+            "tr": "wam<u>aa</u> k<u>aa</u>na rabbuka liyuhlika <strong>a</strong>lqur<u>aa</u> bi<u>zh</u>ulmin wa-ahluh<u>aa</u> mu<u>sh</u>li<u>h</u>uun<strong>a</strong>",
+            "idn": "Dan Tuhanmu tidak akan membinasakan negeri-negeri secara zalim, selama penduduknya orang-orang yang berbuat kebaikan."
+        },
+        {
+            "id": 1591,
+            "surah": 11,
+            "nomor": 118,
+            "ar": "\u0648\u064e\u0644\u064e\u0648\u0652 \u0634\u064e\u0627\u06e4\u0621\u064e \u0631\u064e\u0628\u0651\u064f\u0643\u064e \u0644\u064e\u062c\u064e\u0639\u064e\u0644\u064e \u0627\u0644\u0646\u0651\u064e\u0627\u0633\u064e \u0627\u064f\u0645\u0651\u064e\u0629\u064b \u0648\u0651\u064e\u0627\u062d\u0650\u062f\u064e\u0629\u064b \u0648\u0651\u064e\u0644\u064e\u0627 \u064a\u064e\u0632\u064e\u0627\u0644\u064f\u0648\u0652\u0646\u064e \u0645\u064f\u062e\u0652\u062a\u064e\u0644\u0650\u0641\u0650\u064a\u0652\u0646\u064e\u06d9  ",
+            "tr": "walaw sy<u>aa</u>-a rabbuka laja'ala <strong>al</strong>nn<u>aa</u>sa ummatan w<u>aah</u>idatan wal<u>aa</u> yaz<u>aa</u>luuna mukhtalifiin<strong>a</strong>",
+            "idn": "Dan jika Tuhanmu menghendaki, tentu Dia jadikan manusia umat yang satu, tetapi mereka senantiasa berselisih (pendapat),"
+        },
+        {
+            "id": 1592,
+            "surah": 11,
+            "nomor": 119,
+            "ar": "\u0627\u0650\u0644\u0651\u064e\u0627 \u0645\u064e\u0646\u0652 \u0631\u0651\u064e\u062d\u0650\u0645\u064e \u0631\u064e\u0628\u0651\u064f\u0643\u064e \u06d7\u0648\u064e\u0644\u0650\u0630\u0670\u0644\u0650\u0643\u064e \u062e\u064e\u0644\u064e\u0642\u064e\u0647\u064f\u0645\u0652 \u06d7\u0648\u064e\u062a\u064e\u0645\u0651\u064e\u062a\u0652 \u0643\u064e\u0644\u0650\u0645\u064e\u0629\u064f \u0631\u064e\u0628\u0651\u0650\u0643\u064e \u0644\u064e\u0627\u064e\u0645\u0652\u0644\u064e\u0640\u0654\u064e\u0646\u0651\u064e \u062c\u064e\u0647\u064e\u0646\u0651\u064e\u0645\u064e \u0645\u0650\u0646\u064e \u0627\u0644\u0652\u062c\u0650\u0646\u0651\u064e\u0629\u0650 \u0648\u064e\u0627\u0644\u0646\u0651\u064e\u0627\u0633\u0650 \u0627\u064e\u062c\u0652\u0645\u064e\u0639\u0650\u064a\u0652\u0646\u064e",
+            "tr": "ill<u>aa</u> man ra<u>h</u>ima rabbuka wali<u>dzaa</u>lika khalaqahum watammat kalimatu rabbika la-amla-anna jahannama mina <strong>a</strong>ljinnati wa<strong>al</strong>nn<u>aa</u>si ajma'iin<strong>a</strong>",
+            "idn": "kecuali orang yang diberi rahmat oleh Tuhanmu. Dan untuk itulah Allah menciptakan mereka. Kalimat (keputusan) Tuhanmu telah tetap, \u201cAku pasti akan memenuhi neraka Jahanam dengan jin dan manusia (yang durhaka) semuanya.\u201d"
+        },
+        {
+            "id": 1593,
+            "surah": 11,
+            "nomor": 120,
+            "ar": "\u0648\u064e\u0643\u064f\u0644\u0651\u064b\u0627 \u0646\u0651\u064e\u0642\u064f\u0635\u0651\u064f \u0639\u064e\u0644\u064e\u064a\u0652\u0643\u064e \u0645\u0650\u0646\u0652 \u0627\u064e\u0646\u0652\u06e2\u0628\u064e\u0627\u06e4\u0621\u0650 \u0627\u0644\u0631\u0651\u064f\u0633\u064f\u0644\u0650 \u0645\u064e\u0627 \u0646\u064f\u062b\u064e\u0628\u0651\u0650\u062a\u064f \u0628\u0650\u0647\u0656 \u0641\u064f\u0624\u064e\u0627\u062f\u064e\u0643\u064e \u0648\u064e\u062c\u064e\u0627\u06e4\u0621\u064e\u0643\u064e \u0641\u0650\u064a\u0652 \u0647\u0670\u0630\u0650\u0647\u0650 \u0627\u0644\u0652\u062d\u064e\u0642\u0651\u064f \u0648\u064e\u0645\u064e\u0648\u0652\u0639\u0650\u0638\u064e\u0629\u064c \u0648\u0651\u064e\u0630\u0650\u0643\u0652\u0631\u0670\u0649 \u0644\u0650\u0644\u0652\u0645\u064f\u0624\u0652\u0645\u0650\u0646\u0650\u064a\u0652\u0646\u064e ",
+            "tr": "wakullan naqu<u>shsh</u>u 'alayka min anb<u>aa</u>-i <strong>al</strong>rrusuli m<u>aa</u> nutsabbitu bihi fu-<u>aa</u>daka waj<u>aa</u>-aka fii h<u>aadz</u>ihi <strong>a</strong>l<u>h</u>aqqu wamaw'i<u>zh</u>atun wa<u>dz</u>ikr<u>aa</u> lilmu/miniin<strong>a</strong>",
+            "idn": "Dan semua kisah rasul-rasul, Kami ceritakan kepadamu (Muhammad), agar dengan kisah itu Kami teguhkan hatimu; dan di dalamnya telah diberikan kepadamu (segala) kebenaran, nasihat dan peringatan bagi orang yang beriman."
+        },
+        {
+            "id": 1594,
+            "surah": 11,
+            "nomor": 121,
+            "ar": "\u0648\u064e\u0642\u064f\u0644\u0652 \u0644\u0650\u0651\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u0644\u064e\u0627 \u064a\u064f\u0624\u0652\u0645\u0650\u0646\u064f\u0648\u0652\u0646\u064e \u0627\u0639\u0652\u0645\u064e\u0644\u064f\u0648\u0652\u0627 \u0639\u064e\u0644\u0670\u0649 \u0645\u064e\u0643\u064e\u0627\u0646\u064e\u062a\u0650\u0643\u064f\u0645\u0652\u06d7 \u0627\u0650\u0646\u0651\u064e\u0627 \u0639\u0670\u0645\u0650\u0644\u064f\u0648\u0652\u0646\u064e\u06d9  ",
+            "tr": "waqul lilla<u>dz</u>iina l<u>aa</u> yu/minuuna i'maluu 'al<u>aa</u> mak<u>aa</u>natikum inn<u>aa</u> '<u>aa</u>miluun<strong>a</strong>",
+            "idn": "Dan katakanlah (Muhammad) kepada orang yang tidak beriman, \u201cBerbuatlah menurut kedudukanmu; kami pun benar-benar akan berbuat,"
+        },
+        {
+            "id": 1595,
+            "surah": 11,
+            "nomor": 122,
+            "ar": "\u0648\u064e\u0627\u0646\u0652\u062a\u064e\u0638\u0650\u0631\u064f\u0648\u0652\u0627\u06da \u0627\u0650\u0646\u0651\u064e\u0627 \u0645\u064f\u0646\u0652\u062a\u064e\u0638\u0650\u0631\u064f\u0648\u0652\u0646\u064e",
+            "tr": "wa<strong>i</strong>nta<u>zh</u>iruu inn<u>aa</u> munta<u>zh</u>iruun<strong>a</strong>",
+            "idn": "dan tunggulah, sesungguhnya kami pun termasuk yang menunggu.\u201d"
+        },
+        {
+            "id": 1596,
+            "surah": 11,
+            "nomor": 123,
+            "ar": "\u0648\u064e\u0644\u0650\u0644\u0651\u0670\u0647\u0650 \u063a\u064e\u064a\u0652\u0628\u064f \u0627\u0644\u0633\u0651\u064e\u0645\u0670\u0648\u0670\u062a\u0650 \u0648\u064e\u0627\u0644\u0652\u0627\u064e\u0631\u0652\u0636\u0650 \u0648\u064e\u0627\u0650\u0644\u064e\u064a\u0652\u0647\u0650 \u064a\u064f\u0631\u0652\u062c\u064e\u0639\u064f \u0627\u0644\u0652\u0627\u064e\u0645\u0652\u0631\u064f \u0643\u064f\u0644\u0651\u064f\u0647\u0657 \u0641\u064e\u0627\u0639\u0652\u0628\u064f\u062f\u0652\u0647\u064f \u0648\u064e\u062a\u064e\u0648\u064e\u0643\u0651\u064e\u0644\u0652 \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650\u06d7 \u0648\u064e\u0645\u064e\u0627 \u0631\u064e\u0628\u0651\u064f\u0643\u064e \u0628\u0650\u063a\u064e\u0627\u0641\u0650\u0644\u064d \u0639\u064e\u0645\u0651\u064e\u0627 \u062a\u064e\u0639\u0652\u0645\u064e\u0644\u064f\u0648\u0652\u0646\u064e \u08d6 ",
+            "tr": "walill<u>aa</u>hi ghaybu <strong>al</strong>ssam<u>aa</u>w<u>aa</u>ti wa<strong>a</strong>l-ar<u>dh</u>i wa-ilayhi yurja'u <strong>a</strong>l-amru kulluhu fa<strong>u</strong>'budhu watawakkal 'alayhi wam<u>aa</u> rabbuka bigh<u>aa</u>filin 'amm<u>aa</u> ta'maluun<strong>a</strong>",
+            "idn": "Dan milik Allah meliputi rahasia langit dan bumi dan kepada-Nya segala urusan dikembalikan. Maka sembahlah Dia dan bertawakallah kepada-Nya. Dan Tuhanmu tidak akan lengah terhadap apa yang kamu kerjakan."
+        }
+    ],
+    "surat_selanjutnya": {
+        "id": 12,
+        "nomor": 12,
+        "nama": "\u064a\u0648\u0633\u0641",
+        "nama_latin": "Yusuf",
+        "jumlah_ayat": 111,
+        "tempat_turun": "mekah",
+        "arti": "Yusuf",
+        "deskripsi": " Surat Yusuf ini terdiri atas 111 ayat, termasuk golongan surat-surat Makkiyyah karena diturunkan di Mekah sebelum hijrah. Surat ini dinamakan <i>surat Yusuf</i> adalah karena titik berat dari isinya mengenai riwayat Nabi Yusuf a.s.  Riwayat tersebut salah satu di antara cerita-cerita ghaib yang diwahyukan kepada Nabi Muhammad s.a.w. sebagai mukjizat bagi beliau, sedang beliau sebelum diturunkan surat ini tidak mengetahuinya.  Menurut riwayat Al Baihaqi dalam kitab <i>Ad Dalail</i> bahwa segolongan orang Yahudi masuk agama Islam sesudah mereka mendengar cerita Yusuf a.s. ini, karena sesuai dengan cerita-cerita yang mereka ketahui. Dari cerita Yusuf a.s. ini, Nabi Muhammad s.a.w. mengambil pelajaran-pelajaran yang banyak dan merupakan penghibur terhadap beliau dalam menjalankan tugasnya.",
+        "audio": "https://santrikoding.com/storage/audio/012.mp3"
+    },
+    "surat_sebelumnya": {
+        "id": 10,
+        "nomor": 10,
+        "nama": "\u064a\u0648\u0646\u0633",
+        "nama_latin": "Yunus",
+        "jumlah_ayat": 109,
+        "tempat_turun": "mekah",
+        "arti": "Yunus",
+        "deskripsi": "Surat Yunus terdiri atas 109 ayat, termasuk golongan surat-surat Makkiyyah kecuali ayat 40, 94, 95, yang diturunkan pada masa Nabi Muhmmad s.a.w. berada di Madinah. Surat ini dinamai <i>surat Yunus</i> karena dalam surat ini terutama ditampilkan kisah Nabi Yunus a.s. dan pengikut-pengikutnya yang teguh imannya.",
+        "audio": "https://santrikoding.com/storage/audio/010.mp3"
+    }
+}

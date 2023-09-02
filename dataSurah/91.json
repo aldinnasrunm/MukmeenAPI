@@ -1,0 +1,155 @@
+{
+    "status": true,
+    "nomor": 91,
+    "nama": "\u0627\u0644\u0634\u0645\u0633",
+    "nama_latin": "Asy-Syams",
+    "jumlah_ayat": 15,
+    "tempat_turun": "mekah",
+    "arti": "Matahari",
+    "deskripsi": "Surat Asy Syams terdiri atas 15 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Qadar.  Dinamai <i>Asy Syams</i> (matahari) diambil dari perkataan <i>Asy Syams</i> yang terdapat pada ayat permulaan surat ini.",
+    "audio": "https://santrikoding.com/storage/audio/091.mp3",
+    "ayat": [
+        {
+            "id": 6044,
+            "surah": 91,
+            "nomor": 1,
+            "ar": "\u0648\u064e\u0627\u0644\u0634\u0651\u064e\u0645\u0652\u0633\u0650 \u0648\u064e\u0636\u064f\u062d\u0670\u0649\u0647\u064e\u0627\u06d6",
+            "tr": "wa<strong>al</strong>sysyamsi wa<u>dh</u>u<u>haa</u>h<u>aa</u>",
+            "idn": "Demi matahari dan sinarnya pada pagi hari,"
+        },
+        {
+            "id": 6045,
+            "surah": 91,
+            "nomor": 2,
+            "ar": "\u0648\u064e\u0627\u0644\u0652\u0642\u064e\u0645\u064e\u0631\u0650 \u0627\u0650\u0630\u064e\u0627 \u062a\u064e\u0644\u0670\u0649\u0647\u064e\u0627\u06d6",
+            "tr": "wa<strong>a</strong>lqamari i<u>dzaa</u> tal<u>aa</u>h<u>aa</u>",
+            "idn": "demi bulan apabila mengiringinya,"
+        },
+        {
+            "id": 6046,
+            "surah": 91,
+            "nomor": 3,
+            "ar": "\u0648\u064e\u0627\u0644\u0646\u0651\u064e\u0647\u064e\u0627\u0631\u0650 \u0627\u0650\u0630\u064e\u0627 \u062c\u064e\u0644\u0651\u0670\u0649\u0647\u064e\u0627\u06d6",
+            "tr": "wa<strong>al</strong>nnah<u>aa</u>ri i<u>dzaa</u> jall<u>aa</u>h<u>aa</u>",
+            "idn": "demi siang apabila menampakkannya,"
+        },
+        {
+            "id": 6047,
+            "surah": 91,
+            "nomor": 4,
+            "ar": "\u0648\u064e\u0627\u0644\u0651\u064e\u064a\u0652\u0644\u0650 \u0627\u0650\u0630\u064e\u0627 \u064a\u064e\u063a\u0652\u0634\u0670\u0649\u0647\u064e\u0627\u06d6",
+            "tr": "wa<strong>a</strong>llayli i<u>dzaa</u> yaghsy<u>aa</u>h<u>aa</u>",
+            "idn": "demi malam apabila menutupinya (gelap gulita),"
+        },
+        {
+            "id": 6048,
+            "surah": 91,
+            "nomor": 5,
+            "ar": "\u0648\u064e\u0627\u0644\u0633\u0651\u064e\u0645\u064e\u0627\u06e4\u0621\u0650 \u0648\u064e\u0645\u064e\u0627 \u0628\u064e\u0646\u0670\u0649\u0647\u064e\u0627\u06d6",
+            "tr": "wa<strong>al</strong>ssam<u>aa</u>-i wam<u>aa</u> ban<u>aa</u>h<u>aa</u>",
+            "idn": "demi langit serta pembinaannya (yang menakjubkan),"
+        },
+        {
+            "id": 6049,
+            "surah": 91,
+            "nomor": 6,
+            "ar": "\u0648\u064e\u0627\u0644\u0652\u0627\u064e\u0631\u0652\u0636\u0650 \u0648\u064e\u0645\u064e\u0627 \u0637\u064e\u062d\u0670\u0649\u0647\u064e\u0627\u06d6",
+            "tr": "wa<strong>a</strong>l-ar<u>dh</u>i wam<u>aa</u> <u>th</u>a<u>haa</u>h<u>aa</u>",
+            "idn": "demi bumi serta penghamparannya,"
+        },
+        {
+            "id": 6050,
+            "surah": 91,
+            "nomor": 7,
+            "ar": "\u0648\u064e\u0646\u064e\u0641\u0652\u0633\u064d \u0648\u0651\u064e\u0645\u064e\u0627 \u0633\u064e\u0648\u0651\u0670\u0649\u0647\u064e\u0627\u06d6",
+            "tr": "wanafsin wam<u>aa</u> saww<u>aa</u>h<u>aa</u>",
+            "idn": "demi jiwa serta penyempurnaan (ciptaan)nya,"
+        },
+        {
+            "id": 6051,
+            "surah": 91,
+            "nomor": 8,
+            "ar": "\u0641\u064e\u0627\u064e\u0644\u0652\u0647\u064e\u0645\u064e\u0647\u064e\u0627 \u0641\u064f\u062c\u064f\u0648\u0652\u0631\u064e\u0647\u064e\u0627 \u0648\u064e\u062a\u064e\u0642\u0652\u0648\u0670\u0649\u0647\u064e\u0627\u06d6",
+            "tr": "fa-alhamah<u>aa</u> fujuurah<u>aa</u> wataqw<u>aa</u>h<u>aa</u>",
+            "idn": "maka Dia mengilhamkan kepadanya (jalan) kejahatan dan ketakwaannya,"
+        },
+        {
+            "id": 6052,
+            "surah": 91,
+            "nomor": 9,
+            "ar": "\u0642\u064e\u062f\u0652 \u0627\u064e\u0641\u0652\u0644\u064e\u062d\u064e \u0645\u064e\u0646\u0652 \u0632\u064e\u0643\u0651\u0670\u0649\u0647\u064e\u0627\u06d6",
+            "tr": "qad afla<u>h</u>a man zakk<u>aa</u>h<u>aa</u>",
+            "idn": "sungguh beruntung orang yang menyucikannya (jiwa itu),"
+        },
+        {
+            "id": 6053,
+            "surah": 91,
+            "nomor": 10,
+            "ar": "\u0648\u064e\u0642\u064e\u062f\u0652 \u062e\u064e\u0627\u0628\u064e \u0645\u064e\u0646\u0652 \u062f\u064e\u0633\u0651\u0670\u0649\u0647\u064e\u0627\u06d7",
+            "tr": "waqad kh<u>aa</u>ba man dass<u>aa</u>h<u>aa</u>",
+            "idn": "dan sungguh rugi orang yang mengotorinya."
+        },
+        {
+            "id": 6054,
+            "surah": 91,
+            "nomor": 11,
+            "ar": "\u0643\u064e\u0630\u0651\u064e\u0628\u064e\u062a\u0652 \u062b\u064e\u0645\u064f\u0648\u0652\u062f\u064f \u0628\u0650\u0637\u064e\u063a\u0652\u0648\u0670\u0649\u0647\u064e\u0627\u0653  \u06d6",
+            "tr": "ka<u>dzdz</u>abat tsamuudu bi<u>th</u>aghw<u>aa</u>h<u>aa</u>",
+            "idn": "(Kaum) samud telah mendustakan (rasulnya) karena mereka melampaui batas (zalim),"
+        },
+        {
+            "id": 6055,
+            "surah": 91,
+            "nomor": 12,
+            "ar": "\u0627\u0650\u0630\u0650 \u0627\u0646\u0652\u06e2\u0628\u064e\u0639\u064e\u062b\u064e \u0627\u064e\u0634\u0652\u0642\u0670\u0649\u0647\u064e\u0627\u06d6",
+            "tr": "i<u>dz</u>i inba'atsa asyq<u>aa</u>h<u>aa</u>",
+            "idn": "ketika bangkit orang yang paling celaka di antara mereka,"
+        },
+        {
+            "id": 6056,
+            "surah": 91,
+            "nomor": 13,
+            "ar": "\u0641\u064e\u0642\u064e\u0627\u0644\u064e \u0644\u064e\u0647\u064f\u0645\u0652 \u0631\u064e\u0633\u064f\u0648\u0652\u0644\u064f \u0627\u0644\u0644\u0651\u0670\u0647\u0650 \u0646\u064e\u0627\u0642\u064e\u0629\u064e \u0627\u0644\u0644\u0651\u0670\u0647\u0650 \u0648\u064e\u0633\u064f\u0642\u0652\u064a\u0670\u0647\u064e\u0627\u06d7",
+            "tr": "faq<u>aa</u>la lahum rasuulu <strong>al</strong>l<u>aa</u>hi n<u>aa</u>qata <strong>al</strong>l<u>aa</u>hi wasuqy<u>aa</u>h<u>aa</u>",
+            "idn": "lalu Rasul Allah (Saleh) berkata kepada mereka, \u201c(Biarkanlah) unta betina dari Allah ini dengan minumannya.\u201d"
+        },
+        {
+            "id": 6057,
+            "surah": 91,
+            "nomor": 14,
+            "ar": "\u0641\u064e\u0643\u064e\u0630\u0651\u064e\u0628\u064f\u0648\u0652\u0647\u064f \u0641\u064e\u0639\u064e\u0642\u064e\u0631\u064f\u0648\u0652\u0647\u064e\u0627\u06d6 \u0641\u064e\u062f\u064e\u0645\u0652\u062f\u064e\u0645\u064e \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650\u0645\u0652 \u0631\u064e\u0628\u0651\u064f\u0647\u064f\u0645\u0652 \u0628\u0650\u0630\u064e\u0646\u0652\u06e2\u0628\u0650\u0647\u0650\u0645\u0652 \u0641\u064e\u0633\u064e\u0648\u0651\u0670\u0649\u0647\u064e\u0627\u06d6",
+            "tr": "faka<u>dzdz</u>abuuhu fa'aqaruuh<u>aa</u> fadamdama 'alayhim rabbuhum bi<u>dz</u>anbihim fasaww<u>aa</u>h<u>aa</u>",
+            "idn": "Namun mereka mendustakannya dan menyembelihnya, karena itu Tuhan membinasakan mereka karena dosanya, lalu diratakan-Nya (dengan tanah),"
+        },
+        {
+            "id": 6058,
+            "surah": 91,
+            "nomor": 15,
+            "ar": "\u0648\u064e\u0644\u064e\u0627 \u064a\u064e\u062e\u064e\u0627\u0641\u064f \u0639\u064f\u0642\u0652\u0628\u0670\u0647\u064e\u0627 \u08d6",
+            "tr": "wal<u>aa</u> yakh<u>aa</u>fu 'uqb<u>aa</u>h<u>aa</u>",
+            "idn": "dan Dia tidak takut terhadap akibatnya."
+        }
+    ],
+    "surat_selanjutnya": {
+        "id": 92,
+        "nomor": 92,
+        "nama": "\u0627\u0644\u0651\u064a\u0644",
+        "nama_latin": "Al-Lail",
+        "jumlah_ayat": 21,
+        "tempat_turun": "mekah",
+        "arti": "Malam",
+        "deskripsi": "Surat ini terdiri atas 21 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al A'laa. Surat ini dinamai <i>Al Lail</i> (malam), diambil dari perkataan <i>Al Lail</i> yang terdapat pada ayat pertama surat ini",
+        "audio": "https://santrikoding.com/storage/audio/092.mp3"
+    },
+    "surat_sebelumnya": {
+        "id": 90,
+        "nomor": 90,
+        "nama": "\u0627\u0644\u0628\u0644\u062f",
+        "nama_latin": "Al-Balad",
+        "jumlah_ayat": 20,
+        "tempat_turun": "mekah",
+        "arti": "Negeri",
+        "deskripsi": "Surat Al Balad terdiri atas 20 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Qaaf. Dinamai <i>Al Balad</i>, diambil dari perkataan <i>Al Balad</i> yang terdapat  pada ayat pertama surat ini. Yang dimaksud dengan kota di sini ialah kota Mekah.",
+        "audio": "https://santrikoding.com/storage/audio/090.mp3"
+    }
+}

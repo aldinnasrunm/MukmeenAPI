@@ -1,0 +1,99 @@
+{
+    "status": true,
+    "nomor": 94,
+    "nama": "\u0627\u0644\u0634\u0631\u062d",
+    "nama_latin": "Asy-Syarh",
+    "jumlah_ayat": 8,
+    "tempat_turun": "mekah",
+    "arti": "Lapang",
+    "deskripsi": "Surat ini terdiri atas 8 ayat, termasuk golongan surat-surat Makkiyah dan diturunkan sesudah surat Adh Dhuhaa. Nama <i>Alam Nasyrah</i> diambil dari kata <i>Alam Nasyrah</i> yang terdapat pada ayat pertama, yang berarti: bukankah Kami telah melapangkan.",
+    "audio": "https://santrikoding.com/storage/audio/094.mp3",
+    "ayat": [
+        {
+            "id": 6091,
+            "surah": 94,
+            "nomor": 1,
+            "ar": "\u0627\u064e\u0644\u064e\u0645\u0652 \u0646\u064e\u0634\u0652\u0631\u064e\u062d\u0652 \u0644\u064e\u0643\u064e \u0635\u064e\u062f\u0652\u0631\u064e\u0643\u064e\u06d9",
+            "tr": "alam nasyra<u>h</u> laka <u>sh</u>adrak<strong>a</strong>",
+            "idn": "Bukankah Kami telah melapangkan dadamu (Muhammad)?"
+        },
+        {
+            "id": 6092,
+            "surah": 94,
+            "nomor": 2,
+            "ar": "\u0648\u064e\u0648\u064e\u0636\u064e\u0639\u0652\u0646\u064e\u0627 \u0639\u064e\u0646\u0652\u0643\u064e \u0648\u0650\u0632\u0652\u0631\u064e\u0643\u064e\u06d9",
+            "tr": "wawa<u>dh</u>a'n<u>aa</u> 'anka wizrak<strong>a</strong>",
+            "idn": "dan Kami pun telah menurunkan bebanmu darimu,"
+        },
+        {
+            "id": 6093,
+            "surah": 94,
+            "nomor": 3,
+            "ar": "\u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0653 \u0627\u064e\u0646\u0652\u0642\u064e\u0636\u064e \u0638\u064e\u0647\u0652\u0631\u064e\u0643\u064e\u06d9",
+            "tr": "<strong>al</strong>la<u>dz</u>ii anqa<u>dh</u>a <u>zh</u>ahrak<strong>a</strong>",
+            "idn": "yang memberatkan punggungmu, "
+        },
+        {
+            "id": 6094,
+            "surah": 94,
+            "nomor": 4,
+            "ar": "\u0648\u064e\u0631\u064e\u0641\u064e\u0639\u0652\u0646\u064e\u0627 \u0644\u064e\u0643\u064e \u0630\u0650\u0643\u0652\u0631\u064e\u0643\u064e\u06d7",
+            "tr": "warafa'n<u>aa</u> laka <u>dz</u>ikrak<strong>a</strong>",
+            "idn": "dan Kami tinggikan sebutan (nama)mu bagimu."
+        },
+        {
+            "id": 6095,
+            "surah": 94,
+            "nomor": 5,
+            "ar": "\u0641\u064e\u0627\u0650\u0646\u0651\u064e \u0645\u064e\u0639\u064e \u0627\u0644\u0652\u0639\u064f\u0633\u0652\u0631\u0650 \u064a\u064f\u0633\u0652\u0631\u064b\u0627\u06d9",
+            "tr": "fa-inna ma'a <strong>a</strong>l'usri yusr<u>aa</u><strong>n</strong>",
+            "idn": "Maka sesungguhnya beserta kesulitan ada kemudahan,"
+        },
+        {
+            "id": 6096,
+            "surah": 94,
+            "nomor": 6,
+            "ar": "\u0627\u0650\u0646\u0651\u064e \u0645\u064e\u0639\u064e \u0627\u0644\u0652\u0639\u064f\u0633\u0652\u0631\u0650 \u064a\u064f\u0633\u0652\u0631\u064b\u0627\u06d7",
+            "tr": "inna ma'a <strong>a</strong>l'usri yusr<u>aa</u><strong>n</strong>",
+            "idn": "sesungguhnya beserta kesulitan itu ada kemudahan."
+        },
+        {
+            "id": 6097,
+            "surah": 94,
+            "nomor": 7,
+            "ar": "\u0641\u064e\u0627\u0650\u0630\u064e\u0627 \u0641\u064e\u0631\u064e\u063a\u0652\u062a\u064e \u0641\u064e\u0627\u0646\u0652\u0635\u064e\u0628\u0652\u06d9",
+            "tr": "fa-i<u>dzaa</u> faraghta fa<strong>i</strong>n<u>sh</u>ab",
+            "idn": "Maka apabila engkau telah selesai (dari sesuatu urusan), tetaplah bekerja keras (untuk urusan yang lain),"
+        },
+        {
+            "id": 6098,
+            "surah": 94,
+            "nomor": 8,
+            "ar": "\u0648\u064e\u0627\u0650\u0644\u0670\u0649 \u0631\u064e\u0628\u0651\u0650\u0643\u064e \u0641\u064e\u0627\u0631\u0652\u063a\u064e\u0628\u0652 \u08d6",
+            "tr": "wa-il<u>aa</u> rabbika fa<strong>i</strong>rghab",
+            "idn": "dan hanya kepada Tuhanmulah engkau berharap."
+        }
+    ],
+    "surat_selanjutnya": {
+        "id": 95,
+        "nomor": 95,
+        "nama": "\u0627\u0644\u062a\u064a\u0646",
+        "nama_latin": "At-Tin",
+        "jumlah_ayat": 8,
+        "tempat_turun": "mekah",
+        "arti": "Buah Tin",
+        "deskripsi": "Surat ini terdiri atas 8 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Buruuj. Nama At Tiin diambil dari kata <i>At Tiin</i> yang terdapat pada ayat pertama surat ini yang artinya buah Tin.",
+        "audio": "https://santrikoding.com/storage/audio/095.mp3"
+    },
+    "surat_sebelumnya": {
+        "id": 93,
+        "nomor": 93,
+        "nama": "\u0627\u0644\u0636\u062d\u0649",
+        "nama_latin": "Ad-Duha",
+        "jumlah_ayat": 11,
+        "tempat_turun": "mekah",
+        "arti": "Duha",
+        "deskripsi": "Surat ini terdiri atas 11 ayat, termasuk golongan surat Makiyyah dan diturunkan sesudah surat Al Fajr. Nama <i>Adh Dhuhaa</i> diambil dari kata yang terdapat pada ayat pertama, artinya : waktu matahari sepenggalahan naik.",
+        "audio": "https://santrikoding.com/storage/audio/093.mp3"
+    }
+}

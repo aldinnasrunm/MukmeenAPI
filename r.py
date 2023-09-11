@@ -1,16 +1,26 @@
-my_dict = {
-    "outer_key1": {
-        "inner_key1": "value1",
-        "inner_key2": "value2"
-    },
-    "outer_key2": {
-        "inner_key3": "value3",
-        "inner_key4": "value4"
-    }
-}
+import requests
 
-# Add a new item to the nested dictionary
-my_dict["outer_key1"]["agdahgdadga"] = "dadadad"
+# Define the API endpoint
+api_url = 'https://api.myquran.com/v1/sholat/kota/semua'
 
-# Print the updated dictionary
-print(my_dict)
+# Send a GET request to the API
+response = requests.get(api_url)
+
+# Check if the request was successful (status code 200)
+if response.status_code == 200:
+    # Parse the JSON response
+    data = response.json()
+
+    for enu, item in enumerate(data):
+        if item['lokasi'] == "KOTA HUMBANG HASUNDUTAN":
+
+            print(enu, item['lokasi'])
+#     # Check if the data has at least 33 items (index 32 exists)
+#     if len(data) >= 33:
+#         # Select and print the location at index 32
+#         location_32 = data[180]
+#         print(location_32)
+#     else:
+#         print("Index 32 does not exist in the data.")
+# else:
+#     print("Failed to fetch data from the API.")

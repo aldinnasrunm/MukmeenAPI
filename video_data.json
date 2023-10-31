@@ -2,31 +2,42 @@
     {
         "id": 1,
         "title": "10 Sahabat yang Dijamin Masuk Surga",
-        "link": "https://www.youtube.com/watch?v=Ov4Ypvvgf6Q"
+        "link": "https://www.youtube.com/watch?v=Ov4Ypvvgf6Q",
+        "tumbnail": "https://img.youtube.com/vi/Ov4Ypvvgf6Q/mqdefault.jpg"
     },
     {
         "id": 2,
         "title": "Membaca Surat yang Panjang dan Pendek Ketika Shalat - Ustadz M Abduh Tuasikal",
-        "link": "https://www.youtube.com/watch?v=idsQzX15u-k"
+        "link": "https://www.youtube.com/watch?v=idsQzX15u-k",
+        "tumbnail": "https://img.youtube.com/vi/idsQzX15u-k/mqdefault.jpg"
+
     },
     {
         "id": 3,
         "title": "[Tanya Jawab] Kajian Musawarah - Berprasangka Baik kepada Allah - Ustadz Adi Hidayat",
-        "link": "https://www.youtube.com/watch?v=E7kKQ8p6AlE&pp=ygUSdXN0YWR6IGFkaSBoaWRheWF0"
+        "link": "https://www.youtube.com/watch?v=E7kKQ8p6AlE&pp=ygUSdXN0YWR6IGFkaSBoaWRheWF0",
+        "tumbnail": "https://img.youtube.com/vi/E7kKQ8p6AlE/mqdefault.jpg"
+
     },
     {
         "id": 4,
         "title": "\"Mengungkap Keberhasilan Dakwah Wali Songo\" | Ustadz Salim A. Fillah | KAJIAN UMUM DARUSY SYAHADAH",
-        "link": "https://www.youtube.com/watch?v=oBshWoT1yc0&pp=ygUMdXN0YWR6IHNhbGlt"
+        "link": "https://www.youtube.com/watch?v=oBshWoT1yc0&pp=ygUMdXN0YWR6IHNhbGlt",
+        "tumbnail": "https://img.youtube.com/vi/oBshWoT1yc0/mqdefault.jpg"
+
     },
     {
         "id": 5,
         "title": "\"Merdeka!\" | Ustadz Salim A. Fillah | KAJIAN SPESIAL MASJID MAF",
-        "link": "https://www.youtube.com/watch?v=Dl8eF9_Trc0&pp=ygUVdXN0YWR6IHNhbGltIGEgZmlsbGFo"
+        "link": "https://www.youtube.com/watch?v=Dl8eF9_Trc0&pp=ygUVdXN0YWR6IHNhbGltIGEgZmlsbGFo",
+        "tumbnail": "https://img.youtube.com/vi/Dl8eF9_Trc0/mqdefault.jpg"
+
     },
     {
         "id": 6,
         "title": "\"10 Sahabat yang Dijamin Masuk Surga\" | Ustadz Salim A. Fillah | KAJIAN KISAH INSPIRATIF AL-MILLAH",
-        "link": "https://www.youtube.com/watch?v=_OYXBNqnEWM&pp=ygUVdXN0YWR6IHNhbGltIGEgZmlsbGFo"
+        "link": "https://www.youtube.com/watch?v=_OYXBNqnEWM&pp=ygUVdXN0YWR6IHNhbGltIGEgZmlsbGFo",
+        "tumbnail": "https://img.youtube.com/vi/_OYXBNqnEWM/mqdefault.jpg"
+
     }
 ]

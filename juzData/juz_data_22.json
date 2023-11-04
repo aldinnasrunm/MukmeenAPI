@@ -1,0 +1,13 @@
+{
+  "id": 22,
+  "juz_number": 22,
+  "verse_mapping": {
+    "33": "31-73",
+    "34": "1-54",
+    "35": "1-45",
+    "36": "1-27"
+  },
+  "first_verse_id": 3564,
+  "last_verse_id": 3732,
+  "verses_count": 169
+}

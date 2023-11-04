@@ -1,0 +1,11 @@
+{
+  "id": 8,
+  "juz_number": 8,
+  "verse_mapping": {
+    "6": "111-165",
+    "7": "1-87"
+  },
+  "first_verse_id": 900,
+  "last_verse_id": 1041,
+  "verses_count": 142
+}

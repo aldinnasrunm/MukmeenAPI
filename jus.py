@@ -18,6 +18,7 @@ for juz in juz_data['juzs']:
 
     # print(juz_id)
     # print(verse_mapping)
+    final_data_json = []
     ns = 0
     for nosurah, ayat in verse_mapping.items():
         ns = nosurah

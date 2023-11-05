@@ -18,7 +18,8 @@ for juz in juz_data['juzs']:
 
     # print(juz_id)
     # print(verse_mapping)
-    final_data_json = []
+    # reset final_data_json
+    final_data_json.clear() 
     ns = 0
     for nosurah, ayat in verse_mapping.items():
         ns = nosurah
@@ -40,7 +41,7 @@ for juz in juz_data['juzs']:
         "arti": surah_file["arti"],
         "deskripsi": surah_file["deskripsi"],
         "audio": surah_file["audio"],
-        "ayat": surah_file["ayat"][int(ayatStart)-1:int(ayatEnd)]
+        "ayat": surah_file["ayat"][int(ayatStart)-1:int(ayatEnd)].replace(" ࣖ", "")
             }
             # print(surah_file['nama_latin'])
 

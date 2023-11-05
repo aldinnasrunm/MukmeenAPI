@@ -41,7 +41,7 @@ for juz in juz_data['juzs']:
         "arti": surah_file["arti"],
         "deskripsi": surah_file["deskripsi"],
         "audio": surah_file["audio"],
-        "ayat": surah_file["ayat"][int(ayatStart)-1:int(ayatEnd)].replace(" ࣖ", "")
+        "ayat": surah_file["ayat"][int(ayatStart)-1:int(ayatEnd)]
             }
             # print(surah_file['nama_latin'])
 

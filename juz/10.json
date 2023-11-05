@@ -41,7 +41,7 @@
         "id": 1204,
         "surah": 8,
         "nomor": 44,
-        "ar": "وَاِذْ يُرِيْكُمُوْهُمْ اِذِ الْتَقَيْتُمْ فِيْٓ اَعْيُنِكُمْ قَلِيْلًا وَّيُقَلِّلُكُمْ فِيْٓ اَعْيُنِهِمْ لِيَقْضِيَ اللّٰهُ اَمْرًا كَانَ مَفْعُوْلًا ۗوَاِلَى اللّٰهِ تُرْجَعُ الْاُمُوْرُ ࣖ ",
+        "ar": "وَاِذْ يُرِيْكُمُوْهُمْ اِذِ الْتَقَيْتُمْ فِيْٓ اَعْيُنِكُمْ قَلِيْلًا وَّيُقَلِّلُكُمْ فِيْٓ اَعْيُنِهِمْ لِيَقْضِيَ اللّٰهُ اَمْرًا كَانَ مَفْعُوْلًا ۗوَاِلَى اللّٰهِ تُرْجَعُ الْاُمُوْرُ ",
         "tr": "wa-i<u>dz</u> yuriikumuuhum i<u>dz</u>i iltaqaytum fii a'yunikum qaliilan wayuqallilukum fii a'yunihim liyaq<u>dh</u>iya <strong>al</strong>l<u>aa</u>hu amran k<u>aa</u>na maf'uulan wa-il<u>aa</u> <strong>al</strong>l<u>aa</u>hi turja'u <strong>a</strong>l-umuur<strong>u</strong>",
         "idn": "Dan ketika Allah memperlihatkan mereka kepadamu, ketika kamu berjumpa dengan mereka berjumlah sedikit menurut penglihatan matamu dan kamu diperlihatkan-Nya berjumlah sedikit menurut penglihatan mereka, itu karena Allah berkehendak melaksanakan suatu urusan yang harus dilaksanakan. Hanya kepada Allah segala urusan dikembalikan.",
         "signCode": "وإذ يريكموهم إذ التقيتم في أعينكم قليلا ويقللكم في أعينهم ليقضي الله أمرا كان مفعولا وإلى الله ترجع الأمور"
@@ -167,7 +167,7 @@
         "id": 1218,
         "surah": 8,
         "nomor": 58,
-        "ar": "وَاِمَّا تَخَافَنَّ مِنْ قَوْمٍ خِيَانَةً فَانْۢبِذْ اِلَيْهِمْ عَلٰى سَوَاۤءٍۗ اِنَّ اللّٰهَ لَا يُحِبُّ الْخَاۤىِٕنِيْنَ ࣖ ",
+        "ar": "وَاِمَّا تَخَافَنَّ مِنْ قَوْمٍ خِيَانَةً فَانْۢبِذْ اِلَيْهِمْ عَلٰى سَوَاۤءٍۗ اِنَّ اللّٰهَ لَا يُحِبُّ الْخَاۤىِٕنِيْنَ ",
         "tr": "wa-imm<u>aa</u> takh<u>aa</u>fanna min qawmin khiy<u>aa</u>natan fa<strong>i</strong>nbi<u>dz</u> ilayhim 'al<u>aa</u> sawa-in inna <strong>al</strong>l<u>aa</u>ha l<u>aa</u> yu<u>h</u>ibbu <strong>a</strong>lkh<u>aa</u>-iniin<strong>a</strong>",
         "idn": "Dan jika engkau (Muhammad) khawatir akan (terjadinya) pengkhianatan dari suatu golongan, maka kembalikanlah perjanjian itu kepada mereka dengan cara yang jujur. Sungguh, Allah tidak menyukai orang yang berkhianat.",
         "signCode": "وإما تخافن من قوم خيانة فانبذ إليهم على سواء إن الله لا يحب الخائنين"
@@ -221,7 +221,7 @@
         "id": 1224,
         "surah": 8,
         "nomor": 64,
-        "ar": "يٰٓاَيُّهَا النَّبِيُّ حَسْبُكَ اللّٰهُ وَمَنِ اتَّبَعَكَ مِنَ الْمُؤْمِنِيْنَ ࣖ ",
+        "ar": "يٰٓاَيُّهَا النَّبِيُّ حَسْبُكَ اللّٰهُ وَمَنِ اتَّبَعَكَ مِنَ الْمُؤْمِنِيْنَ ",
         "tr": "y<u>aa</u> ayyuh<u>aa</u> <strong>al</strong>nnabiyyu <u>h</u>asbuka <strong>al</strong>l<u>aa</u>hu wamani ittaba'aka mina <strong>a</strong>lmu/miniin<strong>a</strong>",
         "idn": "Wahai Nabi (Muhammad)! Cukuplah Allah (menjadi pelindung) bagimu dan bagi orang-orang mukmin yang mengikutimu.",
         "signCode": "يأيها النبي حسبك الله ومن اتبعك من المؤمنين"
@@ -275,7 +275,7 @@
         "id": 1230,
         "surah": 8,
         "nomor": 70,
-        "ar": "يٰٓاَيُّهَا النَّبِيُّ قُلْ لِّمَنْ فِيْٓ اَيْدِيْكُمْ مِّنَ الْاَسْرٰٓىۙ اِنْ يَّعْلَمِ اللّٰهُ فِيْ قُلُوْبِكُمْ خَيْرًا يُّؤْتِكُمْ خَيْرًا مِّمَّآ اُخِذَ مِنْكُمْ وَيَغْفِرْ لَكُمْۗ وَاللّٰهُ غَفُوْرٌ رَّحِيْمٌ ࣖ ",
+        "ar": "يٰٓاَيُّهَا النَّبِيُّ قُلْ لِّمَنْ فِيْٓ اَيْدِيْكُمْ مِّنَ الْاَسْرٰٓىۙ اِنْ يَّعْلَمِ اللّٰهُ فِيْ قُلُوْبِكُمْ خَيْرًا يُّؤْتِكُمْ خَيْرًا مِّمَّآ اُخِذَ مِنْكُمْ وَيَغْفِرْ لَكُمْۗ وَاللّٰهُ غَفُوْرٌ رَّحِيْمٌ ",
         "tr": "y<u>aa</u> ayyuh<u>aa</u> <strong>al</strong>nnabiyyu qul liman fii aydiikum mina <strong>a</strong>l-asr<u>aa</u> in ya'lami <strong>al</strong>l<u>aa</u>hu fii quluubikum khayran yu/tikum khayran mimm<u>aa</u> ukhi<u>dz</u>a minkum wayaghfir lakum wa<strong>al</strong>l<u>aa</u>hu ghafuurun ra<u>h</u>iim<strong>un</strong>",
         "idn": "Wahai Nabi (Muhammad)! Katakanlah kepada para tawanan perang yang ada di tanganmu, “Jika Allah mengetahui ada kebaikan di dalam hatimu, niscaya Dia akan memberikan yang lebih baik dari apa yang telah diambil darimu dan Dia akan mengampuni kamu.” Allah Maha Pengampun, Maha Penyayang.",
         "signCode": "يأيها النبي قل لمن في أيديكم من الأسرى إن يعلم الله في قلوبكم خيرا يؤتكم خيرا مما أخذ منكم ويغفر لكم والله غفور رحيم"
@@ -320,7 +320,7 @@
         "id": 1235,
         "surah": 8,
         "nomor": 75,
-        "ar": "وَالَّذِيْنَ اٰمَنُوْا مِنْۢ بَعْدُ وَهَاجَرُوْا وَجَاهَدُوْا مَعَكُمْ فَاُولٰۤىِٕكَ مِنْكُمْۗ وَاُولُوا الْاَرْحَامِ بَعْضُهُمْ اَوْلٰى بِبَعْضٍ فِيْ كِتٰبِ اللّٰهِ ۗاِنَّ اللّٰهَ بِكُلِّ شَيْءٍ عَلِيْمٌ ࣖ",
+        "ar": "وَالَّذِيْنَ اٰمَنُوْا مِنْۢ بَعْدُ وَهَاجَرُوْا وَجَاهَدُوْا مَعَكُمْ فَاُولٰۤىِٕكَ مِنْكُمْۗ وَاُولُوا الْاَرْحَامِ بَعْضُهُمْ اَوْلٰى بِبَعْضٍ فِيْ كِتٰبِ اللّٰهِ ۗاِنَّ اللّٰهَ بِكُلِّ شَيْءٍ عَلِيْمٌ",
         "tr": "wa<strong>a</strong>lla<u>dz</u>iina <u>aa</u>manuu min ba'du wah<u>aa</u>jaruu waj<u>aa</u>haduu ma'akum faul<u>aa</u>-ika minkum wauluu <strong>a</strong>l-ar<u>haa</u>mi ba'<u>dh</u>uhum awl<u>aa</u> biba'<u>dh</u>in fii kit<u>aa</u>bi <strong>al</strong>l<u>aa</u>hi inna <strong>al</strong>l<u>aa</u>ha bikulli syay-in 'aliim<strong>un</strong>",
         "idn": "Dan orang-orang yang beriman setelah itu, kemudian berhijrah dan berjihad bersamamu maka mereka termasuk golonganmu. Orang-orang yang mempunyai hubungan kerabat itu sebagiannya lebih berhak terhadap sesamanya (daripada yang bukan kerabat) menurut Kitab Allah. Sungguh, Allah Maha Mengetahui segala sesuatu.",
         "signCode": "والذين ءامنوا من بعد وهاجروا وجهدوا معكم فأولئك منكم وأولوا الأرحام بعضهم أولى ببعض في كتب الله إن الله بكل شيء عليم"
@@ -387,7 +387,7 @@
         "id": 1241,
         "surah": 9,
         "nomor": 6,
-        "ar": "وَاِنْ اَحَدٌ مِّنَ الْمُشْرِكِيْنَ اسْتَجَارَكَ فَاَجِرْهُ حَتّٰى يَسْمَعَ كَلٰمَ اللّٰهِ ثُمَّ اَبْلِغْهُ مَأْمَنَهٗ ۗذٰلِكَ بِاَنَّهُمْ قَوْمٌ لَّا يَعْلَمُوْنَ ࣖ",
+        "ar": "وَاِنْ اَحَدٌ مِّنَ الْمُشْرِكِيْنَ اسْتَجَارَكَ فَاَجِرْهُ حَتّٰى يَسْمَعَ كَلٰمَ اللّٰهِ ثُمَّ اَبْلِغْهُ مَأْمَنَهٗ ۗذٰلِكَ بِاَنَّهُمْ قَوْمٌ لَّا يَعْلَمُوْنَ",
         "tr": "wa-in a<u>h</u>adun mina <strong>a</strong>lmusyrikiina istaj<u>aa</u>raka fa-ajirhu <u>h</u>att<u>aa</u> yasma'a kal<u>aa</u>ma <strong>al</strong>l<u>aa</u>hi tsumma ablighhu ma/manahu <u>dzaa</u>lika bi-annahum qawmun l<u>aa</u> ya'lamuun<strong>a</strong>",
         "idn": "Dan jika di antara kaum musyrikin ada yang meminta perlindungan kepadamu, maka lindungilah agar dia dapat mendengar firman Allah, kemudian antarkanlah dia ke tempat yang aman baginya. (Demikian) itu karena sesungguhnya mereka kaum yang tidak mengetahui.",
         "signCode": "وإن أحد من المشركين استجارك فأجره حتى يسمع كلم الله ثم أبلغه مأمنه ذلك بأنهم قوم لا يعلمون"
@@ -477,7 +477,7 @@
         "id": 1251,
         "surah": 9,
         "nomor": 16,
-        "ar": "اَمْ حَسِبْتُمْ اَنْ تُتْرَكُوْا وَلَمَّا يَعْلَمِ اللّٰهُ الَّذِيْنَ جَاهَدُوْا مِنْكُمْ وَلَمْ يَتَّخِذُوْا مِنْ دُوْنِ اللّٰهِ وَلَا رَسُوْلِهٖ وَلَا الْمُؤْمِنِيْنَ وَلِيْجَةً ۗوَاللّٰهُ خَبِيْرٌۢ بِمَا تَعْمَلُوْنَ ࣖ",
+        "ar": "اَمْ حَسِبْتُمْ اَنْ تُتْرَكُوْا وَلَمَّا يَعْلَمِ اللّٰهُ الَّذِيْنَ جَاهَدُوْا مِنْكُمْ وَلَمْ يَتَّخِذُوْا مِنْ دُوْنِ اللّٰهِ وَلَا رَسُوْلِهٖ وَلَا الْمُؤْمِنِيْنَ وَلِيْجَةً ۗوَاللّٰهُ خَبِيْرٌۢ بِمَا تَعْمَلُوْنَ",
         "tr": "am <u>h</u>asibtum an tutrakuu walamm<u>aa</u> ya'lami <strong>al</strong>l<u>aa</u>hu <strong>al</strong>la<u>dz</u>iina j<u>aa</u>haduu minkum walam yattakhi<u>dz</u>uu min duuni <strong>al</strong>l<u>aa</u>hi wal<u>aa</u> rasuulihi wal<u>aa</u> <strong>a</strong>lmu/miniina waliijatan wa<strong>al</strong>l<u>aa</u>hu khabiirun bim<u>aa</u> ta'maluun<strong>a</strong>",
         "idn": "Apakah kamu mengira bahwa kamu akan dibiarkan (begitu saja), padahal Allah belum mengetahui orang-orang yang berjihad di antara kamu dan tidak mengambil teman yang setia selain Allah, Rasul-Nya dan orang-orang yang beriman. Allah Mahateliti terhadap apa yang kamu kerjakan.",
         "signCode": "أم حسبتم أن تتركوا ولما يعلم الله الذين جهدوا منكم ولم يتخذوا من دون الله ولا رسوله ولا المؤمنين وليجة والله خبير بما تعملون"
@@ -711,7 +711,7 @@
         "id": 1277,
         "surah": 9,
         "nomor": 42,
-        "ar": "لَوْ كَانَ عَرَضًا قَرِيْبًا وَّسَفَرًا قَاصِدًا لَّاتَّبَعُوْكَ وَلٰكِنْۢ بَعُدَتْ عَلَيْهِمُ الشُّقَّةُۗ وَسَيَحْلِفُوْنَ بِاللّٰهِ لَوِ اسْتَطَعْنَا لَخَرَجْنَا مَعَكُمْۚ يُهْلِكُوْنَ اَنْفُسَهُمْۚ وَاللّٰهُ يَعْلَمُ اِنَّهُمْ لَكٰذِبُوْنَ ࣖ ",
+        "ar": "لَوْ كَانَ عَرَضًا قَرِيْبًا وَّسَفَرًا قَاصِدًا لَّاتَّبَعُوْكَ وَلٰكِنْۢ بَعُدَتْ عَلَيْهِمُ الشُّقَّةُۗ وَسَيَحْلِفُوْنَ بِاللّٰهِ لَوِ اسْتَطَعْنَا لَخَرَجْنَا مَعَكُمْۚ يُهْلِكُوْنَ اَنْفُسَهُمْۚ وَاللّٰهُ يَعْلَمُ اِنَّهُمْ لَكٰذِبُوْنَ ",
         "tr": "law k<u>aa</u>na 'ara<u>dh</u>an qariiban wasafaran q<u>aas</u>idan la<strong>i</strong>ttaba'uuka wal<u>aa</u>kin ba'udat 'alayhimu <strong>al</strong>sysyuqqatu wasaya<u>h</u>lifuuna bi<strong>al</strong>l<u>aa</u>hi lawi ista<u>th</u>a'n<u>aa</u> lakharajn<u>aa</u> ma'akum yuhlikuuna anfusahum wa<strong>al</strong>l<u>aa</u>hu ya'lamu innahum lak<u>aadz</u>ibuun<strong>a</strong>",
         "idn": "Sekiranya (yang kamu serukan kepada mereka) ada keuntungan yang mudah diperoleh dan perjalanan yang tidak seberapa jauh, niscaya mereka mengikutimu, tetapi tempat yang dituju itu terasa sangat jauh bagi mereka. Mereka akan bersumpah dengan (nama) Allah, “Jikalau kami sanggup niscaya kami berangkat bersamamu.” Mereka membinasakan diri sendiri dan Allah mengetahui bahwa mereka benar-benar orang-orang yang berdusta.",
         "signCode": "لو كان عرضا قريبا وسفرا قاصدا لاتبعوك ولكن بعدت عليهم الشقة وسيحلفون بالله لو استطعنا لخرجنا معكم يهلكون أنفسهم والله يعلم إنهم لكذبون"
@@ -864,7 +864,7 @@
         "id": 1294,
         "surah": 9,
         "nomor": 59,
-        "ar": "وَلَوْ اَنَّهُمْ رَضُوْا مَآ اٰتٰىهُمُ اللّٰهُ وَرَسُوْلُهٗۙ وَقَالُوْا حَسْبُنَا اللّٰهُ سَيُؤْتِيْنَا اللّٰهُ مِنْ فَضْلِهٖ وَرَسُوْلُهٗٓ اِنَّآ اِلَى اللّٰهِ رَاغِبُوْنَ ࣖ ",
+        "ar": "وَلَوْ اَنَّهُمْ رَضُوْا مَآ اٰتٰىهُمُ اللّٰهُ وَرَسُوْلُهٗۙ وَقَالُوْا حَسْبُنَا اللّٰهُ سَيُؤْتِيْنَا اللّٰهُ مِنْ فَضْلِهٖ وَرَسُوْلُهٗٓ اِنَّآ اِلَى اللّٰهِ رَاغِبُوْنَ ",
         "tr": "walaw annahum ra<u>dh</u>uu m<u>aa</u> <u>aa</u>t<u>aa</u>humu <strong>al</strong>l<u>aa</u>hu warasuuluhu waq<u>aa</u>luu <u>h</u>asbun<u>aa</u> <strong>al</strong>l<u>aa</u>hu sayu/tiin<u>aa</u> <strong>al</strong>l<u>aa</u>hu min fa<u>dh</u>lihi warasuuluhu inn<u>aa</u> il<u>aa</u> <strong>al</strong>l<u>aa</u>hi r<u>aa</u>ghibuun<strong>a</strong>",
         "idn": "Dan sekiranya mereka benar-benar rida dengan apa yang diberikan kepada mereka oleh Allah dan Rasul-Nya, dan berkata, “Cukuplah Allah bagi kami, Allah dan Rasul-Nya akan memberikan kepada kami sebagian dari karunia-Nya. Sesungguhnya kami orang-orang yang berharap kepada Allah.”",
         "signCode": "ولو أنهم رضوا ما ءاتىهم الله ورسوله وقالوا حسبنا الله سيؤتينا الله من فضله ورسوله إنا إلى الله رغبون"
@@ -927,7 +927,7 @@
         "id": 1301,
         "surah": 9,
         "nomor": 66,
-        "ar": "لَا تَعْتَذِرُوْا قَدْ كَفَرْتُمْ بَعْدَ اِيْمَانِكُمْ ۗ اِنْ نَّعْفُ عَنْ طَاۤىِٕفَةٍ مِّنْكُمْ نُعَذِّبْ طَاۤىِٕفَةً ۢ بِاَنَّهُمْ كَانُوْا مُجْرِمِيْنَ ࣖ",
+        "ar": "لَا تَعْتَذِرُوْا قَدْ كَفَرْتُمْ بَعْدَ اِيْمَانِكُمْ ۗ اِنْ نَّعْفُ عَنْ طَاۤىِٕفَةٍ مِّنْكُمْ نُعَذِّبْ طَاۤىِٕفَةً ۢ بِاَنَّهُمْ كَانُوْا مُجْرِمِيْنَ",
         "tr": "l<u>aa</u> ta'ta<u>dz</u>iruu qad kafartum ba'da iim<u>aa</u>nikum in na'fu 'an <u>th</u><u>aa</u>-ifatin minkum nu'a<u>dzdz</u>ib <u>th</u><u>aa</u>-ifatan bi-annahum k<u>aa</u>nuu mujrimiin<strong>a</strong>",
         "idn": "Tidak perlu kamu meminta maaf, karena kamu telah kafir setelah beriman. Jika Kami memaafkan sebagian dari kamu (karena telah tobat), niscaya Kami akan mengazab golongan (yang lain) karena sesungguhnya mereka adalah orang-orang yang (selalu) berbuat dosa.",
         "signCode": "لا تعتذروا قد كفرتم بعد إيمنكم إن نعف عن طائفة منكم نعذب طائفة بأنهم كانوا مجرمين"
@@ -981,7 +981,7 @@
         "id": 1307,
         "surah": 9,
         "nomor": 72,
-        "ar": "وَعَدَ اللّٰهُ الْمُؤْمِنِيْنَ وَالْمُؤْمِنٰتِ جَنّٰتٍ تَجْرِيْ مِنْ تَحْتِهَا الْاَنْهٰرُ خٰلِدِيْنَ فِيْهَا وَمَسٰكِنَ طَيِّبَةً فِيْ جَنّٰتِ عَدْنٍ ۗوَرِضْوَانٌ مِّنَ اللّٰهِ اَكْبَرُ ۗذٰلِكَ هُوَ الْفَوْزُ الْعَظِيْمُ ࣖ ",
+        "ar": "وَعَدَ اللّٰهُ الْمُؤْمِنِيْنَ وَالْمُؤْمِنٰتِ جَنّٰتٍ تَجْرِيْ مِنْ تَحْتِهَا الْاَنْهٰرُ خٰلِدِيْنَ فِيْهَا وَمَسٰكِنَ طَيِّبَةً فِيْ جَنّٰتِ عَدْنٍ ۗوَرِضْوَانٌ مِّنَ اللّٰهِ اَكْبَرُ ۗذٰلِكَ هُوَ الْفَوْزُ الْعَظِيْمُ ",
         "tr": "wa'ada <strong>al</strong>l<u>aa</u>hu <strong>a</strong>lmu/miniina wa<strong>a</strong>lmu/min<u>aa</u>ti jann<u>aa</u>tin tajrii min ta<u>h</u>tih<u>aa</u> <strong>a</strong>l-anh<u>aa</u>ru kh<u>aa</u>lidiina fiih<u>aa</u> wamas<u>aa</u>kina <u>th</u>ayyibatan fii jann<u>aa</u>ti 'adnin wari<u>dh</u>w<u>aa</u>nun mina <strong>al</strong>l<u>aa</u>hi akbaru <u>dzaa</u>lika huwa <strong>a</strong>lfawzu <strong>a</strong>l'a<u>zh</u>iim<strong>u</strong>",
         "idn": "Allah menjanjikan kepada orang-orang mukmin laki-laki dan perempuan, (akan mendapat) surga yang mengalir di bawahnya sungai-sungai, mereka kekal di dalamnya, dan (mendapat) tempat yang baik di surga ‘Adn. Dan keridaan Allah lebih besar. Itulah kemenangan yang agung.",
         "signCode": "وعد الله المؤمنين والمؤمنت جنت تجري من تحتها الأنهر خلدين فيها ومسكن طيبة في جنت عدن ورضون من الله أكبر ذلك هو الفوز العظيم"
@@ -1053,7 +1053,7 @@
         "id": 1315,
         "surah": 9,
         "nomor": 80,
-        "ar": "اِسْتَغْفِرْ لَهُمْ اَوْ لَا تَسْتَغْفِرْ لَهُمْۗ اِنْ تَسْتَغْفِرْ لَهُمْ سَبْعِيْنَ مَرَّةً فَلَنْ يَّغْفِرَ اللّٰهُ لَهُمْ ۗذٰلِكَ بِاَنَّهُمْ كَفَرُوْا بِاللّٰهِ وَرَسُوْلِهٖۗ وَاللّٰهُ لَا يَهْدِى الْقَوْمَ الْفٰسِقِيْنَ ࣖ ",
+        "ar": "اِسْتَغْفِرْ لَهُمْ اَوْ لَا تَسْتَغْفِرْ لَهُمْۗ اِنْ تَسْتَغْفِرْ لَهُمْ سَبْعِيْنَ مَرَّةً فَلَنْ يَّغْفِرَ اللّٰهُ لَهُمْ ۗذٰلِكَ بِاَنَّهُمْ كَفَرُوْا بِاللّٰهِ وَرَسُوْلِهٖۗ وَاللّٰهُ لَا يَهْدِى الْقَوْمَ الْفٰسِقِيْنَ ",
         "tr": "istaghfir lahum aw l<u>aa</u> tastaghfir lahum in tastaghfir lahum sab'iina marratan falan yaghfira <strong>al</strong>l<u>aa</u>hu lahum <u>dzaa</u>lika bi-annahum kafaruu bi<strong>al</strong>l<u>aa</u>hi warasuulihi wa<strong>al</strong>l<u>aa</u>hu l<u>aa</u> yahdii <strong>a</strong>lqawma <strong>a</strong>lf<u>aa</u>siqiin<strong>a</strong>",
         "idn": "(Sama saja) engkau (Muhammad) memohonkan ampunan bagi mereka atau tidak memohonkan ampunan bagi mereka. Walaupun engkau memohonkan ampunan bagi mereka tujuh puluh kali, Allah tidak akan memberi ampunan kepada mereka. Yang demikian itu karena mereka ingkar (kafir) kepada Allah dan Rasul-Nya. Dan Allah tidak memberi petunjuk kepada orang-orang yang fasik.",
         "signCode": "استغفر لهم أو لا تستغفر لهم إن تستغفر لهم سبعين مرة فلن يغفر الله لهم ذلك بأنهم كفروا بالله ورسوله والله لا يهدي القوم الفسقين"
@@ -1134,7 +1134,7 @@
         "id": 1324,
         "surah": 9,
         "nomor": 89,
-        "ar": "اَعَدَّ اللّٰهُ لَهُمْ جَنّٰتٍ تَجْرِيْ مِنْ تَحْتِهَا الْاَنْهٰرُ خٰلِدِيْنَ فِيْهَاۗ ذٰلِكَ الْفَوْزُ الْعَظِيْمُ ࣖ ",
+        "ar": "اَعَدَّ اللّٰهُ لَهُمْ جَنّٰتٍ تَجْرِيْ مِنْ تَحْتِهَا الْاَنْهٰرُ خٰلِدِيْنَ فِيْهَاۗ ذٰلِكَ الْفَوْزُ الْعَظِيْمُ ",
         "tr": "a'adda <strong>al</strong>l<u>aa</u>hu lahum jann<u>aa</u>tin tajrii min ta<u>h</u>tih<u>aa</u> <strong>a</strong>l-anh<u>aa</u>ru kh<u>aa</u>lidiina fiih<u>aa</u> <u>dzaa</u>lika <strong>a</strong>lfawzu <strong>a</strong>l'a<u>zh</u>iim<strong>u</strong>",
         "idn": "Allah telah menyediakan bagi mereka surga yang mengalir di bawahnya sungai-sungai, mereka kekal di dalamnya. Itulah kemenangan yang agung.",
         "signCode": "أعد الله لهم جنت تجري من تحتها الأنهر خلدين فيها ذلك الفوز العظيم"
